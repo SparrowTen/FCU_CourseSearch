@@ -1,0 +1,16 @@
+# 網址
+url: "https://coursesearch02.fcu.edu.tw"
+
+# 選項編號(非必要請勿修改)
+select_list:
+  degree: "select_32"
+  dept: "select_34"
+  unit: "select_36"
+  class: "select_38"
+
+# 選擇
+select_option:
+  degree: "select_option_28"      # 大學部
+  dept: "select_option_123"       # 資電學院
+  unit: "select_option_137"       # 資訊工程系
+  class: "select_option_150"      # 資訊二丁
