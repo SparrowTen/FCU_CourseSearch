@@ -14,3 +14,6 @@ select_option:
   dept: "select_option_123"       # 資電學院
   unit: "select_option_137"       # 資訊工程系
   class: "select_option_150"      # 資訊二丁
+
+# 儲存方式
+file: "yaml"
