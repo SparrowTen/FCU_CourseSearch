@@ -38,14 +38,13 @@ def check_status():
 def select_data():
     try:
         for select in setting['select_list']:
+            time.sleep(0.5)
             md_select = driver.find_element(By.XPATH, '//*[@id="' + setting['select_list'][select] + '"]')
-            time.sleep(0.1)
             driver.execute_script("arguments[0].click();", md_select)
-            time.sleep(0.1)
+            time.sleep(0.5)
             md_option = driver.find_element(By.XPATH, '//*[@id="' + setting['select_option'][select] + '"]')
-            time.sleep(0.1)
             driver.execute_script("arguments[0].click();", md_option)
-            time.sleep(0.1)
+        time.sleep(0.5)
         search_btn = driver.find_element(By.XPATH, '//*[@class="md-raised  md-primary md-button ng-scope"]')
         driver.execute_script("arguments[0].click();", search_btn)
         print("success")
