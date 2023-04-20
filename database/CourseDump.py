@@ -70,7 +70,7 @@ if __name__ == '__main__':
     for year in years:
         # 確認資料夾是否存在，否則建立學年度資料夾
         dir = os.path.dirname(__file__)
-        json_path = dir + "\\data\\class" + "\\{}\\".format(str(year))
+        json_path = dir + "\\data\\course" + "\\{}\\".format(str(year))
         if not os.path.exists(json_path):
             os.mkdir(json_path)
     
