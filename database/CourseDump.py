@@ -66,7 +66,7 @@ class CourseDump:
 
 if __name__ == '__main__': 
     # years = sys.argv[1].split(',')
-    years = [110, 109, 109, 108, 107, 106, 105, 104, 103, 102, 101, 100]
+    years = [111, 110, 109, 109, 108, 107, 106, 105, 104, 103, 102, 101, 100]
     for year in years:
         # 確認資料夾是否存在，否則建立學年度資料夾
         dir = os.path.dirname(__file__)
