@@ -16,7 +16,8 @@ class CourseInfo:
     
     def getUrl(self):
         self.year = self.json_file[0:3]
-        self.sms = self.json_file[5]
+        self.sms = self.json_file[3]
+        # print(self.sms)
         with open(dir + "\\data\\course\\" + self.year + "\\" + self.json_file, 'r', encoding='utf-8') as f:
             raw_data = json.loads(f.read())
         data = []
@@ -30,6 +31,7 @@ class CourseInfo:
             data_dict['cls_id'] = self.cls_id
             data_dict['url'] = url
             data.append(data_dict)
+        # print(data)
         self.saveUrl(data)
         
     def open_webdriver(self, url):
@@ -74,6 +76,7 @@ if __name__ == '__main__':
     for year in years:
         json_path = dir + "\\data\\course" + "\\{}\\".format(str(year))
         json_files = os.listdir(json_path)
+        # print(json_files)
         for json_file in json_files:
             course = CourseInfo(json_file)
             course.getUrl()
