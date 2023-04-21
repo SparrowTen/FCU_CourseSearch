@@ -2,8 +2,9 @@ import json
 import concurrent.futures
 import os
 import time
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+import requests
+from bs4 import BeautifulSoup
+from lxml import etree
 
 class PreCourse:
     def __init__(self, json_file, max_driver):
@@ -13,19 +14,17 @@ class PreCourse:
         self.dept = self.json_file[7:9]
         self.dir = os.path.dirname(__file__)
         self.max_driver = max_driver
-
-    def openDriver(self):
-        options = {
-            "browserName": "MicrosoftEdge",
-            "version": "",
-            "platform": "WINDOWS",
-            "ms:edgeOptions": {
-                "args": ["--inprivate"]
-            }
-        }
-        driver = webdriver.Edge(executable_path = self.dir + "\\webdriver\\" + 'msedgedriver.exe', capabilities=options)
-        return driver
     
+    def openUrl(self, url):
+        hearders = {
+            "Content-Type":"application/json; charset=UTF-8",
+            "user-agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3573.0 Safari/537.36",
+        }
+        
+        r = requests.get(url, headers = hearders)
+        time.sleep(5)
+        return r
+        
     def loadJson(self):
         with open(self.dir + "\\data\\url\\" + self.year + "\\" + self.json_file, 'r', encoding='utf-8') as f:
             data = json.loads(f.read())
@@ -52,18 +51,18 @@ class PreCourse:
         # print(json.dumps(dataList, indent=4, ensure_ascii=False))
     
     def getData(self, dataList):
-        driver = self.openDriver()
         for i in range(0, len(dataList)):
             data = dataList[i]
             if data == []:
                 continue
-            driver.get(data['url'])
-            time.sleep(5)
-            preCourseList = driver.find_element(By.XPATH, '/html/body/div/div[1]/div[1]/div/div[3]/div/div/div[1]/table[2]/tbody')
-            for preCourse in preCourseList.find_elements(By.XPATH, 'tr'):
-                preCourseID = preCourse.find_elements(By.XPATH, 'td').text
-                print(preCourseID)
-        driver.quit()
+            r = self.openUrl(data['url'])
+            s = BeautifulSoup(r.content, "html.parser")
+            html = etree.HTML(str(s))
+            PreCourseList = []
+            # /html/body/div/div[1]/div[1]/div/div[3]/div/div/div[1]/table[2]/tbody
+            for preCourse in html.xpath("/html/body/div/div[1]/div[1]/div/div[3]/div/div/div[1]/table[2]/tbody/"):
+                PreCourseList.append(preCourse.xpath("td/text()"))
+        print(PreCourseList)
     
     def multitip(self, dataLists):
         # 建立多個 driver
