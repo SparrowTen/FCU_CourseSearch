@@ -1,7 +1,9 @@
 import json
 import concurrent.futures
 import os
+import time
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 
 class PreCourse:
     def __init__(self, json_file, max_driver):
@@ -11,9 +13,7 @@ class PreCourse:
         self.dept = self.json_file[7:9]
         self.dir = os.path.dirname(__file__)
         self.max_driver = max_driver
-    
-    # /html/body/div/div[1]/div[1]/div/div[3]/div/div/div[1]/table[2]/tbody
-    
+
     def openDriver(self):
         options = {
             "browserName": "MicrosoftEdge",
@@ -23,7 +23,7 @@ class PreCourse:
                 "args": ["--inprivate"]
             }
         }
-        driver = webdriver.Edge(executable_path = dir + "\\webdriver\\" + './msedgedriver.exe', capabilities=options)
+        driver = webdriver.Edge(executable_path = self.dir + "\\webdriver\\" + 'msedgedriver.exe', capabilities=options)
         return driver
     
     def loadJson(self):
@@ -31,9 +31,11 @@ class PreCourse:
             data = json.loads(f.read())
         return data
     
-    def getData(self):
+    def splitData(self):
         data = self.loadJson()
-        datas = []
+        if data == []:
+            return
+        dataLists = []
         each = int(len(data) / self.max_driver)
         last = int(len(data) % self.max_driver)
         index = 0
@@ -45,19 +47,35 @@ class PreCourse:
             if last > 0:
                 last -= 1
             index += each + extra
-            datas.append(temp)
-        print(json.dumps(datas, indent=4, ensure_ascii=False))
+            dataLists.append(temp)
+        return dataLists
+        # print(json.dumps(dataList, indent=4, ensure_ascii=False))
     
-    # def multitip(self, data):
-
+    def getData(self, dataList):
+        driver = self.openDriver()
+        for i in range(0, len(dataList)):
+            data = dataList[i]
+            if data == []:
+                continue
+            driver.get(data['url'])
+            time.sleep(5)
+            preCourseList = driver.find_element(By.XPATH, '/html/body/div/div[1]/div[1]/div/div[3]/div/div/div[1]/table[2]/tbody')
+            for preCourse in preCourseList.find_elements(By.XPATH, 'tr'):
+                preCourseID = preCourse.find_elements(By.XPATH, 'td').text
+                print(preCourseID)
+        driver.quit()
     
-    #     # 建立多個 driver 
-    #     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-    #         executor.map(scrape, urls)
+    def multitip(self, dataLists):
+        # 建立多個 driver
+        # for i in range(0, self.max_driver):
+        with concurrent.futures.ThreadPoolExecutor(max_workers = self.max_driver) as executor:
+            executor.map(self.getData, dataLists)
     
 if __name__ == '__main__':
-    # dir = os.path.dirname(__file__) + "\\data\\url\\111\\"
-    file_list = "1111-1-AS.json"
+    dir = os.path.dirname(__file__) + "\\data\\url\\111\\"
+    file_list = ["1111-1-AS.json"]
     # file_list = os.listdir(dir)
-    pre = PreCourse(file_list, 10)
-    data = pre.getData()
+    for file in file_list:
+        pre = PreCourse(file, 10)
+        dataLists = pre.splitData()
+        pre.multitip(dataLists)
