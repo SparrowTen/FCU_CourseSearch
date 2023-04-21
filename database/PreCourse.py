@@ -44,12 +44,12 @@ class PreCourse:
                 temp.append(data[index + j])
             if last > 0:
                 last -= 1
-            index += j
+            index += each + extra
             datas.append(temp)
         print(json.dumps(datas, indent=4, ensure_ascii=False))
     
     # def multitip(self, data):
-        
+
     
     #     # 建立多個 driver 
     #     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
