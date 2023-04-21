@@ -23,11 +23,13 @@ class CourseInfo:
         data = []
         for i in range(len(raw_data['d']['items'])):    
             link = "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid="
+            self.scr_selcode = raw_data['d']['items'][i]['scr_selcode']
             self.cls_id = raw_data['d']['items'][i]['cls_id']
             self.sub_id = raw_data['d']['items'][i]['sub_id']
             scr_dup = raw_data['d']['items'][i]['scr_dup']
             url = link + self.year + self.sms + self.cls_id + self.sub_id + scr_dup
             data_dict = {}
+            data_dict['scr_selcode'] = self.scr_selcode
             data_dict['cls_id'] = self.cls_id
             data_dict['url'] = url
             data.append(data_dict)

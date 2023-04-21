@@ -1,45 +1,56 @@
 [
     {
+        "scr_selcode": "1434",
         "cls_id": "CE07410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CE0741011810001"
     },
     {
+        "scr_selcode": "1435",
         "cls_id": "CE07410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CE0741043130001"
     },
     {
+        "scr_selcode": "1436",
         "cls_id": "CE07410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CE0741064153001"
     },
     {
+        "scr_selcode": "3801",
         "cls_id": "CE07410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CE0741000067001"
     },
     {
+        "scr_selcode": "1437",
         "cls_id": "CE07420",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CE0742049380001"
     },
     {
+        "scr_selcode": "1436",
         "cls_id": "CI03410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0341064153001"
     },
     {
+        "scr_selcode": "2141",
         "cls_id": "CI03410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0341011810001"
     },
     {
+        "scr_selcode": "2142",
         "cls_id": "CI03410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0341043130001"
     },
     {
+        "scr_selcode": "2143",
         "cls_id": "CI03410",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0341067952001"
     },
     {
+        "scr_selcode": "2144",
         "cls_id": "CI03420",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0342049380001"
     },
     {
+        "scr_selcode": "2145",
         "cls_id": "CI03420",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1111CI0342000767001"
     }

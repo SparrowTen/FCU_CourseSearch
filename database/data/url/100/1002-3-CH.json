@@ -1,213 +1,266 @@
 [
     {
+        "scr_selcode": "3090",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431025752001"
     },
     {
+        "scr_selcode": "3091",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431006050001"
     },
     {
+        "scr_selcode": "3092",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431011731001"
     },
     {
+        "scr_selcode": "3093",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431030751001"
     },
     {
+        "scr_selcode": "3094",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431040880001"
     },
     {
+        "scr_selcode": "3095",
         "cls_id": "CS04310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0431098769001"
     },
     {
+        "scr_selcode": "3096",
         "cls_id": "CS04320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0432012140001"
     },
     {
+        "scr_selcode": "3097",
         "cls_id": "CS04320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0432020251001"
     },
     {
+        "scr_selcode": "3098",
         "cls_id": "CS04320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0432056811001"
     },
     {
+        "scr_selcode": "3102",
         "cls_id": "CS04320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0432011725001"
     },
     {
+        "scr_selcode": "3099",
         "cls_id": "CS04330",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0433061530001"
     },
     {
+        "scr_selcode": "3100",
         "cls_id": "CS0433A",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CS0433A61530001"
     },
     {
+        "scr_selcode": "2222",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731011185001"
     },
     {
+        "scr_selcode": "2223",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731043042001"
     },
     {
+        "scr_selcode": "2224",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731000835001"
     },
     {
+        "scr_selcode": "2225",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731004432001"
     },
     {
+        "scr_selcode": "2226",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731005504001"
     },
     {
+        "scr_selcode": "2227",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731011901001"
     },
     {
+        "scr_selcode": "2228",
         "cls_id": "CH07310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0731011907001"
     },
     {
+        "scr_selcode": "2229",
         "cls_id": "CH07320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0732004485001"
     },
     {
+        "scr_selcode": "2230",
         "cls_id": "CH07320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0732036434001"
     },
     {
+        "scr_selcode": "2231",
         "cls_id": "CH07320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH07320A2095001"
     },
     {
+        "scr_selcode": "2232",
         "cls_id": "CH07330",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0733061530001"
     },
     {
+        "scr_selcode": "2233",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831026203001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831006471001"
     },
     {
+        "scr_selcode": "2235",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831016672001"
     },
     {
+        "scr_selcode": "2236",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831020006001"
     },
     {
+        "scr_selcode": "2237",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831051677001"
     },
     {
+        "scr_selcode": "2238",
         "cls_id": "CH08310",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831061276001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B06471001"
     },
     {
+        "scr_selcode": "2235",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B16672001"
     },
     {
+        "scr_selcode": "2236",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B20006001"
     },
     {
+        "scr_selcode": "2239",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B26203001"
     },
     {
+        "scr_selcode": "2240",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B26203002"
     },
     {
+        "scr_selcode": "2241",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B06472001"
     },
     {
+        "scr_selcode": "2242",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B29220001"
     },
     {
+        "scr_selcode": "2243",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B59532001"
     },
     {
+        "scr_selcode": "2245",
         "cls_id": "CH0831B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831B96122001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH0831C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831C06471001"
     },
     {
+        "scr_selcode": "2244",
         "cls_id": "CH0831C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831C26203001"
     },
     {
+        "scr_selcode": "2245",
         "cls_id": "CH0831C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831C96122001"
     },
     {
+        "scr_selcode": "2246",
         "cls_id": "CH0831C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0831C96199001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH08320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832006471001"
     },
     {
+        "scr_selcode": "2247",
         "cls_id": "CH08320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832061530001"
     },
     {
+        "scr_selcode": "2248",
         "cls_id": "CH08320",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832022146001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH0832B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832B06471001"
     },
     {
+        "scr_selcode": "2245",
         "cls_id": "CH0832B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832B96122001"
     },
     {
+        "scr_selcode": "2249",
         "cls_id": "CH0832B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832B61530001"
     },
     {
+        "scr_selcode": "2250",
         "cls_id": "CH0832B",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832B13886001"
     },
     {
+        "scr_selcode": "2234",
         "cls_id": "CH0832C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832C06471001"
     },
     {
+        "scr_selcode": "2245",
         "cls_id": "CH0832C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832C96122001"
     },
     {
+        "scr_selcode": "2251",
         "cls_id": "CH0832C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832C61530001"
     },
     {
+        "scr_selcode": "2252",
         "cls_id": "CH0832C",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1002CH0832C96083001"
     }

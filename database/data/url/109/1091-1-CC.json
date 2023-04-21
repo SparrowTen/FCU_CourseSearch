@@ -1,17 +1,21 @@
 [
     {
+        "scr_selcode": "0858",
         "cls_id": "CC00100",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1091CC0010057890001"
     },
     {
+        "scr_selcode": "4010",
         "cls_id": "CC00100",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1091CC0010000222001"
     },
     {
+        "scr_selcode": "4011",
         "cls_id": "CC00100",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1091CC0010048868001"
     },
     {
+        "scr_selcode": "4012",
         "cls_id": "CC00100",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1091CC0010048868002"
     }
