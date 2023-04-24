@@ -1,13 +1,16 @@
 [
     {
+        "scr_selcode": "3039",
         "cls_id": "PC76300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1072PC7630019755001"
     },
     {
+        "scr_selcode": "3044",
         "cls_id": "PC82300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1072PC8230030502001"
     },
     {
+        "scr_selcode": "3045",
         "cls_id": "PC82300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1072PC8230043047001"
     }

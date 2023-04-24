@@ -1,13 +1,16 @@
 [
     {
+        "scr_selcode": "0788",
         "cls_id": "CC00300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1092CC0030004384001"
     },
     {
+        "scr_selcode": "0789",
         "cls_id": "CC00300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1092CC0030059448001"
     },
     {
+        "scr_selcode": "0790",
         "cls_id": "CC00300",
         "url": "https://coursesearch04.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=1092CC0030090310001"
     }
