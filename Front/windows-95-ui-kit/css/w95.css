@@ -1,10 +1,28 @@
 @font-face {
   font-family: "Windows 95";
-  src: url("../fonts/w-95-sans-serif.woff2") format("woff2"),
-    url("../fonts/w-95-sans-serif.woff") format("woff");
+  src: url("../fonts/Cubic_11_1.013_R.woff") format("woff"),
+    url("../fonts/Cubic_11_1.013_R.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
+  unicode-range: U+4E00-9FFF;
 }
+
+@font-face {
+  font-family: "Windows 95";
+  src: url("../fonts/w-95-sans-serif.woff") format("woff"),
+    url("../fonts/w-95-sans-serif.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+00-024F;
+}
+/* [lang="zh-hant"] {
+  font-family: "Windows 95";
+}
+
+[lang="zh-hans"] {
+  font-family: "PingFang SC", "Noto Sans CJK SC", "Heiti SC", "DengXian",
+    "Microsoft YaHei", Helvetica, Segoe UI, Arial, sans-serif;
+} */
 
 html,
 body {
