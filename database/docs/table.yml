@@ -1,0 +1,25 @@
+
+# 課程
+Course:
+  PRIMARY KEY:
+    - scr_selcode
+    - cls_id
+  Coulmns:
+    scr_selcode: VARCHAR(8)   # 選課代碼
+    sub_id3: VARCHAR(8)       # 課程編碼
+    sub_name: TEXT            # 課程名稱
+    scr_credit": INT          # 學分
+    scj_scr_mso": VARCHAR(2)  # 選修 / 必修
+    # scr_examid: "否"
+    # scr_examfn: "否"
+    # scr_exambf: "否"
+    # cls_name:               # 開課班級
+    scr_period: TEXT          # 上課時間 / 上課教室 / 授課教師
+    scr_precnt: INT           # 開放名額
+    scr_acptcnt: INT          # 實收名額
+    # scr_remarks:            # 備註
+    # unt_ls:       
+    cls_id: VARCHAR(8)        # 開課班級 ID
+    # sub_id:                 # 大綱編碼
+    # scr_dup:                # 大綱版本號
+  
