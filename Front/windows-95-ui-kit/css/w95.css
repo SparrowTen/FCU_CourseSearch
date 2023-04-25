@@ -15,14 +15,26 @@
   font-style: normal;
   unicode-range: U+00-024F;
 }
-/* [lang="zh-hant"] {
-  font-family: "Windows 95";
+
+div.Schedule {
+  width: 400vw;
+  padding-top: 10vh;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  z-index: 300;
 }
 
-[lang="zh-hans"] {
-  font-family: "PingFang SC", "Noto Sans CJK SC", "Heiti SC", "DengXian",
-    "Microsoft YaHei", Helvetica, Segoe UI, Arial, sans-serif;
-} */
+.Schedule_table th,
+tr,
+td {
+  border: 2px solid black;
+  padding: 1vh 2vw;
+}
 
 html,
 body {

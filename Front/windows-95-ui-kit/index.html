@@ -119,6 +119,157 @@
   </head>
 
   <body class="d-flex flex-column min-vh-100">
+    <div class="col-12 col-lg-6 mb-lg-0 Schedule">
+      <div class="card card-tertiary">
+        <div class="card-header">
+          <span class="icon icon-xs w95-folder"></span>
+          <span class="ml-4">Default Tertiary Card Header Title</span>
+        </div>
+        <div
+          class="card-body"
+          style="
+            justify-content: center;
+            align-items: center;
+            margin-right: 0px;
+          "
+        >
+          <table
+            class="Schedule_table"
+            style="display: flex; align-items: center; justify-content: center"
+          >
+            <tr>
+              <th>&nbsp;</th>
+              <th>Mon</th>
+              <th>Tue</th>
+              <th>Wed</th>
+              <th>Thu</th>
+              <th>Fri</th>
+            </tr>
+            <tr>
+              <th>1</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>2</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>3</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>4</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>5</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>6</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>7</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>8</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>9</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>10</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>11</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>12</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>13</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <th>14</th>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+
+          <div class="d-flex mt-3">
+            <button
+              class="btn btn-sm mr-2 btn-primary border-dark closeschedule"
+              type="button"
+            >
+              <span class="btn-text">Close</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
     <main
       class="container-fluid bg-secondary h-100"
       style="
@@ -226,17 +377,6 @@
       id="offcanvasBottom"
       aria-labelledby="offcanvasBottomLabel"
     >
-      <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasBottomLabel">
-          显示在底部导航栏
-        </h5>
-        <button
-          type="button"
-          class="btn-close text-reset"
-          data-bs-dismiss="offcanvas"
-          aria-label="Close"
-        ></button>
-      </div>
       <div class="offcanvas-body small">...</div>
     </div>
     <footer class="bg-info text-center text-lg-start fixed-bottom">
@@ -262,15 +402,15 @@
                 <span class="nav-link-inner-text">Register</span>
               </a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item buttonschedule">
               <a
-                class="nav-link"
+                class="nav-link buttonschedule"
                 role="button"
                 data-bs-toggle="offcanvas"
                 data-bs-target="#offcanvasBottom"
                 aria-controls="offcanvasBottom"
               >
-                <span class="nav-link-inner-text">Schedule</span>
+                <span class="nav-link-inner-text buttonschedule">Schedule</span>
               </a>
             </li>
           </ul>
