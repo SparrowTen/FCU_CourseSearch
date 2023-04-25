@@ -1,0 +1,76 @@
+{
+    "d": [
+        {
+            "seq": 1,
+            "target": "理解機器人的軟、硬體基本知識。",
+            "target_en": "Understand the basic knowledge of the robot's software and hardware.",
+            "strgys": [
+                {
+                    "id": "01",
+                    "name": "課堂授課",
+                    "ename": "Classroom instruction"
+                }
+            ],
+            "evalbs": [
+                {
+                    "id": "A4",
+                    "name": "學生課程學習回饋(課程目標達成情形評估)",
+                    "ename": "Course Learning Outcome Student Feedback (Course Objectives attainment)"
+                },
+                {
+                    "id": "D4",
+                    "name": "作業",
+                    "ename": "Homework"
+                }
+            ]
+        },
+        {
+            "seq": 2,
+            "target": "基礎機器人實作。",
+            "target_en": "Basic robot implementation.",
+            "strgys": [
+                {
+                    "id": "04",
+                    "name": "專題討論",
+                    "ename": "Seminar"
+                }
+            ],
+            "evalbs": [
+                {
+                    "id": "D5",
+                    "name": "期末專題",
+                    "ename": "Final presentation"
+                },
+                {
+                    "id": "I3",
+                    "name": "實務演練(課堂)",
+                    "ename": "Practical test"
+                }
+            ]
+        },
+        {
+            "seq": 3,
+            "target": "跨領域整合經驗。",
+            "target_en": "Cross-domain integration experience.",
+            "strgys": [
+                {
+                    "id": "04",
+                    "name": "專題討論",
+                    "ename": "Seminar"
+                }
+            ],
+            "evalbs": [
+                {
+                    "id": "D5",
+                    "name": "期末專題",
+                    "ename": "Final presentation"
+                },
+                {
+                    "id": "I3",
+                    "name": "實務演練(課堂)",
+                    "ename": "Practical test"
+                }
+            ]
+        }
+    ]
+}

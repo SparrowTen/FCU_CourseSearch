@@ -1,0 +1,22 @@
+{
+    "d": [
+        {
+            "seq_no": 1,
+            "soft_name": "Raspberry Pi",
+            "soft_name_en": " ",
+            "soft_version": " ",
+            "soft_version_en": " ",
+            "soft_memo": " ",
+            "soft_memo_en": " "
+        },
+        {
+            "seq_no": 2,
+            "soft_name": "Arduino",
+            "soft_name_en": " ",
+            "soft_version": " ",
+            "soft_version_en": " ",
+            "soft_memo": " ",
+            "soft_memo_en": " "
+        }
+    ]
+}

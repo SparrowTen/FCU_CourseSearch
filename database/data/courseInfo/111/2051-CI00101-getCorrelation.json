@@ -1,0 +1,3 @@
+{
+    "d": "[\r\n  {\r\n    \"describe_ch\": \"理解機器人的軟、硬體基本知識。\",\r\n    \"describe_en\": \"Understand the basic knowledge of the robot's software and hardware.\",\r\n    \"seq\": 1,\r\n    \"levels\": \"A1 \"\r\n  },\r\n  {\r\n    \"describe_ch\": \"基礎機器人實作。\",\r\n    \"describe_en\": \"Basic robot implementation.\",\r\n    \"seq\": 2,\r\n    \"levels\": \"B3 \"\r\n  },\r\n  {\r\n    \"describe_ch\": \"跨領域整合經驗。\",\r\n    \"describe_en\": \"Cross-domain integration experience.\",\r\n    \"seq\": 3,\r\n    \"levels\": \"F5 \"\r\n  }\r\n]"
+}
