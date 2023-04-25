@@ -121,7 +121,12 @@
   <body class="d-flex flex-column min-vh-100">
     <main
       class="container-fluid bg-secondary h-100"
-      style="display: flex; justify-content: center; align-items: center"
+      style="
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+      "
     >
       <div class="col-12 col-lg-8 mb-4 mb-lg-0">
         <div class="card card-tertiary">
@@ -215,6 +220,25 @@
         </div>
       </div>
     </main>
+    <div
+      class="offcanvas offcanvas-bottom"
+      tabindex="-1"
+      id="offcanvasBottom"
+      aria-labelledby="offcanvasBottomLabel"
+    >
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasBottomLabel">
+          显示在底部导航栏
+        </h5>
+        <button
+          type="button"
+          class="btn-close text-reset"
+          data-bs-dismiss="offcanvas"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="offcanvas-body small">...</div>
+    </div>
     <footer class="bg-info text-center text-lg-start fixed-bottom">
       <!-- Grid container -->
       <!-- Grid container -->
@@ -232,9 +256,21 @@
                 <span class="nav-link-inner-text">Login</span>
               </a>
             </li>
+
             <li class="nav-item">
               <a href="register.html" class="nav-link" role="button">
                 <span class="nav-link-inner-text">Register</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                role="button"
+                data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasBottom"
+                aria-controls="offcanvasBottom"
+              >
+                <span class="nav-link-inner-text">Schedule</span>
               </a>
             </li>
           </ul>
