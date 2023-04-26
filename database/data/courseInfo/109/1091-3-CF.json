@@ -1,0 +1,106 @@
+[
+    {
+        "scr_selcode": "3785",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "瞭解財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3787",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "機率分配、假設檢定、區間估計、相關與迴歸",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3805",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "經濟學原理如供需法則、消費者行為、廠商行為與市場結構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0408",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0409",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險原理與學說",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1951",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100B",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "要了解財務，一定要先了解會計基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1954",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA630",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "財務管理理論及分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1956",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU671",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

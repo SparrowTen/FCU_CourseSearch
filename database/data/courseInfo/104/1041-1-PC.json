@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3432",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD212",
+                "sub_name": "法文(二)",
+                "sub_ename": "FRENCH(2)",
+                "pre_describe": "Basic language skills for French (weather ; time of day ordering & discussing food)",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

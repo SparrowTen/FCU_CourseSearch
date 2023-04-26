@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "2608",
+        "cls_id": "NM06120",
+        "PreCourse": [
+            {
+                "pre_subid3": "ISTM247",
+                "sub_name": "電路分析",
+                "sub_ename": "CIRCUIT ANALYSIS",
+                "pre_describe": "修習電路的結構與分析技巧，對本課程有幫助。(可與本課程同時修習)",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

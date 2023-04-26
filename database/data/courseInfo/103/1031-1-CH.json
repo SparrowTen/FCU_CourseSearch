@@ -1,0 +1,184 @@
+[
+    {
+        "scr_selcode": "2317",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2317",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2340",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2341",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2342",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2343",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2344",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2340",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2341",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2342",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2343",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2344",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2354",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL031",
+                "sub_name": "第二外語（三）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (3) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2354",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL031",
+                "sub_name": "第二外語（三）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (3) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

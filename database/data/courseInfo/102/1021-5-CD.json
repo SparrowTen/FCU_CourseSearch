@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "0994",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM112",
+                "sub_name": "力學原理",
+                "sub_ename": "THEORY OF MECHANICS",
+                "pre_describe": "力學、平衡、形心、慣性矩",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0996",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM110",
+                "sub_name": "營管及物管概論",
+                "sub_ename": "INTRODUCTION TO CONSTRUCTION-PROPERTY MANAGEMENT",
+                "pre_describe": "營建管理及物業管理之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1002",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM111",
+                "sub_name": "管理數學",
+                "sub_ename": "MANAGERIAL MATHEMATICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1003",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "主軸應力、彎矩圖、剪力圖及撓度之計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1006",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "以規劃、組織、領導、控制及執行之管理內涵為基礎知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1010",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、土壤中有效應力的計算、剪力強度的計算、沉陷量的計算",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "scr_selcode": "0967",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0970",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0971",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0967",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0969",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE417",
+                "sub_name": "施工規劃及估價學",
+                "sub_ename": "CONSTRUCTION PLANNING AND COST ESTIMATES",
+                "pre_describe": "施工方法與估價程序",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0970",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0971",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0974",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE613",
+                "sub_name": "高等土壤動力學",
+                "sub_ename": "ADVANCED SOIL DYNAMICS",
+                "pre_describe": "土壤現場與室內試驗、土壤動力性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0976",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE278",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "材料在負載下的物理特性，內力與變形之基本觀念，軸向應力、剪應力、撓曲應力、及挫屈應力等定義與計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0977",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE272",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "熟悉土木基本材料",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1055",
+        "cls_id": "CE02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY214",
+                "sub_name": "水文學",
+                "sub_ename": "HYDROLOGY",
+                "pre_describe": "水文現象、降雨逕流演算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1056",
+        "cls_id": "CE02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY214",
+                "sub_name": "水文學",
+                "sub_ename": "HYDROLOGY",
+                "pre_describe": "已具有基本的水文循環概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1057",
+        "cls_id": "CE02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY310",
+                "sub_name": "明渠水力學",
+                "sub_ename": "OPEN CHANNEL HYDRAULICS",
+                "pre_describe": "水力學概論、分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2610",
+        "cls_id": "CM02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ttem300",
+                "sub_name": "交通工程(一)",
+                "sub_ename": "TRAFFIC ENGINEERING(1)",
+                "pre_describe": "提供各種交通問題解決能力之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2612",
+        "cls_id": "CM02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101B",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計資料的基本分配及其抽樣特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2612",
+        "cls_id": "CM0231A",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101B",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計資料的基本分配及其抽樣特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2621",
+        "cls_id": "CM02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM300",
+                "sub_name": "交通工程(一)",
+                "sub_ename": "TRAFFIC ENGINEERING(1)",
+                "pre_describe": "流量、密度、與速率三者的關係",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1738",
+        "cls_id": "CE10310",
+        "PreCourse": [
+            {
+                "pre_subid3": "UPSI622",
+                "sub_name": "多元複合議題的城鄉發展規劃",
+                "sub_ename": "MULTIDISCIPLINARY AND COMPLEX ISSUES ON PLANNING URBAN-RURAL DEVELOPMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2709",
+        "cls_id": "CM03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND409",
+                "sub_name": "遙感探測學",
+                "sub_ename": "INSTRODUCTION TO REMOTE SENSING",
+                "pre_describe": "電磁光譜的基本原理、影像的應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2709",
+        "cls_id": "CM0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND409",
+                "sub_name": "遙感探測學",
+                "sub_ename": "INSTRODUCTION TO REMOTE SENSING",
+                "pre_describe": "電磁光譜的基本原理、影像的應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2713",
+        "cls_id": "CM0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND203",
+                "sub_name": "土地經濟學(一)",
+                "sub_ename": "LAND ECONOMICS(1)",
+                "pre_describe": "土地經濟學，財產權，區位理論，都市計畫法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2714",
+        "cls_id": "CM0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND123",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "邊際效用與成本、市場結構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0844",
+        "cls_id": "CD03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "研究討論與成果的學習、追蹤與分享",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0849",
+        "cls_id": "CD0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR682",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "研究討論與成果的學習、追蹤與分享",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0853",
+        "cls_id": "CD03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR666",
+                "sub_name": "高等統計分析",
+                "sub_ename": "DATA ANALYSIS FOR LANDSCAPE AND RECREATION MANAGEMENT",
+                "pre_describe": "統計分析之數學演算、描述統計與統計推論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0854",
+        "cls_id": "CD03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0857",
+        "cls_id": "CD0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR666",
+                "sub_name": "高等統計分析",
+                "sub_ename": "DATA ANALYSIS FOR LANDSCAPE AND RECREATION MANAGEMENT",
+                "pre_describe": "統計分析之數學演算、描述統計與統計推論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0858",
+        "cls_id": "CD0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

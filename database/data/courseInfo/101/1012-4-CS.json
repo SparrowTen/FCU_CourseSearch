@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "2971",
+        "cls_id": "CS03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE",
+                "pre_describe": "有關各種材料的晶體結構學、晶體缺陷、固化、擴散、孕核\\成長\\固化時間與樹枝狀尺寸\\冷卻曲線\\鑄造製程、材料電性、歐姆定律與電導率\\能帶理論\\本質(異質)半導體\\絕緣體及介電性質、機械性質、工程材料之成形及破裂\\破壞機制相圖、單組成相圖\\兩組成平衡相圖\\共析金屬相圖",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

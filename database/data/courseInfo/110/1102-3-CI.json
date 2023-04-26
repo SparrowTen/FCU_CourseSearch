@@ -1,0 +1,158 @@
+[
+    {
+        "scr_selcode": "1437",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1545",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1546",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本電子電路原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1547",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "能量轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3519",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學必要的原理，包括波動、重疊原理；干涉原理以及相位的觀念、光強度計算與物理光學實驗的基礎能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1549",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1550",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN601",
+                "sub_name": "光電子學",
+                "sub_ename": "FUNDAMENTAL OF PHOTONICS",
+                "pre_describe": "光的基本原理，包含光傳播特性、光調制器及光檢測器之概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3491",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3492",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN617",
+                "sub_name": "電磁封裝",
+                "sub_ename": "ELECTROMAGNETIC PACKAGING",
+                "pre_describe": "基本的傳輸線理論、數位及微波電路之分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1973",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "系統架構/分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2009",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "BMIE621",
+                "sub_name": "微創手術科技實務",
+                "sub_ename": "ADVANCED TECHNOLOGY AND PRACTICE OF MINIMALLY INVASIVE SURGERY",
+                "pre_describe": "結合臨床實務，並輔以先進微創科技應用的範例",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2012",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO677",
+                "sub_name": "醫學儀表與量測",
+                "sub_ename": "MEDICAL INSTRUMENTATIONS AND MEASUREMENT",
+                "pre_describe": "醫學儀表與量測的原理及基本知識",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "1565",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "11430",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "熟悉元件特性進而了解元件發生可靠度問題之物理機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1689",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

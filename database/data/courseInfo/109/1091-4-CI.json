@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "1605",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "11430",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "熟悉元件特性進而了解元件發生可靠度問題之物理機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1684",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1685",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1686",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN676",
+                "sub_name": "眼用光學",
+                "sub_ename": "VISUAL OPTICS",
+                "pre_describe": "幾何光學、軟體操作基本技巧、規格解讀",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

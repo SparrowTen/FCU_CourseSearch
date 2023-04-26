@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "1822",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1823",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1834",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1835",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1901",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1901",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

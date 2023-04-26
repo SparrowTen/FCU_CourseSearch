@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0948",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CCD685",
+                "sub_name": "英文書報討論(一)",
+                "sub_ename": "REVIEW ON TECHNICAL WRITINGS(1)",
+                "pre_describe": "如何從關鍵字句閱讀科技論文、如何標示出文章之綱要重點及結構，以提升學生之英文科技論文閱讀能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0953",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤現場與室內試驗",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

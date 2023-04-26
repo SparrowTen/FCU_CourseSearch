@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "1697",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1698",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE301",
+                "sub_name": "物理化學",
+                "sub_ename": "PHYSICAL CHEMISTRY",
+                "pre_describe": "依數性質概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1700",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1307",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "流體力學分析基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1318",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "超音波之基本科學原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2008",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學基本觀念及流體靜力學",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "scr_selcode": "3241",
+        "cls_id": "PC07100",
+        "PreCourse": [
+            {
+                "pre_subid3": "UPSI110",
+                "sub_name": "空間資訊概論",
+                "sub_ename": "INTRODUCTION TO SPATIAL INFORMATION",
+                "pre_describe": "地理資訊系統之基礎理論與操作方式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3254",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3255",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3256",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3257",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3305",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3306",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3307",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3309",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3314",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD112",
+                "sub_name": "法文(一)",
+                "sub_ename": "FRENCH(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3315",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD112",
+                "sub_name": "法文(一)",
+                "sub_ename": "FRENCH(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3316",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD312",
+                "sub_name": "法文(三)",
+                "sub_ename": "FRENCH(3)",
+                "pre_describe": "Basic language skills for French (weather ; time of day ordering & discussing food; clothing & colors)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3317",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3318",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3319",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3320",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD322",
+                "sub_name": "德文(三)",
+                "sub_ename": "GERMAN(3)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

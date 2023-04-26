@@ -1,0 +1,158 @@
+[
+    {
+        "scr_selcode": "2973",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH211",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "基本的機率理論、隨機變數、分配函數、密度與質量函數等基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2974",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH111",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量空間",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4248",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH201",
+                "sub_name": "高等微積分(一)",
+                "sub_ename": "ADVANCED CALCULUS(1)",
+                "pre_describe": "黎曼積分、函數序列收斂性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2976",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH331",
+                "sub_name": "演算法分析",
+                "sub_ename": "ALGORITHM ANALYSIS",
+                "pre_describe": "程式的設計過程，資料結構，複雜度，演算法分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2977",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學的基本概念與方法的進階分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3058",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3145",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3289",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3291",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3292",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS201",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁波",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3296",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT349",
+                "sub_name": "光學鍍膜概論",
+                "sub_ename": "INTRODUCTION TO OPTICAL COATING",
+                "pre_describe": "光學薄膜之基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3297",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "光傳播性質1",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

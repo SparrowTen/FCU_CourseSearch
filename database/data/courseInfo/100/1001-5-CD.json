@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "1048",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM111",
+                "sub_name": "管理數學",
+                "sub_ename": "MANAGERIAL MATHEMATICS",
+                "pre_describe": "基礎數學概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1057",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM111",
+                "sub_name": "管理數學",
+                "sub_ename": "MANAGERIAL MATHEMATICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1058",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "主軸應力、彎矩圖、剪力圖及撓度之計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1064",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、土壤中有效應力的計算、剪力強度的計算、沉陷量的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1069",
+        "cls_id": "CD06540",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM325",
+                "sub_name": "鋼筋混凝土",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "材料的強度控制，應用材料特性，剪應力與力矩觀念來使用不同工法，使工程施工更安全更簡易。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

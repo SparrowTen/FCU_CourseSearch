@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "0939",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CCD685",
+                "sub_name": "英文書報討論(一)",
+                "sub_ename": "REVIEW ON TECHNICAL WRITINGS(1)",
+                "pre_describe": "如何從關鍵字句閱讀科技論文、如何標示出文章之綱要重點及結構，以提升學生之英文科技論文閱讀能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0944",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE613",
+                "sub_name": "高等土壤動力學",
+                "sub_ename": "ADVANCED SOIL DYNAMICS",
+                "pre_describe": "土壤現場與室內試驗、土壤動力性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0946",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE272",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "熟悉土木基本材料",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3839",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

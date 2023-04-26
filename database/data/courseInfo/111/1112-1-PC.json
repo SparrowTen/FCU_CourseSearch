@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3579",
+        "cls_id": "PC88100",
+        "PreCourse": [
+            {
+                "pre_subid3": "HSS2601",
+                "sub_name": "故事閱讀與創作",
+                "sub_ename": "STORY: READING & WRITING",
+                "pre_describe": "透過閱讀領略文字表達技巧，並從他人故事回到個人日常，學習實用切身的書寫。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

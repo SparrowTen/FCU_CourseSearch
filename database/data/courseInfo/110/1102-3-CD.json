@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0913",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CCD685",
+                "sub_name": "英文書報討論(一)",
+                "sub_ename": "REVIEW ON TECHNICAL WRITINGS(1)",
+                "pre_describe": "如何從關鍵字句閱讀科技論文、如何標示出文章之綱要重點及結構，以提升學生之英文科技論文閱讀能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0916",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

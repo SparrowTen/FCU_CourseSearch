@@ -1,0 +1,119 @@
+[
+    {
+        "scr_selcode": "0835",
+        "cls_id": "CD01530",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH223",
+                "sub_name": "設計方法",
+                "sub_ename": "DESIGN METHODOLOGY",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0863",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM105",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "電腦基本概念與操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0865",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM112",
+                "sub_name": "力學原理",
+                "sub_ename": "THEORY OF MECHANICS",
+                "pre_describe": "向量、力學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0866",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE113",
+                "sub_name": "土木工程概論",
+                "sub_ename": "INTRODUCTION TO CIVIL ENGINEERING",
+                "pre_describe": "學生須先行了解土木工程(如結構工程、大地工程及營建工程與管理等)之內涵及土木工程常見的問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0873",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM290",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0874",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE115",
+                "sub_name": "應用工程學",
+                "sub_ename": "APPLIED ENGINEERING",
+                "pre_describe": "結構力分佈、應力與應變關係、變位等概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0879",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM218",
+                "sub_name": "物業管理法規",
+                "sub_ename": "PROPERTY MANAGEMENT REGULATIONS",
+                "pre_describe": "不動產物業管理法制及原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0881",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM290",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4166",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM208",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "材料在負載下的物理特性，內力與變形之基本觀念，軸向應力、剪應力、撓曲應力、及挫屈應力等定義與計算。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

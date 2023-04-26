@@ -1,0 +1,41 @@
+[
+    {
+        "scr_selcode": "3893",
+        "cls_id": "CE05410",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME734",
+                "sub_name": "高等纖維物理學",
+                "sub_ename": "ADVANCED FIBER PHYSICS",
+                "pre_describe": "纖維材料之結構、性能和相互間關係間之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3921",
+        "cls_id": "CS02410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES603",
+                "sub_name": "地下水導論",
+                "sub_ename": "INTRODUCTION TO GROUNDWATER HYDROLOGY",
+                "pre_describe": "地下水文、水理、與地下水流之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3922",
+        "cls_id": "CS02410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

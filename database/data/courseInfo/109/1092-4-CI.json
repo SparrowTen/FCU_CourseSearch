@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "1558",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN324",
+                "sub_name": "電力電子",
+                "sub_ename": "POWER ELECTRONICS",
+                "pre_describe": "電力電子/控制之電路分析與設計等方面的基礎能力，譬如Rectifiers, DC/DC Converters, Inverters以及AC/AC Converters之電力電子系統。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "0574",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON308",
+                "sub_name": "計量經濟學",
+                "sub_ename": "ECONOMETRICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0701",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0702",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT770",
+                "sub_name": "策略理論與企業經營",
+                "sub_ename": "THEORIES AND ISSUES IN STRATEGIC MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0705",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "scr_selcode": "1761",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1935",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN301",
+                "sub_name": "電子電路學",
+                "sub_ename": "ELECTRONIC CIRCUITS",
+                "pre_describe": "基本的電路介紹與功能分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1936",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "VLSI課程之基礎知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2673",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "VLSI課程之基礎知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2692",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN308",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "半導體元件基礎知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2026",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2027",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2028",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2029",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "Maxwell's equations，電磁場理論，電機機械原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2030",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量、座標轉換、線性組合、矩陣",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2670",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2676",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "具有以相量( phasor )分析三相弦波穩態電路之知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2032",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁波傳播理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2034",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學必要的原理，包括波動、重疊原理；干涉原理以及相位的觀念、光強度計算與物理光學實驗的基礎能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2682",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學基本觀念、像差、像質評價",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2683",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2080",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學影像系統乃著重在系統測量醫學影像原理與硬體之介紹，其原理部分需有醫療儀器的原理和設計的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2082",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位信號處理",
+                "sub_ename": "DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "?續與?散系統之傅??轉換、快速傅??轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2678",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO615",
+                "sub_name": "控制系統設計與實務",
+                "sub_ename": "CONTROL SYSTEM DESIGN AND PRACTICE",
+                "pre_describe": "控制系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4261",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200S",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "主要為矩陣運算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2088",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO400",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "生醫信號在系統測量醫學生理信號原理與硬體之介紹，此部分原理需有醫學量測及儀表的原理和基本知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2627",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2629",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "電場、磁場、電容效應、電阻效應、電感效應、傳輸線的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2630",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2632",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "基本數位通訊系統架構以及知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2674",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "瞭解電場、電力線、介電材料及電容、磁場、磁力線、鐵磁材料\r\n及電感等知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2679",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO305",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "機率分布與相關性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2635",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統分析、設計、及其性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2028",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2080",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學影像系統乃著重在系統測量醫學影像原理與硬體之介紹，其原理部分需有醫療儀器的原理和設計的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2670",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2676",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "具有以相量( phasor )分析三相弦波穩態電路之知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2674",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "瞭解電場、電力線、介電材料及電容、磁場、磁力線、鐵磁材料\r\n及電感等知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2676",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "具有以相量( phasor )分析三相弦波穩態電路之知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2678",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO615",
+                "sub_name": "控制系統設計與實務",
+                "sub_ename": "CONTROL SYSTEM DESIGN AND PRACTICE",
+                "pre_describe": "控制系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2679",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO305",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "機率分布與相關性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2682",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學基本觀念、像差、像質評價",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2683",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2692",
+        "cls_id": "CI0632E",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN308",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "半導體元件基礎知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1935",
+        "cls_id": "CI0831F",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN301",
+                "sub_name": "電子電路學",
+                "sub_ename": "ELECTRONIC CIRCUITS",
+                "pre_describe": "基本的電路介紹與功能分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2082",
+        "cls_id": "CI0831I",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位信號處理",
+                "sub_ename": "DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "?續與?散系統之傅??轉換、快速傅??轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2629",
+        "cls_id": "CI0831K",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "電場、磁場、電容效應、電阻效應、電感效應、傳輸線的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2630",
+        "cls_id": "CI0831K",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2632",
+        "cls_id": "CI0831K",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "基本數位通訊系統架構以及知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2635",
+        "cls_id": "CI0832J",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統分析、設計、及其性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0596",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH201",
+                "sub_name": "線性代數(二)",
+                "sub_ename": "LINEAR ALGEBRA(2)",
+                "pre_describe": "矩陣運算與數值分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2080",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學影像系統乃著重在系統測量醫學影像原理與硬體之介紹，其原理部分需有醫療儀器的原理和設計的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0599",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT267",
+                "sub_name": "線性代數(二)",
+                "sub_ename": "LINEAR ALGEBRA(2)",
+                "pre_describe": "矩陣運算與數值分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2088",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO400",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "生醫信號在系統測量醫學生理信號原理與硬體之介紹，此部分原理需有醫學量測及儀表的原理和基本知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2707",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS646",
+                "sub_name": "生物資訊學",
+                "sub_ename": "BIOINFORMATICS",
+                "pre_describe": "藉由整合生物資訊學的研究方法使同學更進一步了解並學習如何廣域性的分析生物體各個子系統所面對的問題",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

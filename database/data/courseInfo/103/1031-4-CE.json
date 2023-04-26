@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "1793",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1797",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1798",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE791",
+                "sub_name": "專題討論",
+                "sub_ename": "SEMINAR",
+                "pre_describe": "專題討論（一）之化學工程相關研究之研究方向、研究內容及其之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1396",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1417",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2074",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2973",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH211",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "基本的機率理論、隨機變數、分配函數、密度與質量函數等基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

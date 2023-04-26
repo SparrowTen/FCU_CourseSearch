@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0602",
+        "cls_id": "CB14541",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "講述保險經營之基本概念與原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0602",
+        "cls_id": "CB14542",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "講述保險經營之基本概念與原則",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

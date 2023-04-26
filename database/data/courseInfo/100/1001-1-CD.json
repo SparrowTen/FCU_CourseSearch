@@ -1,0 +1,1497 @@
+[
+    {
+        "scr_selcode": "1118",
+        "cls_id": "CE01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "各種函數的定義及其微分與積分的方法與公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1122",
+        "cls_id": "CE01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE101",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "平衡、形心、慣性矩。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1126",
+        "cls_id": "CE01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "各種函數的定義及其微分與積分的方法與公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1130",
+        "cls_id": "CE01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE101",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "平衡、形心、慣性矩。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1137",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、地下水位、剪力強度、剪力強度參數、土壤分類、壓密、應力傳播",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1138",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE370",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1139",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "主軸應力、彎矩圖、剪力圖及撓度之計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1144",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤靜態行為的認知及了解地表下有效應力與土壤沉陷量的計算方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1146",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE171",
+                "sub_name": "計算機程式－FORTRAN",
+                "sub_ename": "PROGRAMMING LANGUAGE-FORTRAN",
+                "pre_describe": "Fortran 程式設計的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1147",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "材料在負載下的物理特性，內力與變形之基本觀念，正向應力、剪應力、撓曲應力、及挫屈應力等定義與計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1152",
+        "cls_id": "CE01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "Ce271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1141",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、地下水位、剪力強度、剪力強度參數、土壤分類、壓密、應力傳播",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1142",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE370",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1143",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "主軸應力、彎矩圖、剪力圖及撓度之計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1144",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤靜態行為的認知及了解地表下有效應力與土壤沉陷量的計算方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1146",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE171",
+                "sub_name": "計算機程式－FORTRAN",
+                "sub_ename": "PROGRAMMING LANGUAGE-FORTRAN",
+                "pre_describe": "Fortran 程式設計的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1147",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "材料在負載下的物理特性，內力與變形之基本觀念，正向應力、剪應力、撓曲應力、及挫屈應力等定義與計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1152",
+        "cls_id": "CE01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "Ce271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1158",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤分類、剪力強度分析、Mohr圓繪製",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1161",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、地下水位、滲透、剪力強度、應力傳播",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1163",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE370",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "必須了解結構學中的原理、假設、定理、公式之誘導及分析結構內力之能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1164",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE171",
+                "sub_name": "測量學(二)",
+                "sub_ename": "SURVEYING(2)",
+                "pre_describe": "控制測量、地形測量之概念與技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1165",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE373",
+                "sub_name": "鋼筋混凝土",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "混凝土圓柱之分析與設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1166",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE272",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1168",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE373",
+                "sub_name": "鋼筋混凝土學",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "鋼筋混凝土設計原理及概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1170",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE371",
+                "sub_name": "結構學",
+                "sub_ename": "STRUCTURAL THEORY",
+                "pre_describe": "結構分析之各項原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1172",
+        "cls_id": "CE01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "基本的土壤力學概念、工程的考量",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1158",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤分類、剪力強度分析、Mohr圓繪製",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1161",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、地下水位、滲透、剪力強度、應力傳播",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1163",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE370",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "必須了解結構學中的原理、假設、定理、公式之誘導及分析結構內力之能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1164",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE171",
+                "sub_name": "測量學(二)",
+                "sub_ename": "SURVEYING(2)",
+                "pre_describe": "控制測量、地形測量之概念與技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1165",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE373",
+                "sub_name": "鋼筋混凝土",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "混凝土圓柱之分析與設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1166",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE272",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1168",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE373",
+                "sub_name": "鋼筋混凝土學",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "鋼筋混凝土設計原理及概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1170",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE371",
+                "sub_name": "結構學",
+                "sub_ename": "STRUCTURAL THEORY",
+                "pre_describe": "結構分析之各項原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1172",
+        "cls_id": "CE01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE376",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "基本的土壤力學概念、工程的考量",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1227",
+        "cls_id": "CE02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1230",
+        "cls_id": "CE02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "支承反力、內力、重心與熟悉梁與軸之撓曲及柱之挫曲的觀念及計算。形心、慣性矩",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1231",
+        "cls_id": "CE02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "線積分、面積分、微分方程、向量分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1233",
+        "cls_id": "CE02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "計算機的基本知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1235",
+        "cls_id": "CE02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1238",
+        "cls_id": "CE02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "支承反力、內力、重心與熟悉梁與軸之撓曲及柱之挫曲的觀念及計算。形心、慣性矩",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1239",
+        "cls_id": "CE02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "線積分、面積分、微分方程、向量分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1241",
+        "cls_id": "CE02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "計算機的基本知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1248",
+        "cls_id": "CE02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "質量、動量、能量守衡三定律",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1251",
+        "cls_id": "CE02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107B",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "質點與剛體平衡之觀念、平衡方程式之應用與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1258",
+        "cls_id": "CE02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程式的解法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1259",
+        "cls_id": "CE02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流力基本概念及Navier-Stokes方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1254",
+        "cls_id": "CE02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "質量、動量、能量守衡三定律",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1257",
+        "cls_id": "CE02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107B",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "質點與剛體平衡之觀念、平衡方程式之應用與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1258",
+        "cls_id": "CE02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程式的解法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1259",
+        "cls_id": "CE02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流力基本概念及Navier-Stokes方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1275",
+        "cls_id": "CE02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY341",
+                "sub_name": "波浪力學",
+                "sub_ename": "WAVE MECHANICS",
+                "pre_describe": "波動理論、波量能量通率、淺化折射、繞射等現象",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1276",
+        "cls_id": "CE02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY211",
+                "sub_name": "水文學(二)",
+                "sub_ename": "HYDROLOGY(2)",
+                "pre_describe": "流域管理基本定義和公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1275",
+        "cls_id": "CE02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY341",
+                "sub_name": "波浪力學",
+                "sub_ename": "WAVE MECHANICS",
+                "pre_describe": "波動理論、波量能量通率、淺化折射、繞射等現象",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1276",
+        "cls_id": "CE02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY211",
+                "sub_name": "水文學(二)",
+                "sub_ename": "HYDROLOGY(2)",
+                "pre_describe": "流域管理基本定義和公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1316",
+        "cls_id": "CE03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "應具備基礎的圖學識別能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1327",
+        "cls_id": "CE03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1324",
+        "cls_id": "CE03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "應具備基礎的圖學識別能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1327",
+        "cls_id": "CE03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1335",
+        "cls_id": "CE03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH233",
+                "sub_name": "西洋建築史",
+                "sub_ename": "A HISTORY OF WESTERN  ARCHITECTURE",
+                "pre_describe": "近代建築的發展源自於工業革命之後，在西洋建築的發展脈絡之下，人類過去的建築行為大多反映在宗教與社會活動之下，因此本課程若能對西洋建築史有基本的認識將有助於瞭解工業革命對人類近代建築發展的衝擊與影響層面",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1337",
+        "cls_id": "CE03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS103B",
+                "sub_name": "普通物理(一)",
+                "sub_ename": "GENERAL PHYSICS (1)",
+                "pre_describe": "空氣、熱、光、音等物理現象的了解及簡單的計算理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1338",
+        "cls_id": "CE03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107C",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "應用力學之基本力學原理及平衡概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1344",
+        "cls_id": "CE03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築基本原理及圖例認知",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1340",
+        "cls_id": "CE03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH233",
+                "sub_name": "西洋建築史",
+                "sub_ename": "A HISTORY OF WESTERN  ARCHITECTURE",
+                "pre_describe": "近代建築的發展源自於工業革命之後，在西洋建築的發展脈絡之下，人類過去的建築行為大多反映在宗教與社會活動之下，因此本課程若能對西洋建築史有基本的認識將有助於瞭解工業革命對人類近代建築發展的衝擊與影響層面",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1342",
+        "cls_id": "CE03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS103B",
+                "sub_name": "普通物理(一)",
+                "sub_ename": "GENERAL PHYSICS (1)",
+                "pre_describe": "空氣、熱、光、音等物理現象的了解及簡單的計算理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1343",
+        "cls_id": "CE03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107C",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "應用力學之基本力學原理及平衡概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1344",
+        "cls_id": "CE03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築基本原理及圖例認知",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1351",
+        "cls_id": "CE03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築圖學中必要繪圖技法與明晰表達平、立、剖面圖等之間的相關性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1357",
+        "cls_id": "CE03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1354",
+        "cls_id": "CE03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築圖學中必要繪圖技法與明晰表達平、立、剖面圖等之間的相關性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1357",
+        "cls_id": "CE03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1364",
+        "cls_id": "CE03151",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH301",
+                "sub_name": "建築設計(五)",
+                "sub_ename": "ARCHITECTURAL DESIGN(5)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1364",
+        "cls_id": "CE03152",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH301",
+                "sub_name": "建築設計(五)",
+                "sub_ename": "ARCHITECTURAL DESIGN(5)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2890",
+        "cls_id": "CM02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM113",
+                "sub_name": "運輸學",
+                "sub_ename": "TRANSPORTATION",
+                "pre_describe": "運輸之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2891",
+        "cls_id": "CM02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH103",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2892",
+        "cls_id": "CM02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH103",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2896",
+        "cls_id": "CM02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "個體經濟學之基本概念與模式。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2907",
+        "cls_id": "CM02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM200",
+                "sub_name": "公路工程",
+                "sub_ename": "HIGHWAY ENGINEERING",
+                "pre_describe": "公路設計及興建之基本概念及技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2900",
+        "cls_id": "CM02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM113",
+                "sub_name": "運輸學",
+                "sub_ename": "TRANSPORTATION",
+                "pre_describe": "運輸之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2901",
+        "cls_id": "CM02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH103",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2902",
+        "cls_id": "CM02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH103",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2906",
+        "cls_id": "CM02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "個體經濟學之基本概念與模式。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2907",
+        "cls_id": "CM02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM200",
+                "sub_name": "公路工程",
+                "sub_ename": "HIGHWAY ENGINEERING",
+                "pre_describe": "公路設計及興建之基本概念及技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2930",
+        "cls_id": "CM02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM113",
+                "sub_name": "運輸學",
+                "sub_ename": "TRANSPORTATION",
+                "pre_describe": "同學應具備運輸學與國際運輸的基本知識，始足以具備學習本門課程之基本能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2930",
+        "cls_id": "CM02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM113",
+                "sub_name": "運輸學",
+                "sub_ename": "TRANSPORTATION",
+                "pre_describe": "同學應具備運輸學與國際運輸的基本知識，始足以具備學習本門課程之基本能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2936",
+        "cls_id": "CM02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM216",
+                "sub_name": "國際運輸經營與管理",
+                "sub_ename": "INTERNATIONAL TRANSPORTATION MANAGEMENT",
+                "pre_describe": "國際海運經營實務基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2938",
+        "cls_id": "CM02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM302",
+                "sub_name": "物流管理",
+                "sub_ename": "LOGISTICS MANAGEMENT",
+                "pre_describe": "物流、存貨、運輸網路之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2936",
+        "cls_id": "CM02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM216",
+                "sub_name": "國際運輸經營與管理",
+                "sub_ename": "INTERNATIONAL TRANSPORTATION MANAGEMENT",
+                "pre_describe": "國際海運經營實務基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2938",
+        "cls_id": "CM02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM302",
+                "sub_name": "物流管理",
+                "sub_ename": "LOGISTICS MANAGEMENT",
+                "pre_describe": "物流、存貨、運輸網路之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2300",
+        "cls_id": "CE22120",
+        "PreCourse": [
+            {
+                "pre_subid3": "UP125",
+                "sub_name": "地理資訊系統概論",
+                "sub_ename": "INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS",
+                "pre_describe": "延續地理資訊系統概論教學內容，加強學生對基礎課程重要原理之理解，並培養其資訊操作之技能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2346",
+        "cls_id": "CE23130",
+        "PreCourse": [
+            {
+                "pre_subid3": "UP123",
+                "sub_name": "社會學",
+                "sub_ename": "SOCIOLOGY",
+                "pre_describe": "社會學理論、研究方法和名詞定義及操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2349",
+        "cls_id": "CE23130",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND201",
+                "sub_name": "土地法(一)",
+                "sub_ename": "LAND LAW(1)",
+                "pre_describe": "土地法為地政之基本法規，如能先行研習，對土地利用之較專業性課程，更容易融會貫通。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2990",
+        "cls_id": "CM03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND181",
+                "sub_name": "中華民國憲法",
+                "sub_ename": "CONSTITUTION OF THE R.O.C.",
+                "pre_describe": "不動產管理之法規絕大部分性質上屬特別行政法，而在體系上直接受憲法相關學理影響，如徵收之理論及基本權利保障理論，故在修習土地法規前，必須先行具備足夠憲法知識，方得理解行政法上相關學理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2992",
+        "cls_id": "CM03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100C",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "瞭解電腦基礎操作及相關原理，以利GIS課程中所需應用之電腦常識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2993",
+        "cls_id": "CM03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100C",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "瞭解電腦基礎操作及相關原理，以利GIS課程中所需應用之電腦常識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2994",
+        "cls_id": "CM03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100B",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "要瞭解財務，一定要先了解會計基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3012",
+        "cls_id": "CM03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND102",
+                "sub_name": "建築概論",
+                "sub_ename": "INTRODUCTION TO ARCHITECTURE",
+                "pre_describe": "對圖與空間掌握之基本能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3000",
+        "cls_id": "CM03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND181",
+                "sub_name": "中華民國憲法",
+                "sub_ename": "CONSTITUTION OF THE R.O.C.",
+                "pre_describe": "不動產管理之法規絕大部分性質上屬特別行政法，而在體系上直接受憲法相關學理影響，如徵收之理論及基本權利保障理論，故在修習土地法規前，必須先行具備足夠憲法知識，方得理解行政法上相關學理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3002",
+        "cls_id": "CM03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100C",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "瞭解電腦基礎操作及相關原理，以利GIS課程中所需應用之電腦常識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3003",
+        "cls_id": "CM03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100C",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "瞭解電腦基礎操作及相關原理，以利GIS課程中所需應用之電腦常識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3004",
+        "cls_id": "CM03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100B",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "要瞭解財務，一定要先了解會計基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3012",
+        "cls_id": "CM03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND102",
+                "sub_name": "建築概論",
+                "sub_ename": "INTRODUCTION TO ARCHITECTURE",
+                "pre_describe": "對圖與空間掌握之基本能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3014",
+        "cls_id": "CM03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON102",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3017",
+        "cls_id": "CM03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101B",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "了解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3018",
+        "cls_id": "CM03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND231",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "了解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3029",
+        "cls_id": "CM03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND235",
+                "sub_name": "測量學",
+                "sub_ename": "SURVEYING",
+                "pre_describe": "使學生熟悉與瞭解土地測量的方法及應用技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3021",
+        "cls_id": "CM03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON102",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3024",
+        "cls_id": "CM03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101B",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "了解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3025",
+        "cls_id": "CM03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND231",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "了解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3029",
+        "cls_id": "CM03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND235",
+                "sub_name": "測量學",
+                "sub_ename": "SURVEYING",
+                "pre_describe": "使學生熟悉與瞭解土地測量的方法及應用技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3033",
+        "cls_id": "CM03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND105",
+                "sub_name": "土地管理概論",
+                "sub_ename": "INTRODUCTION TO LAND MANAGEMENT",
+                "pre_describe": "瞭解土地管理概論後，並針對低年?所學的專業漸進式的赴相關單位實習並增進技能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3040",
+        "cls_id": "CM03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND201",
+                "sub_name": "土地法(一)",
+                "sub_ename": "LAND LAW(1)",
+                "pre_describe": "法規之基本母法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3037",
+        "cls_id": "CM03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND105",
+                "sub_name": "土地管理概論",
+                "sub_ename": "INTRODUCTION TO LAND MANAGEMENT",
+                "pre_describe": "瞭解土地管理概論後，並針對低年?所學的專業漸進式的赴相關單位實習並增進技能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3040",
+        "cls_id": "CM03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND201",
+                "sub_name": "土地法(一)",
+                "sub_ename": "LAND LAW(1)",
+                "pre_describe": "法規之基本母法",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

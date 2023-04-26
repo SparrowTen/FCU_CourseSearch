@@ -1,0 +1,41 @@
+[
+    {
+        "scr_selcode": "0571",
+        "cls_id": "CB07430",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT605",
+                "sub_name": "多變量分析",
+                "sub_ename": "MULTIVARIATE ANALYSIS",
+                "pre_describe": "統計資料中相依或互依關係的必要基本分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0789",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0796",
+        "cls_id": "CB16430",
+        "PreCourse": [
+            {
+                "pre_subid3": "BPHD701",
+                "sub_name": "商學博士專題研究(一)",
+                "sub_ename": "DOCTORAL RESEARCH SEMINAR (1)",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

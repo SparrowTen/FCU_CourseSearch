@@ -1,0 +1,41 @@
+[
+    {
+        "scr_selcode": "2089",
+        "cls_id": "CM01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA436",
+                "sub_name": "電子商務",
+                "sub_ename": "ELECTRONIC COMMERCE",
+                "pre_describe": "瞭解電子商務的流程與概念，有助於學習本課程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0613",
+        "cls_id": "CB15322",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW702",
+                "sub_name": "民法債篇總論(二)",
+                "sub_ename": "CIVIL LAW: GENERAL PRINCIPLES OF OBLIGATIONS(2)",
+                "pre_describe": "本課程屬進階課程，選修者應先修畢民法物權、民法債篇總論二、與民法債篇各論等基礎法學課程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0615",
+        "cls_id": "CB15322",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

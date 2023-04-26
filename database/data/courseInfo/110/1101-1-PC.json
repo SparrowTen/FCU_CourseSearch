@@ -1,0 +1,41 @@
+[
+    {
+        "scr_selcode": "2787",
+        "cls_id": "PC04100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "無異曲線、消費選擇、成本等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2789",
+        "cls_id": "PC14100",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND303",
+                "sub_name": "區域與都市計劃",
+                "sub_ename": "REGIONAL & URBAN PLANNING",
+                "pre_describe": "分析都市與區域計畫的功能、內涵、體制及其對人與都市區域環境互動課題的預防與合理管理，以提供兼生活、生產、生態，三生一體的都市及區域環境。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2804",
+        "cls_id": "PC63100",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO356",
+                "sub_name": "線性控制系統(一)",
+                "sub_ename": "LINEAR CONTROL SYSTEM(1)",
+                "pre_describe": "自動控制基本分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

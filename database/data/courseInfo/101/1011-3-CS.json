@@ -1,0 +1,145 @@
+[
+    {
+        "scr_selcode": "3081",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH211",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "基本的機率理論、隨機變數、分配函數、密度與質量函數等基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3082",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH111",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量空間",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3084",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH331",
+                "sub_name": "演算法分析",
+                "sub_ename": "ALGORITHM ANALYSIS",
+                "pre_describe": "程式的設計過程，資料結構，複雜度，演算法分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3085",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學的基本概念與方法的進階分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3166",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3254",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "了解固態晶體結構中原子的排列情況及其表示方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3259",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE",
+                "pre_describe": "有關材料之固化、晶體缺陷、擴散、孕核\\成長\\固化時間與樹枝狀尺寸\\冷卻曲線\\鑄造製程、材料電性、歐姆定律與電導率\\能帶理論\\本質(異質)半導體\\絕緣體及介電性質、機械性質、工程材料之成形及破裂\\破壞機制相圖、單組成相圖\\兩組成平衡相圖\\共析金屬相圖",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3400",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3401",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3403",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "光傳播性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3404",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS201",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁波",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

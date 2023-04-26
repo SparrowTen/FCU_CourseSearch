@@ -1,0 +1,171 @@
+[
+    {
+        "scr_selcode": "1742",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN643",
+                "sub_name": "數位矽智產設計",
+                "sub_ename": " DIGITAL SILICON INTELLECTUAL PROPETY DESIGN",
+                "pre_describe": "設計數位矽智產之能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1744",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN609",
+                "sub_name": "高等半導體元件",
+                "sub_ename": "ADVANCED SEMICONDUCTOR DEVICES",
+                "pre_describe": "建立高等半導體元件物理之必要知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1829",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1830",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1832",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "能量轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1890",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "回授控制理論之探討，包括系統暫態與穩態分析、穩定度分析以及性能與規範探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1893",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2436",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME615",
+                "sub_name": "隨機信號處理",
+                "sub_ename": "RANDOM SIGNAL PROCESSING",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2437",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1751",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN300",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "具基本半導體物理及元件操作基本概念即可",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1837",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路必要的網路定理，包括暫態分析、節點方程式建立；三相電路的相的觀念以及電壓、電流與功率計算的能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1895",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO629",
+                "sub_name": "工業自動化系統",
+                "sub_ename": "FACTORY AUTOMATION CONTROL SYSTEM",
+                "pre_describe": "機械學、電子學、電氣科學、電子計算機、控制、及軟體工程使用微電子學去控制機械裝置。使能製作出符合設計理論的物件並能控制此物件使其達到高效能的運轉條件。機電整合再進一步運用到半導體技術，電子計算機與通訊技術，機器人學，電子視覺及智慧類神經-模糊技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1897",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

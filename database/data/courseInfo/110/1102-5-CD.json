@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "0810",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM105",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "電腦基本概念與操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0812",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM104",
+                "sub_name": "工程力學導論",
+                "sub_ename": "INTRODUCTION TO ENGINEERING MECHANICS",
+                "pre_describe": "向量運算、牛頓運動定律、平衡方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0813",
+        "cls_id": "CD06510",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE113",
+                "sub_name": "土木工程概論",
+                "sub_ename": "INTRODUCTION TO CIVIL ENGINEERING",
+                "pre_describe": "學生須先行了解土木工程(如結構工程、大地工程及營建工程與管理等)之內涵及土木工程常見的問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0817",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM290",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0826",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE101",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "力的平衡、彎矩、重心與形心、摩擦力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0827",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM290",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": "必須了解工程材料中的力學、物理及化學性質，及混凝土組成材料的基本性質。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0832",
+        "cls_id": "CD06540",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM232",
+                "sub_name": "結構學",
+                "sub_ename": "STRUCTURAL THEORY",
+                "pre_describe": "結構學之概念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

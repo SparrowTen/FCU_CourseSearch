@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "2966",
+        "cls_id": "PC86300",
+        "PreCourse": [
+            {
+                "pre_subid3": "ISCH601",
+                "sub_name": "Python程式設計與統計分析",
+                "sub_ename": "PYTHON PROGRAMMING AND STATISTICAL ANALYSIS",
+                "pre_describe": "程式設計能力及 迴歸分析、分類和聚類、支持向量機、決策樹、隨機森林及數據挖掘等的技術",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "scr_selcode": "2621",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH603",
+                "sub_name": "分析通論(一)",
+                "sub_ename": "TOPICS IN ANALYSIS(1)",
+                "pre_describe": "測度、線性代數與線積分",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2625",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH678",
+                "sub_name": "專題研究(一)",
+                "sub_ename": "SPECIAL TOPICS STUDY (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2698",
+        "cls_id": "CS02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "普通化學中之化學物性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2699",
+        "cls_id": "CS02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "本課程需用到數學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2775",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "本課程之教學目標有二：其一是講授材料科學工程之基本原理，以提供具有微積分、普物、普化背景之理工大學部學生研習，其二是務求內容具羅輯順序，由淺漸深。本課程分上、下兩學期，上學期的教材均屬材料之基本性質，包含：原子鍵結、晶體結構、晶體缺陷、及擴散理論。下學期",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2899",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2901",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "傅立葉轉換之基本概念與運用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2902",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "矩陣與線性系統之基本概念與運用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2903",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2909",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT603",
+                "sub_name": "幾何光學",
+                "sub_ename": "GEOMETRICAL OPTIC",
+                "pre_describe": null,
+                "pre_describe_en": "The wavefront aberration"
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "scr_selcode": "1552",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN308",
+                "sub_name": "波動光學",
+                "sub_ename": "WAVE OPTICS",
+                "pre_describe": "光的波動性質與其特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1553",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常數、波阻抗及波導結構之特性阻抗等觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1554",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學的原理、實驗與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1555",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本電子電路原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3586",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "能量轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3587",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1558",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN324",
+                "sub_name": "電力電子",
+                "sub_ename": "POWER ELECTRONICS",
+                "pre_describe": "電力電子/控制之電路分析與設計等方面的基礎能力，譬如Rectifiers, DC/DC Converters, Inverters以及AC/AC Converters之電力電子系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3588",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "須具有電磁相關基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2074",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2075",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME609",
+                "sub_name": "微波電路分析",
+                "sub_ename": "MICROWAVE CIRCUIT ANALYSIS",
+                "pre_describe": "熟悉微波量測儀器之使用以及量測與製作時所需注意之事項",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2105",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "BMIE621",
+                "sub_name": "微創手術科技實務",
+                "sub_ename": "ADVANCED TECHNOLOGY AND PRACTICE OF MINIMALLY INVASIVE SURGERY",
+                "pre_describe": "結合臨床實務，並輔以先進微創科技應用的範例",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

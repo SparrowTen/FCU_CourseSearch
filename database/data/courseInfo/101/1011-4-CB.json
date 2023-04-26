@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "0607",
+        "cls_id": "CB07430",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT302",
+                "sub_name": "應用數理統計學",
+                "sub_ename": "APPLIED MATHEMATICAL STATISTICS",
+                "pre_describe": "基礎統計估計與檢定",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0828",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0829",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF300",
+                "sub_name": "財政學(一)",
+                "sub_ename": "PUBLIC FINANCE(1)",
+                "pre_describe": "社會福利水準評估、租稅理論、租稅制度、租稅政策、地方財政",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0830",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

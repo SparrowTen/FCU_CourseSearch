@@ -1,0 +1,236 @@
+[
+    {
+        "scr_selcode": "1478",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1536",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1537",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1538",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN308",
+                "sub_name": "波動光學",
+                "sub_ename": "WAVE OPTICS",
+                "pre_describe": "光的波動性質與其特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1540",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1541",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常數、波阻抗及波導結構之特性阻抗等觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1542",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本電子電路原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1543",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "能量轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1586",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "建立放大器濾波器電路實作基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1589",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO0201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "傅立葉級數、傅立葉轉換概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1592",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2080",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2081",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2082",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME609",
+                "sub_name": "微波電路分析",
+                "sub_ename": "MICROWAVE CIRCUIT ANALYSIS",
+                "pre_describe": "熟悉微波量測儀器之使用以及量測與製作時所需注意之事項",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2083",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1481",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN300",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "具基本半導體物理及元件操作基本概念即可",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1545",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN601",
+                "sub_name": "光電子學",
+                "sub_ename": "FUNDAMENTAL OF PHOTONICS",
+                "pre_describe": "光的基本原理，包含光傳播特性、光調制器及光檢測器之概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1546",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件\r\n\r\n",
+                "pre_describe_en": "Three-phase system, transmission line parameters,  short line, medium line, and long line models), power transformer, power system steady-state operation"
+            }
+        ]
+    }
+]

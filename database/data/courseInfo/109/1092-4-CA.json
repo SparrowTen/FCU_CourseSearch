@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "1437",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1666",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE620",
+                "sub_name": "彈性力學",
+                "sub_ename": "THEORY OF ELASTICITY",
+                "pre_describe": "The index notation, 應力與應變之關係、Navier's equation。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

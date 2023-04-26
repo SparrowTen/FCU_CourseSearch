@@ -1,0 +1,223 @@
+[
+    {
+        "scr_selcode": "3212",
+        "cls_id": "PC28100",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY112",
+                "sub_name": "水利工程與資源保育概論(一)",
+                "sub_ename": "INTRODUCTION TO  WATER  RESOURCE  ENGINEERING AND CONSERVATION(1)",
+                "pre_describe": "對於專業領域的整體性認識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3222",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3223",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3224",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3225",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3226",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3227",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD105",
+                "sub_name": "英文寫作(一)",
+                "sub_ename": "ENGLISH WRITING(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3268",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD152",
+                "sub_name": "日文閱讀(一)",
+                "sub_ename": "JAPANESE READING I",
+                "pre_describe": "或修習過日文一年之同等學力者",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3271",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3272",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3273",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD132",
+                "sub_name": "西班牙文(一)",
+                "sub_ename": "SPANISH(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3277",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD112",
+                "sub_name": "法文(一)",
+                "sub_ename": "FRENCH(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3278",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD112",
+                "sub_name": "法文(一)",
+                "sub_ename": "FRENCH(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3281",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3282",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3283",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD122",
+                "sub_name": "德文(一)",
+                "sub_ename": "GERMAN(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3290",
+        "cls_id": "PC45100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA451",
+                "sub_name": "國外市場開發與管理",
+                "sub_ename": "FOREIGN MARKET DEVELOPING AND MANAGEMENT",
+                "pre_describe": "職場體驗在連結就業學程中之課程，如網路貿易營運總部、國外市場開發與管理、及報關業務經營等課程，能將理論與實務結合，並學到獨立操作的經驗，為未來就業墊下堅實的競爭力。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

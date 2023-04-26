@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "0275",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA673",
+                "sub_name": "公司財務",
+                "sub_ename": "CORPORATE FINANCE",
+                "pre_describe": "公司資本預算、投資決策、融資決策、資本結構與股利政策等相關概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0278",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON631",
+                "sub_name": "計量經濟學(一)",
+                "sub_ename": "ECONOMETRICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0331",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學概念是修習保險法之重要基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0335",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU656",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學為一門基礎的課程，亦為其他保險課程進階的相關研究之基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0343",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2111",
+        "cls_id": "CF0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "45650",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "迴歸模型及統計檢定",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2113",
+        "cls_id": "CF0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "37750",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "融資決策之選擇",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

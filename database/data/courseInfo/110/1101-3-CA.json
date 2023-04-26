@@ -1,0 +1,210 @@
+[
+    {
+        "scr_selcode": "1178",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "應力、應變、能量法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1251",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME381",
+                "sub_name": "纖維染色學",
+                "sub_ename": "FIBER DYEING PROCESS",
+                "pre_describe": "具備纖維染色理論與染色動力學之應用原理的重要概念與技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1495",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "che313",
+                "sub_name": "高分子化學",
+                "sub_ename": "POLYMER CHEMISTRY",
+                "pre_describe": "藉由了解材料特性來設計其應用方向",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1763",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO104",
+                "sub_name": "計算機程式語言",
+                "sub_ename": "COMPUTER PROGRAMMING LANGUAGE",
+                "pre_describe": "MATLAB程式設計邏輯與撰寫能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1766",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學基本觀念及流體靜力學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1767",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1770",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE207",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "熱傳增益涉及流體質量與動量傳輸現象",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2463",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES603",
+                "sub_name": "地下水導論",
+                "sub_ename": "INTRODUCTION TO GROUNDWATER HYDROLOGY",
+                "pre_describe": "地下水文、水理、與地下水流之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2464",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2532",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "了解固態晶體結構中原子的排列情況及其表示方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2536",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "本課程之教學目標有二：其一是講授材料科學工程之基本原理，以提供具有微積分、普物、普化背景之理工大學部學生研習，其二是務求內容具羅輯順序，由淺漸深。本課程分上、下兩學期，上學期的教材均屬材料之基本性質，包含：原子鍵結、晶體結構、晶體缺陷、及擴散理論。下學期",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2650",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2653",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0060",
+        "cls_id": "CA02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH153",
+                "sub_name": "計算機程式",
+                "sub_ename": "COMPUTER PROGRAMMING",
+                "pre_describe": "這門課程的主要目的在於使學生具備基本的Python程式撰寫能力，同時鼓勵學生使用程式語言作為學習的輔助工具。學生將於本課程學習到的概念有宣告、輸入/輸出、迴圈、邏輯條件式、函數及檔案處理等相關內容，並搭配Anaconda編輯器使用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0573",
+        "cls_id": "CA02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計圖表製作及機率之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1763",
+        "cls_id": "CA02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO104",
+                "sub_name": "計算機程式語言",
+                "sub_ename": "COMPUTER PROGRAMMING LANGUAGE",
+                "pre_describe": "MATLAB程式設計邏輯與撰寫能力",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "scr_selcode": "3002",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH201",
+                "sub_name": "高等微積分(一)",
+                "sub_ename": "ADVANCED CALCULUS(1)",
+                "pre_describe": "黎曼積分、函數序列收斂性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3005",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH211",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "基本的機率理論、隨機變數、分配函數、密度與質量函數等基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3006",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH111",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量空間",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3008",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學的基本概念與方法的進階分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3009",
+        "cls_id": "CS01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH212",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學的基本概念與方法的進階分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3091",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3173",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "了解固態晶體結構中原子的排列情況及其表示方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3177",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "本課程之教學目標有二：其一是講授材料科學工程之基本原理，以提供具有微積分、普物、普化背景之理工大學部學生研習，其二是務求內容具羅輯順序，由淺漸深。本課程分上、下兩學期，上學期的教材均屬材料之基本性質，包含：原子鍵結、晶體結構、晶體缺陷、及擴散理論。下學期",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3178",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3323",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3325",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3326",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS201",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁波",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3329",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "物理與幾何光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3330",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS201",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "基本電磁理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3331",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT604",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "電磁波動方程式之解法，光偏振與繞射之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

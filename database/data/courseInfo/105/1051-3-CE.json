@@ -1,0 +1,366 @@
+[
+    {
+        "scr_selcode": "1505",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME302",
+                "sub_name": "纖維物理(二)",
+                "sub_ename": "FIBER PHYSICS(2)",
+                "pre_describe": "具備基礎之紡織物理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1525",
+        "cls_id": "CE0532A",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME668",
+                "sub_name": "人纖製程設計與分析",
+                "sub_ename": "DESIGN AND ANALYSIS OF MAN-MADE FIBER PROCESSING",
+                "pre_describe": "機能性纖維製程之變化因子設定追溯源於人纖製程基礎應用工程之設計與分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1410",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "應力、應變、能量法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1411",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1413",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1414",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201B",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "工程基本元件樑、柱之力學分析之概念及方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1416",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE300",
+                "sub_name": "熱傳學",
+                "sub_ename": "HEAT TRANSFER",
+                "pre_describe": "說明熱傳導、熱對流和熱輻射的傳熱機構及速率方程式以為熱傳分析的基礎，其中穩定狀態和暫態熱傳導的原理為銜接工程熱傳導問題之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1417",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE200",
+                "sub_name": "電工學",
+                "sub_ename": "ELECTRICAL ENGINEERING",
+                "pre_describe": "電路解析方法，繼電器結構與應用，電位計結構與應用，階梯電路之分析與設計，馬達之原理與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1418",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "流體力學分析基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1421",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE211",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "工程統計與實驗設計、可靠度分析預測、最佳化",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1422",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE363",
+                "sub_name": "液壓及氣動力工程",
+                "sub_ename": "FLUID POWER TECHNOLOGY",
+                "pre_describe": "瞭解液壓元件結構與功能、及液壓基本控制迴路",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1424",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE375",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4460",
+        "cls_id": "CE0432A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1596",
+        "cls_id": "CE06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN304",
+                "sub_name": "生產計畫與管制",
+                "sub_ename": "PRODUCTION PLANNING AND CONTROL",
+                "pre_describe": "生產管理中資訊系統、銷售預測、採購供應商角色、生產運籌、顧客關係等銜接。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1607",
+        "cls_id": "CE06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN302",
+                "sub_name": "品質管制",
+                "sub_ename": "QUALITY CONTROL",
+                "pre_describe": "計量值與計數值管制圖，品管七工具。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1773",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "化學平衡、化學反應、原子、分子等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1775",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "che202",
+                "sub_name": "單元操作",
+                "sub_ename": "UNIT OPERATIONS",
+                "pre_describe": "瞭解動量、熱量及質量傳送之基本觀念及其在化工程序上的應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1777",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1778",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分、微分方程、矩陣、數值方法等來解決在電腦模擬上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2057",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學基本觀念及流體靜力學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2059",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2061",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "專題研討基礎導論(一)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2063",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE207",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "熱傳增益涉及流體質量與動量傳輸現象",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2064",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2065",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與行為描述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2082",
+        "cls_id": "CE19320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE210",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "微分方程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2163",
+        "cls_id": "CE24310",
+        "PreCourse": [
+            {
+                "pre_subid3": "55700",
+                "sub_name": "電路學",
+                "sub_ename": "ELECTRIC CIRCUITS",
+                "pre_describe": "交直流轉換，電壓，電流，功率。\r\nKirchhoff's Law\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2180",
+        "cls_id": "CE25320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MPCD623",
+                "sub_name": "TRIZ理論與創新設計",
+                "sub_ename": "TRIZ THEORY AND INNOVATION DESIGN",
+                "pre_describe": "發明理論，創新方法，產品設計概念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

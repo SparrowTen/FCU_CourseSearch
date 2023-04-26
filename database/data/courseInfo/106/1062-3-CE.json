@@ -1,0 +1,210 @@
+[
+    {
+        "scr_selcode": "1322",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE601",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "撰寫報告及表達內容的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1327",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME735",
+                "sub_name": "高等複合材料學",
+                "sub_ename": "ADVANCED COMPOSITE MATERIALS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1333",
+        "cls_id": "CE0532A",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME601",
+                "sub_name": "高等紡織化學",
+                "sub_ename": "ADVANCED TEXTILE CHEMISTRY",
+                "pre_describe": "建構纖維材料組成與結構化學性能的基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1848",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與流體行為的描述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1248",
+        "cls_id": "CE04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "超音波之基本科學原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1248",
+        "cls_id": "CE0432A",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "超音波之基本科學原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1406",
+        "cls_id": "CE0632A",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN602",
+                "sub_name": "實驗設計與分析",
+                "sub_ename": "DESIGN AND ANALYSIS OF EXPERIMENTS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1561",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe601",
+                "sub_name": "專題討論",
+                "sub_ename": "SEMINAR",
+                "pre_describe": "具備初步實驗設計、執行、簡報的知識與經驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1562",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "使用微積分、微分方程、矩陣、數值方法解決在電腦模擬上所遇到的數學問題。(Using calculus, differential equations, matrices, and numerical methods to solve the mathematical problems encountered in computer simulations.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1564",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE608",
+                "sub_name": "高分子化學特論",
+                "sub_ename": "SPECIAL TOPICS IN POLYMER CHEMISTRY",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1841",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、矩陣運算、線性代數、變分原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1843",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1846",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO353",
+                "sub_name": "系統工程與管理",
+                "sub_ename": "SYSTEMS ENGINEERING AND MANAGEMENT",
+                "pre_describe": "系統工程基本慨念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1848",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與流體行為的描述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1866",
+        "cls_id": "CE19310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME215",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": "Basic concept and characteristic of time and frequency domain knowledge for digital signal system",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2765",
+        "cls_id": "CE24310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "本課程需用到數學",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

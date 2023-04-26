@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "0528",
+        "cls_id": "CB07420",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT613",
+                "sub_name": "統計計算",
+                "sub_ename": "STATISTICAL COMPUTING",
+                "pre_describe": "基礎計算和程式設計的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0589",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON631",
+                "sub_name": "計量經濟學(一)",
+                "sub_ename": "ECONOMETRICS(1)",
+                "pre_describe": "The essential pre-requsite is a good understanding of the linear regression model with matrix algebra.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0590",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON601",
+                "sub_name": "個體經濟理論(一)",
+                "sub_ename": "MICROECONOMIC THEORY(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0729",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0730",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT770",
+                "sub_name": "策略理論與企業經營",
+                "sub_ename": "THEORIES AND ISSUES IN STRATEGIC MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2039",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "18700",
+                "sub_name": "投資學",
+                "sub_ename": "INVESTMENTS",
+                "pre_describe": "投資組合分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0734",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "BPHD701",
+                "sub_name": "商學博士專題研究(一)",
+                "sub_ename": "DOCTORAL RESEARCH SEMINAR (1)",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

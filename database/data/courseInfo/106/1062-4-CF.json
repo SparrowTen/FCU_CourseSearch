@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "1990",
+        "cls_id": "CF01410",
+        "PreCourse": [
+            {
+                "pre_subid3": "18700",
+                "sub_name": "投資學",
+                "sub_ename": "INVESTMENTS",
+                "pre_describe": "投資組合分析",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

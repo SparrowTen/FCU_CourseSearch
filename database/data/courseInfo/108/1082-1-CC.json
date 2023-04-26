@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3845",
+        "cls_id": "CC00100",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB602",
+                "sub_name": "研究方法",
+                "sub_ename": "RESEARCH METHODOLOGY",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

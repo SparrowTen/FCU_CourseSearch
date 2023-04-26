@@ -1,0 +1,2433 @@
+[
+    {
+        "scr_selcode": "0002",
+        "cls_id": "CB00101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "無異曲線、消費選擇、成本等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0020",
+        "cls_id": "CB01111",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB105",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "計算機基本知識、Windows視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0034",
+        "cls_id": "CB01112",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB105",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "計算機基本知識、Windows視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0048",
+        "cls_id": "CB01113",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB105",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": "計算機基本知識、Windows視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0052",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0053",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0054",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0055",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0067",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "財政分析中必要的基礎經濟理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0068",
+        "cls_id": "CB01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0057",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0058",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0059",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0060",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0067",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "財政分析中必要的基礎經濟理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0068",
+        "cls_id": "CB01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0062",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0063",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0064",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0065",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力\r\n企業交易事項之會計處理及應用準則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0067",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "財政分析中必要的基礎經濟理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0068",
+        "cls_id": "CB01123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0072",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0073",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0074",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0075",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0076",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT408",
+                "sub_name": "成本會計",
+                "sub_ename": "COST ACCOUNTING",
+                "pre_describe": "了解成本會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0089",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟理論與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0091",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本會計概念及一般公認會計原則之理解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0092",
+        "cls_id": "CB01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF242",
+                "sub_name": "租稅法",
+                "sub_ename": "TAX LAW",
+                "pre_describe": "營業稅、營所稅及綜所稅申報法規",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0078",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0079",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0080",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0081",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0082",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT408",
+                "sub_name": "成本會計",
+                "sub_ename": "COST ACCOUNTING",
+                "pre_describe": "了解成本會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0089",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟理論與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0091",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本會計概念及一般公認會計原則之理解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0092",
+        "cls_id": "CB01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF242",
+                "sub_name": "租稅法",
+                "sub_ename": "TAX LAW",
+                "pre_describe": "營業稅、營所稅及綜所稅申報法規",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0084",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0085",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0086",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0087",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "財務會計專題研究係延伸中級會計學(一)(二)之課程，探討中級會計學(一)(二)中較為特殊之財務會計相關專題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0088",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT408",
+                "sub_name": "成本會計",
+                "sub_ename": "COST ACCOUNTING",
+                "pre_describe": "了解成本會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0089",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟理論與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0091",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本會計概念及一般公認會計原則之理解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0092",
+        "cls_id": "CB01133",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF242",
+                "sub_name": "租稅法",
+                "sub_ename": "TAX LAW",
+                "pre_describe": "營業稅、營所稅及綜所稅申報法規",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0094",
+        "cls_id": "CB01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0095",
+        "cls_id": "CB01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "1.\t會計處理程序及財務報表產生過程與用途。2.\t各種會計科目的定義與使用及其會計處理原則。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0102",
+        "cls_id": "CB01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本帳務及流程觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0097",
+        "cls_id": "CB01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0098",
+        "cls_id": "CB01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "1.\t會計處理程序及財務報表產生過程與用途。2.\t各種會計科目的定義與使用及其會計處理原則。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0102",
+        "cls_id": "CB01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本帳務及流程觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0100",
+        "cls_id": "CB01143",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "處理會計循環工作之相關觀念及能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0101",
+        "cls_id": "CB01143",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "1.\t會計處理程序及財務報表產生過程與用途。2.\t各種會計科目的定義與使用及其會計處理原則。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0102",
+        "cls_id": "CB01143",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "基本帳務及流程觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2743",
+        "cls_id": "CM01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT100",
+                "sub_name": "企業概論",
+                "sub_ename": "INTRODUCTION TO BUSINESS",
+                "pre_describe": "企業與組織之類型、特性、與功能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2755",
+        "cls_id": "CM01121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "企業、管理等 之基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2748",
+        "cls_id": "CM01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT100",
+                "sub_name": "企業概論",
+                "sub_ename": "INTRODUCTION TO BUSINESS",
+                "pre_describe": "企業與組織之類型、特性、與功能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2755",
+        "cls_id": "CM01122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "企業、管理等 之基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2758",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學之觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2759",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "管理、與生產管理等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2760",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2761",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2762",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "電腦、網路、與軟體等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2769",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT314",
+                "sub_name": "人力資源管理個案研究",
+                "sub_ename": "CASE STUDY IN HUMANG RESOURCE MANAGEMENT",
+                "pre_describe": "有關人力資源管理之基本概念與其管理活動",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2770",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "產業、企業、管理等 之基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2774",
+        "cls_id": "CM01131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT220",
+                "sub_name": "行銷管理",
+                "sub_ename": "MARKETING MANAGEMENT",
+                "pre_describe": "廣告是行銷活動中重要的一環，其能協助行銷達成行銷目標。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2764",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學之觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2765",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "管理、與生產管理等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2766",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2767",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2768",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "電腦、網路、與軟體等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2769",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT314",
+                "sub_name": "人力資源管理個案研究",
+                "sub_ename": "CASE STUDY IN HUMANG RESOURCE MANAGEMENT",
+                "pre_describe": "有關人力資源管理之基本概念與其管理活動",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2770",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "產業、企業、管理等 之基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2774",
+        "cls_id": "CM01132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT220",
+                "sub_name": "行銷管理",
+                "sub_ename": "MARKETING MANAGEMENT",
+                "pre_describe": "廣告是行銷活動中重要的一環，其能協助行銷達成行銷目標。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2777",
+        "cls_id": "CM01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "管理功能的知識與架構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2781",
+        "cls_id": "CM01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2783",
+        "cls_id": "CM01141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務報表分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2779",
+        "cls_id": "CM01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "管理功能的知識與架構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2781",
+        "cls_id": "CM01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2783",
+        "cls_id": "CM01142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務報表分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2781",
+        "cls_id": "CM01143",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0174",
+        "cls_id": "CB02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0174",
+        "cls_id": "CB02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0178",
+        "cls_id": "CB02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "先了解一般國內公司之財務管理，再延伸至多國籍企業之財務管理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0181",
+        "cls_id": "CB02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA350",
+                "sub_name": "國際貿易實務(一)",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE(1)",
+                "pre_describe": "進出口貿易流程，國際貿易組織與管理，國際市場開發策略，Trade Terms, Quotation, P/I, S/C及Contract。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0195",
+        "cls_id": "CB02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA301",
+                "sub_name": "國際貿易理論與政策",
+                "sub_ename": "THEORY AND POLICY OF INTERNATIONAL TRADE",
+                "pre_describe": "以國際貿易理論與政策為基本架構，結合當前重要農產貿易議題之分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0184",
+        "cls_id": "CB02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "先了解一般國內公司之財務管理，再延伸至多國籍企業之財務管理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0194",
+        "cls_id": "CB02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "企業評價、財務決策、CAPM、效率市場",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0195",
+        "cls_id": "CB02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA301",
+                "sub_name": "國際貿易理論與政策",
+                "sub_ename": "THEORY AND POLICY OF INTERNATIONAL TRADE",
+                "pre_describe": "以國際貿易理論與政策為基本架構，結合當前重要農產貿易議題之分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0199",
+        "cls_id": "CB02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA301",
+                "sub_name": "國際貿易理論與政策",
+                "sub_ename": "THEORY AND POLICY OF INTERNATIONAL TRADE",
+                "pre_describe": "以國際貿易理論與政策為基本架構，結合當前重要議題之分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0190",
+        "cls_id": "CB02133",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "先了解一般國內公司之財務管理，再延伸至多國籍企業之財務管理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0194",
+        "cls_id": "CB02133",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "企業評價、財務決策、CAPM、效率市場",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0195",
+        "cls_id": "CB02133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA301",
+                "sub_name": "國際貿易理論與政策",
+                "sub_ename": "THEORY AND POLICY OF INTERNATIONAL TRADE",
+                "pre_describe": "以國際貿易理論與政策為基本架構，結合當前重要農產貿易議題之分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0199",
+        "cls_id": "CB02133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA301",
+                "sub_name": "國際貿易理論與政策",
+                "sub_ename": "THEORY AND POLICY OF INTERNATIONAL TRADE",
+                "pre_describe": "以國際貿易理論與政策為基本架構，結合當前重要議題之分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0202",
+        "cls_id": "CB02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA353",
+                "sub_name": "國際貿易實務",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0205",
+        "cls_id": "CB02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA353",
+                "sub_name": "國際貿易實務",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0208",
+        "cls_id": "CB02143",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA353",
+                "sub_name": "國際貿易實務",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0424",
+        "cls_id": "CB05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0425",
+        "cls_id": "CB05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0428",
+        "cls_id": "CB05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0436",
+        "cls_id": "CB05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "以經濟學中的供給和需求的市場價格機能，去分析金融市場多元活動的操作，同時強調避險的重要性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0437",
+        "cls_id": "CB05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW206",
+                "sub_name": "法學緒論",
+                "sub_ename": "INTRODUCTION OF LAWS",
+                "pre_describe": "法律一般基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0431",
+        "cls_id": "CB05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0432",
+        "cls_id": "CB05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0435",
+        "cls_id": "CB05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0436",
+        "cls_id": "CB05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "以經濟學中的供給和需求的市場價格機能，去分析金融市場多元活動的操作，同時強調避險的重要性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0437",
+        "cls_id": "CB05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW206",
+                "sub_name": "法學緒論",
+                "sub_ename": "INTRODUCTION OF LAWS",
+                "pre_describe": "法律一般基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0440",
+        "cls_id": "CB05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計事項處理程序之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0441",
+        "cls_id": "CB05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計事項處理程序的基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0444",
+        "cls_id": "CB05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON201",
+                "sub_name": "個體經濟學(一)",
+                "sub_ename": "MICROECONOMICS(1)",
+                "pre_describe": "財政分析中必要的基礎個體經濟理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0445",
+        "cls_id": "CB05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "消費者行為與生產者行為分析供需分析及市場經濟\t",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0455",
+        "cls_id": "CB05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "PE241",
+                "sub_name": "租稅法(二)",
+                "sub_ename": "TAX LAW(2)",
+                "pre_describe": "瞭解租稅法基本知識後可迅速進入營所稅範籌",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0447",
+        "cls_id": "CB05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計事項處理程序之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0448",
+        "cls_id": "CB05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計事項處理程序的基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0451",
+        "cls_id": "CB05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON201",
+                "sub_name": "個體經濟學(一)",
+                "sub_ename": "MICROECONOMICS(1)",
+                "pre_describe": "財政分析中必要的基礎個體經濟理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0452",
+        "cls_id": "CB05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "消費者行為與生產者行為分析供需分析及市場經濟\t",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0455",
+        "cls_id": "CB05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "PE241",
+                "sub_name": "租稅法(二)",
+                "sub_ename": "TAX LAW(2)",
+                "pre_describe": "瞭解租稅法基本知識後可迅速進入營所稅範籌",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0457",
+        "cls_id": "CB05141",
+        "PreCourse": [
+            {
+                "pre_subid3": "PE241",
+                "sub_name": "租稅法(二)",
+                "sub_ename": "TAX LAW(2)",
+                "pre_describe": "由租稅法的基本觀念和國際租稅法相銜接",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0458",
+        "cls_id": "CB05141",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF300",
+                "sub_name": "財政學(一)",
+                "sub_ename": "PUBLIC FINANCE(1)",
+                "pre_describe": "本課程根據財政學進行議題的深入研討",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0460",
+        "cls_id": "CB05142",
+        "PreCourse": [
+            {
+                "pre_subid3": "PE241",
+                "sub_name": "租稅法(二)",
+                "sub_ename": "TAX LAW(2)",
+                "pre_describe": "由租稅法的基本觀念和國際租稅法相銜接",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0461",
+        "cls_id": "CB05142",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF300",
+                "sub_name": "財政學(一)",
+                "sub_ename": "PUBLIC FINANCE(1)",
+                "pre_describe": "本課程根據財政學進行議題的深入研討",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0571",
+        "cls_id": "CB07131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Limit, continuity, differentiation and\r\n Integration. \r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0572",
+        "cls_id": "CB07131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Limit, continuity, differentiation and  Integration.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0577",
+        "cls_id": "CB07132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Limit, continuity, differentiation and\r\n Integration. \r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0578",
+        "cls_id": "CB07132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Limit, continuity, differentiation and  Integration.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0587",
+        "cls_id": "CB07141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟理論與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0587",
+        "cls_id": "CB07142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟理論與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0618",
+        "cls_id": "CB08111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "計算機基本知識、Windows  視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0630",
+        "cls_id": "CB08112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "計算機基本知識、Windows  視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0633",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0634",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0635",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "邊際與平均、彈性、市場與國民所得決定模型、消費者與廠商最適化決策、價格調整機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0636",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "邊際與平均、彈性、市場與國民所得決定模型、消費者與廠商最適化決策、價格調整機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0637",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0638",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0647",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學的經濟觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0648",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100B",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTING",
+                "pre_describe": "計算機的基本知識及 Windows  視窗的基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0649",
+        "cls_id": "CB08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "供需分析、市場結構、消費者與生產者最適決策",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0640",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0641",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0642",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "邊際與平均、彈性、市場與國民所得決定模型、消費者與廠商最適化決策、價格調整機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0643",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "邊際與平均、彈性、市場與國民所得決定模型、消費者與廠商最適化決策、價格調整機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0644",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0645",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0647",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學的經濟觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0648",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100B",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTING",
+                "pre_describe": "計算機的基本知識及 Windows  視窗的基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0649",
+        "cls_id": "CB08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "供需分析、市場結構、消費者與生產者最適決策",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0651",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本的經濟學專有名詞、分析的工具等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0653",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "各種基本的經濟理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0654",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "各種基本的經濟理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0655",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0656",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0657",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學中必要的經濟觀念及圖形分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0665",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON102",
+                "sub_name": "經濟學(二)",
+                "sub_ename": "ECONOMICS(2)",
+                "pre_describe": "資源分配、機會成本、最適選擇等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0666",
+        "cls_id": "CB08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0659",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本的經濟學專有名詞、分析的工具等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0660",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0661",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0662",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON203",
+                "sub_name": "總體經濟學",
+                "sub_ename": "MACROECONOMICS",
+                "pre_describe": "開放體經濟模型",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0664",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學中必要的經濟觀念及圖形分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0665",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON102",
+                "sub_name": "經濟學(二)",
+                "sub_ename": "ECONOMICS(2)",
+                "pre_describe": "資源分配、機會成本、最適選擇等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0666",
+        "cls_id": "CB08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0670",
+        "cls_id": "CB08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0676",
+        "cls_id": "CB08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON201",
+                "sub_name": "個體經濟學(一)",
+                "sub_ename": "MICROECONOMICS(1)",
+                "pre_describe": "個體理論的專有名詞、與效用極大化、利潤極大化等的基本理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0677",
+        "cls_id": "CB08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0678",
+        "cls_id": "CB08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本的經濟學專有名詞、分析的工具等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0679",
+        "cls_id": "CB08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本原理與概念，例如國民所得、經濟結構、投資、就業、技術進步、國際貿易、國際經貿組織等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0674",
+        "cls_id": "CB08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0676",
+        "cls_id": "CB08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON201",
+                "sub_name": "個體經濟學(一)",
+                "sub_ename": "MICROECONOMICS(1)",
+                "pre_describe": "個體理論的專有名詞、與效用極大化、利潤極大化等的基本理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0677",
+        "cls_id": "CB08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0678",
+        "cls_id": "CB08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本的經濟學專有名詞、分析的工具等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0679",
+        "cls_id": "CB08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本原理與概念，例如國民所得、經濟結構、投資、就業、技術進步、國際貿易、國際經貿組織等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0496",
+        "cls_id": "CB06120",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0500",
+        "cls_id": "CB06130",
+        "PreCourse": [
+            {
+                "pre_subid3": "COOP111",
+                "sub_name": "社會事業",
+                "sub_ename": "SOCIAL BUSINESS",
+                "pre_describe": "社會事業中有關非營利組織之基本知識及其範疇之介紹等內容。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0501",
+        "cls_id": "CB06130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "瞭解經濟學的基本原理與分析技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0502",
+        "cls_id": "CB06130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0503",
+        "cls_id": "CB06130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0507",
+        "cls_id": "CB06140",
+        "PreCourse": [
+            {
+                "pre_subid3": "COOP202",
+                "sub_name": "合作組織與管理",
+                "sub_ename": "COOPERATIVE ORGANIZATION AND MANAGEMENT",
+                "pre_describe": "合作組織與管理的基本知識能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0916",
+        "cls_id": "CB26111",
+        "PreCourse": [
+            {
+                "pre_subid3": "14740",
+                "sub_name": "行銷管理",
+                "sub_ename": "MARKETING MANAGEMENT",
+                "pre_describe": "行銷理論、概念與運用之探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0916",
+        "cls_id": "CB26112",
+        "PreCourse": [
+            {
+                "pre_subid3": "14740",
+                "sub_name": "行銷管理",
+                "sub_ename": "MARKETING MANAGEMENT",
+                "pre_describe": "行銷理論、概念與運用之探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0929",
+        "cls_id": "CB26131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0930",
+        "cls_id": "CB26131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0929",
+        "cls_id": "CB26132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0930",
+        "cls_id": "CB26132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0876",
+        "cls_id": "CB25120",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT102",
+                "sub_name": "企業概論",
+                "sub_ename": "INTRODUCTION TO BUSINESS",
+                "pre_describe": "企業管理之基本原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0665",
+        "cls_id": "CB25140",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON102",
+                "sub_name": "經濟學(二)",
+                "sub_ename": "ECONOMICS(2)",
+                "pre_describe": "資源分配、機會成本、最適選擇等",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]
