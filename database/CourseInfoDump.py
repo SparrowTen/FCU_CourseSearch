@@ -3,16 +3,16 @@ import concurrent.futures
 import os
 import requests
 from bs4 import BeautifulSoup
-
+import time
 
 class PreCourse:
-    def __init__(self, json_file, max_driver):
+    def __init__(self, json_file, max_t):
         self.json_file = json_file
         self.year = self.json_file[0:3]
         self.sms = self.json_file[3]
         self.dept = self.json_file[7:9]
         self.dir = os.path.dirname(__file__)
-        self.max_driver = max_driver
+        self.max_t = max_t
 
     def loadJson(self):
         with open(self.dir + "\\data\\url\\" + self.year + "\\" + self.json_file, 'r', encoding='utf-8') as f:
@@ -24,10 +24,10 @@ class PreCourse:
         if data == []:
             return
         dataLists = []
-        each = int(len(data) / self.max_driver)
-        last = int(len(data) % self.max_driver)
+        each = int(len(data) / self.max_t)
+        last = int(len(data) % self.max_t)
         index = 0
-        for i in range(0, self.max_driver):
+        for i in range(0, self.max_t):
             temp = []
             extra = 1 if last > 0 else 0
             for j in range(0, each + extra):
@@ -40,19 +40,26 @@ class PreCourse:
     
     def multitip(self, dataLists):
         # 建立多執行緒任務
-        with concurrent.futures.ThreadPoolExecutor(max_workers = self.max_driver) as executor:
-            executor.map(self.getData, dataLists)
+        with concurrent.futures.ThreadPoolExecutor(max_workers = self.max_t) as executor:
+            executor.map(self.sortData, dataLists)
     
-    def sortData(self, dataList):
-        for i in range(0, len(dataList)):
-            data = dataList[i]
-            if data == []:
+    def sortData(self, jsonDataList):
+        output = []
+        for i in range(0, len(jsonDataList)):
+            JsonData = jsonDataList[i]
+            if JsonData == []:
                 continue
-            self.scr_selcode = data['scr_selcode']
-            self.cls_id = data['cls_id']
-            self.requestData(data['url'])
-            os._exit(0)
-    
+            self.scr_selcode = JsonData['scr_selcode']
+            self.cls_id = JsonData['cls_id']
+            dataList = self.requestData(JsonData['url'])
+            # for i in range(0, len(dataList)):
+            #     for data in dataList[i]:
+            #         for key in data:
+            #             output[key] = data[key]
+            # print(output)
+            # self.saveJson(output, self.scr_selcode + '-' + self.cls_id + '.json')
+            output.append(dataList)
+        self.saveJson(output, str(self.json_file))
     
     def requestData(self, url):
         rs = requests.session()
@@ -98,34 +105,43 @@ class PreCourse:
                 headers=headers,
                 json=json_data,
             )
-            # print(response.text)
-            # dataByString = self.stringProcess(response.text)
-            # raw_dataList.append(json.loads(response.text))
-            self.saveJson(json.loads(response.text), self.scr_selcode + '-' + self.cls_id + '-' + url.split('/')[6] +'.json')
-            # print(json.loads(response.text)['d'])
-        return raw_dataList
+            string = response.text
 
+        print(self.scr_selcode + '-' + self.cls_id + ' ' + 'requests success')
+        self.saveJson(raw_dataList, self.scr_selcode + '-' + self.cls_id + '.json')
+        os._exit(0)
+        return raw_dataList
+    
     def stringProcess(self, string):
-        string = string.replace('\\"', '"' )            # 將 \" 過濾成 "
-        string = string.replace('\\\"', '"')            # 將 \\" 過濾成 "
-        string = string.replace('"d":"{', '"d": {' )   
-        string = string.replace('"d":"[{', '"d": [{' )
-        string = string.replace(']}"}', ']}}')
-        string = string.replace('}]"}', '}]}')
+        string = string.replace('"[', '[')
+        string = string.replace(']"', ']')
+        string = string.replace('\\r\\n', '')
+        # string = string.replace('"d":"{', '"d": {' )   
+        # string = string.replace('"d": "[{', '"d": [{' )
+        # string = string.replace('}]"}', '}]}')
+        # string = string.replace(']}"}', ']}}')
         return string
     
-    def saveJson(self, data,file_name):
+    def saveJson(self, data, file_name):
         dir = os.path.dirname(__file__) + "\\data\\courseInfo\\111\\"
         if not os.path.exists(dir):
             os.mkdir(dir)
+        # dir = dir + self.json_file.split('.')[0] + "\\"
+        # if not os.path.exists(dir):
+            # os.mkdir(dir)
         with open(dir + file_name, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
+            json.dump(data, f, ensure_ascii = False, indent = 4, separators = (',', ': '))
+        print(file_name + ' save success')
         
 if __name__ == '__main__':
     dir = os.path.dirname(__file__) + "\\data\\url\\111\\"
     file_list = ["1111-1-CI.json"]
     # file_list = os.listdir(dir)
+    start_time = time.time()
     for file in file_list:
         pre = PreCourse(file, 10)
         dataLists = pre.splitData()
+        # pre.multitip(dataLists)
         pre.sortData(dataLists[0])
+    end_time = time.time()
+    print('執行時間：' + str(end_time - start_time) + '秒')
