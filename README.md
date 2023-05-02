@@ -1,9 +1,9 @@
 # FCU 選課系統 & 檢索系統
 > IECS322 資料庫系統 (許懷中) 期中專題
 
-## Python 
+## 設定環境
 
-### Vscode 虛擬環境啟動指令
+### Vscode Python 虛擬環境啟動指令
 ```powershell
 .\pyenv\Scripts\Activate.ps1
 ```
@@ -12,14 +12,12 @@
 
 #### 使用 python 匯入
 ```powershell
-./database/Databaseinit.py
+python .\database\Databaseinit.py
 ```
 
-#### 手動匯入
+#### phpmyadmin 手動匯入
 
-`./database/sql/*.sql`
-
-
+`.\database\sql\*.sql`
 
 ## 組員
 
