@@ -16,11 +16,30 @@
   unicode-range: U+00-024F;
 }
 
+/* main {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -300;
+} */
+
+div.search {
+  position: absolute;
+  top: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+}
+
 div.Schedule {
   width: 400vw;
-  padding-top: 5vh;
+  padding-top: 1vh;
   text-align: center;
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;

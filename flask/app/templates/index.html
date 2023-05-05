@@ -71,6 +71,13 @@
     />
     <!-- Favicon -->
     <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
       rel="apple-touch-icon"
       sizes="60x60"
       href="{{ url_for('static', filename='css/styles.css') }}"
@@ -131,6 +138,13 @@
         <div class="card-header">
           <span class="icon icon-xs w95-folder"></span>
           <span class="ml-4">Default Tertiary Card Header Title</span>
+          <button
+            class="btn mr-2 mb-2 btn-danger pt-0 pb-0 pr-1 pl-1 closeschedule"
+            type="button"
+            style="position: absolute; right: 0"
+          >
+            <span class="btn-text">X</span>
+          </button>
         </div>
         <div
           class="card-body"
@@ -265,15 +279,6 @@
               <td>&nbsp;</td>
             </tr>
           </table>
-
-          <div class="d-flex mt-3">
-            <button
-              class="btn btn-sm mr-2 btn-primary border-dark closeschedule"
-              type="button"
-            >
-              <span class="btn-text">Close</span>
-            </button>
-          </div>
         </div>
       </div>
     </div>
@@ -287,7 +292,7 @@
       "
     >
       <div class="col-12 col-lg-8 mb-4 mb-lg-0">
-        <div class="card card-tertiary">
+        <div class="card card-tertiary search">
           <div class="card-header">
             <span class="icon icon-xs w95-folder"></span>
             <span class="" style="font-size: medium">課程搜尋</span>
