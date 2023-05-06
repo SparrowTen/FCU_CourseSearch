@@ -22,4 +22,31 @@ Course:
     cls_id: VARCHAR(8)        # 開課班級 ID
     # sub_id:                 # 大綱編碼
     # scr_dup:                # 大綱版本號
-  
+
+# 學生
+Student:
+  PRIMARY KEY:
+    - std_id
+  Coulmns:
+    std_id: VARCHAR(8)        # 學生 ID
+    std_name: TEXT            # 姓名
+    std_degree: INT           # 學制
+    std_dept: VARCHAR(2)      # 學院
+    std_unit: VARCHAR(4)      # 主系
+    std_class: VARCHAR(7)     # 班級
+    curr_id: INT              # 課表 ID
+    acc_id: INT               # 帳號 ID
+
+# 課表
+Curriculum:
+  PRIMARY KEY:
+    - curr_id
+  Coulmns:
+    curr_id: INT              # 課表 ID
+    mon: TEXT
+    tue: TEXT
+    wed: TEXT
+    thur: TEXT
+    fri: TEXT
+    sat: TEXT
+    sun: TEXT

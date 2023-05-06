@@ -29,6 +29,29 @@ class DatabaseInit:
                     '`scr_acptcnt` INT NOT NULL , ' +
                     '`cls_id` VARCHAR(8) NOT NULL , ' +
                     'PRIMARY KEY (`scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS `fcu`.`' + year + sms + '_student` (' +
+                    '`std_id` VARCHAR(8) NOT NULL , ' +
+                    '`std_name` TEXT NOT NULL , ' +
+                    '`std_degree` INT NOT NULL , ' +
+                    '`std_dept` VARCHAR(2) NOT NULL , ' +
+                    '`std_unit` VARCHAR(4) NOT NULL , ' +
+                    '`std_class` VARCHAR(7) NOT NULL , ' +
+                    '`curr_id` INT NOT NULL , ' +
+                    '`acc_id` INT NOT NULL , ' +
+                    'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
+        
+        self.cursor.execute('CREATE TABLE IF NOT EXISTS `fcu`.`' + year + sms + '_curriculum` (' +
+                    '`curr_id` INT NOT NULL , ' +
+                    '`mon` TEXT NOT NULL , ' +
+                    '`tue` TEXT NOT NULL , ' +
+                    '`wed` TEXT NOT NULL , ' +
+                    '`thu` TEXT NOT NULL , ' +
+                    '`fri` TEXT NOT NULL , ' +
+                    '`sat` TEXT NOT NULL , ' +
+                    '`sun` TEXT NOT NULL , ' +
+                    'PRIMARY KEY (`curr_id`)) ENGINE = InnoDB;')
+
         self.conn.commit()
     
     def insertData(self, year, sms):
