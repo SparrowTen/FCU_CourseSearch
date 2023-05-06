@@ -1,0 +1,132 @@
+[
+    {
+        "scr_selcode": "0313",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA673",
+                "sub_name": "公司財務",
+                "sub_ename": "CORPORATE FINANCE",
+                "pre_describe": "公司資本預算、投資決策、融資決策、資本結構與股利政策等相關概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0316",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON631",
+                "sub_name": "計量經濟學(一)",
+                "sub_ename": "ECONOMETRICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0320",
+        "cls_id": "CB03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA350",
+                "sub_name": "投資學",
+                "sub_ename": "INVESTMENTS",
+                "pre_describe": "效率市場",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0372",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學概念是修習保險法之重要基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0375",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "各種離散分配與連續分配，條件機率、隨機變數、機率函數、期望值。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0379",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU656",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學為一門基礎的課程，亦為其他保險課程進階的相關研究之基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0384",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON203",
+                "sub_name": "總體經濟學",
+                "sub_ename": "MACROECONOMICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0387",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2028",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "45650",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "迴歸模型及統計檢定",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2029",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "37750",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "融資決策之選擇",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

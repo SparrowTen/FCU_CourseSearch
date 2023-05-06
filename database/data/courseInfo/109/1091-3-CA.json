@@ -1,0 +1,314 @@
+[
+    {
+        "scr_selcode": "3883",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "應力、應變、能量法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3890",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME381",
+                "sub_name": "纖維染色學",
+                "sub_ename": "FIBER DYEING PROCESS",
+                "pre_describe": "具備纖維染色理論與染色動力學之應用原理的重要概念與技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3999",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE202",
+                "sub_name": "單元操作(一)",
+                "sub_ename": "UNIT OPERATIONS(1)",
+                "pre_describe": "學習流體力學的基本原理　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1545",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1548",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE220",
+                "sub_name": "質能均衡",
+                "sub_ename": "MATERIAL AND ENERGY BALANCES",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3912",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學基本觀念及流體靜力學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3913",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO104",
+                "sub_name": "計算機程式語言",
+                "sub_ename": "COMPUTER PROGRAMMING LANGUAGE",
+                "pre_describe": "MATLAB程式設計邏輯與撰寫能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3915",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1801",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "專題研討基礎導論(一)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1803",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1804",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與行為描述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1828",
+        "cls_id": "CE19320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE210",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "微分方程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3950",
+        "cls_id": "CE24310",
+        "PreCourse": [
+            {
+                "pre_subid3": "55700",
+                "sub_name": "電路學",
+                "sub_ename": "ELECTRIC CIRCUITS",
+                "pre_describe": "交直流轉換，電壓，電流，功率。\r\nKirchhoff's Law\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3909",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "統計學的基本概念與方法的進階分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3910",
+        "cls_id": "CS01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH153",
+                "sub_name": "計算機程式",
+                "sub_ename": "COMPUTER PROGRAMMING",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3921",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES603",
+                "sub_name": "地下水導論",
+                "sub_ename": "INTRODUCTION TO GROUNDWATER HYDROLOGY",
+                "pre_describe": "地下水文、水理、與地下水流之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3922",
+        "cls_id": "CS02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EES300",
+                "sub_name": "空氣污染學",
+                "sub_ename": "AIR POLLUTION",
+                "pre_describe": "粒狀空氣污染物特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3934",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "了解固態晶體結構中原子的排列情況及其表示方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3935",
+        "cls_id": "CS03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "本課程之教學目標有二：其一是講授材料科學工程之基本原理，以提供具有微積分、普物、普化背景之理工大學部學生研習，其二是務求內容具羅輯順序，由淺漸深。本課程分上、下兩學期，上學期的教材均屬材料之基本性質，包含：原子鍵結、晶體結構、晶體缺陷、及擴散理論。下學期",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3939",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何光學與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3940",
+        "cls_id": "CS06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "幾何與波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2801",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "物理與幾何光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2802",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "光傳播性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2803",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT604",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "電磁波動方程式之解法，光偏振與繞射之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

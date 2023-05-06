@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0411",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1953",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "瞭解會計與財務報表的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

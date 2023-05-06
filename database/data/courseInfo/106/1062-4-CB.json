@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "0613",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON601",
+                "sub_name": "個體經濟理論(一)",
+                "sub_ename": "MICROECONOMIC THEORY(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0705",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0707",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT770",
+                "sub_name": "策略理論與企業經營",
+                "sub_ename": "THEORIES AND ISSUES IN STRATEGIC MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0711",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "BPHD701",
+                "sub_name": "商學博士專題研究(一)",
+                "sub_ename": "DOCTORAL RESEARCH SEMINAR (1)",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

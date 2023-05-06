@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "1692",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1693",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE301",
+                "sub_name": "程序控制",
+                "sub_ename": "PROCESS CONTROL",
+                "pre_describe": "使學生了解基本程序控制概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1695",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1294",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE375",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1979",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO316",
+                "sub_name": "航空熱質傳學",
+                "sub_ename": "AERONAUTIACL HEAT AND MASS TRANSFER",
+                "pre_describe": "熱傳導基本原理、熱對流基本原理、質傳觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1984",
+        "cls_id": "CE17430",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與流體行為的描述",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "0518",
+        "cls_id": "CB07420",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT634",
+                "sub_name": "調查設計與分析",
+                "sub_ename": "SURVEY DESIGN AND ANALYSIS",
+                "pre_describe": "問卷規劃、抽樣設計與信度評估的必要基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0576",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON601",
+                "sub_name": "個體經濟理論(一)",
+                "sub_ename": "MICROECONOMIC THEORY(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4229",
+        "cls_id": "CB08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON612",
+                "sub_name": "總體經濟理論(二)",
+                "sub_ename": "MACROECONOMIC THEORY(2)",
+                "pre_describe": "理性預期、宣示效果與動態分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0707",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0708",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT770",
+                "sub_name": "策略理論與企業經營",
+                "sub_ename": "THEORIES AND ISSUES IN STRATEGIC MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0711",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0713",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF300",
+                "sub_name": "財政學(一)",
+                "sub_ename": "PUBLIC FINANCE(1)",
+                "pre_describe": "社會福利水準評估、租稅理論、租稅制度、租稅政策、地方財政",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

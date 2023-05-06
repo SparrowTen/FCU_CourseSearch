@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0835",
+        "cls_id": "CB35511",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0842",
+        "cls_id": "CB35512",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

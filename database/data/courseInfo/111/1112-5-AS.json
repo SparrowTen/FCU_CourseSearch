@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "0801",
+        "cls_id": "CD01530",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH223",
+                "sub_name": "設計方法",
+                "sub_ename": "DESIGN METHODOLOGY",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

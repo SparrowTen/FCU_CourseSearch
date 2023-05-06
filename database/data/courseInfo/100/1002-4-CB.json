@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "0611",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON308",
+                "sub_name": "計量經濟學",
+                "sub_ename": "ECONOMETRICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0612",
+        "cls_id": "CB08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON601",
+                "sub_name": "個體經濟理論(一)",
+                "sub_ename": "MICROECONOMIC THEORY(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0745",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "BA687",
+                "sub_name": "研究方法",
+                "sub_ename": "RESEARCH METHODS",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0746",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2125",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "18700",
+                "sub_name": "投資學",
+                "sub_ename": "INVESTMENTS",
+                "pre_describe": "投資組合分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0751",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": "延續理論觀念及應用至本課程專題研究。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

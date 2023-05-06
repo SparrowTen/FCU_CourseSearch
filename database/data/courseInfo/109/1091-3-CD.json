@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3965",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE273",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "微分方程式求解、向量及矩陣運算。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

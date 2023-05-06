@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "1616",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1618",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1265",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE375",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1889",
+        "cls_id": "CE17430",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與流體行為的描述",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

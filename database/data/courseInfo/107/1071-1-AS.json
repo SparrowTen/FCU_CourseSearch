@@ -1,0 +1,145 @@
+[
+    {
+        "scr_selcode": "1240",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH233",
+                "sub_name": "西洋建築史",
+                "sub_ename": "A HISTORY OF WESTERN  ARCHITECTURE",
+                "pre_describe": "近代建築的發展源自於工業革命之後，在西洋建築的發展脈絡之下，過去的建築行為大多反映在宗教與社會活動之下，因此本課程將有助於瞭解工業革命對人類近代建築發展的衝擊與影響層面。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1242",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH202",
+                "sub_name": "建築設計(四)",
+                "sub_ename": "ARCHITECTURAL DESIGN(4)",
+                "pre_describe": "銜接建築設計(四)之基地特性、空間定性與定量以及使用者人體工學之分析。學生能掌握空間組成與造型美學之關係，並且以手繪表達其設計圖說與創意。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1244",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107C",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "應用力學之基本力學原理及平衡概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1256",
+        "cls_id": "CE03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1258",
+        "cls_id": "CE03141",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築圖學中必要繪圖技法與明晰表達平、立、剖面圖等之間的相關性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1256",
+        "cls_id": "CE03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1258",
+        "cls_id": "CE03142",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH105",
+                "sub_name": "建築圖學(一)",
+                "sub_ename": "ARCHITECTURAL GRAPHICS(1)",
+                "pre_describe": "建築圖學中必要繪圖技法與明晰表達平、立、剖面圖等之間的相關性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1269",
+        "cls_id": "CE03151",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH301",
+                "sub_name": "建築設計(五)",
+                "sub_ename": "ARCHITECTURAL DESIGN(5)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1270",
+        "cls_id": "CE03151",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH261",
+                "sub_name": "建築構造",
+                "sub_ename": "BUILDING CONSTRUCTION",
+                "pre_describe": "建築物使用機能之管理維護",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1269",
+        "cls_id": "CE03152",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH301",
+                "sub_name": "建築設計(五)",
+                "sub_ename": "ARCHITECTURAL DESIGN(5)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1270",
+        "cls_id": "CE03152",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH261",
+                "sub_name": "建築構造",
+                "sub_ename": "BUILDING CONSTRUCTION",
+                "pre_describe": "建築物使用機能之管理維護",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

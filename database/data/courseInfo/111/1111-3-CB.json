@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "0167",
+        "cls_id": "CB01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT452",
+                "sub_name": "審計學",
+                "sub_ename": "AUDITING",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2249",
+        "cls_id": "CM01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": "組織之特性、組織設計之重要知識、理論、一般管理之重要知識與架構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0587",
+        "cls_id": "CB07320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計圖表製作及機率之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3735",
+        "cls_id": "CB08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "market failure, externalities, public goods, common resources, cost-benefit analysis, Coase theorem",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0676",
+        "cls_id": "CB15322",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW701",
+                "sub_name": "民法債篇總論(一)",
+                "sub_ename": "CIVIL LAW: GENERAL PRINCIPLES OF OBLIGATIONS(1)",
+                "pre_describe": "本課程屬進階課程，選修者應先修畢民法總則、民法債篇總論一等基礎法學課程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0688",
+        "cls_id": "CB15332",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW721",
+                "sub_name": "民事訴訟法(一)",
+                "sub_ename": " CODE OF CIVIL PROCEDURE（I）",
+                "pre_describe": "本課程屬進階課程，選修者應先修畢民事訴訟法。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

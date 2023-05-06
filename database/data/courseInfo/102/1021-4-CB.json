@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "0800",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "3062",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計入門之初步基礎，由淺入深從機率觀念定義導引學生熟悉統計估計方法的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3063",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

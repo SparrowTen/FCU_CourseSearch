@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3045",
+        "cls_id": "CS04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN607",
+                "sub_name": "國學研究方法(一)",
+                "sub_ename": "RESEARCH METHODS OF CLASSICAL CHINESE STUDIES(1)",
+                "pre_describe": "對國學研究進行紮根工作，奠定研究基礎，廣泛運用各種研究方法，展拓文學視野，俾便經典戲劇之分析更形細密與深入。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "scr_selcode": "0201",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "瞭解財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0202",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "熟悉財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0204",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "Fundamental economical theory",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0205",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0207",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "瞭解財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0208",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "熟悉財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0210",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "Fundamental economical theory",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0211",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0213",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "瞭解財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0214",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "熟悉財務資產評價、資本預算、及公司投資決策等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0216",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "Fundamental economical theory",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0217",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0222",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "財務理論及分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0223",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配、假設檢定、區間估計、相關與迴歸。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0224",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "與公司理財相關的基本議題、模型與分析技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0245",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA304",
+                "sub_name": "信託金融",
+                "sub_ename": "TRUST FINANCE",
+                "pre_describe": "民法及金融法規、基本財務金融理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0229",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "財務理論及分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0230",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配、假設檢定、區間估計、相關與迴歸。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0231",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "與公司理財相關的基本議題、模型與分析技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0245",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA304",
+                "sub_name": "信託金融",
+                "sub_ename": "TRUST FINANCE",
+                "pre_describe": "民法及金融法規、基本財務金融理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0236",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "財務理論及分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0237",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配、假設檢定、區間估計、相關與迴歸。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0238",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理(一)",
+                "sub_ename": "FINANCIAL MANAGEMENT(1)",
+                "pre_describe": "與公司理財相關的基本議題、模型與分析技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0245",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA304",
+                "sub_name": "信託金融",
+                "sub_ename": "TRUST FINANCE",
+                "pre_describe": "民法及金融法規、基本財務金融理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0289",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW368",
+                "sub_name": "法學緒論",
+                "sub_ename": "INTRODUCTION OF LAWS",
+                "pre_describe": "法律的一般概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0291",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0292",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0294",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU100",
+                "sub_name": "風險管理",
+                "sub_ename": "RISK MANAGEMENT",
+                "pre_describe": "個人家庭、企業有關生命危險事故之管理與規劃",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0295",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW368",
+                "sub_name": "法學緒論",
+                "sub_ename": "INTRODUCTION OF LAWS",
+                "pre_describe": "法律的一般概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0297",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0313",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險之基礎理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0306",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0308",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU200",
+                "sub_name": "人壽保險",
+                "sub_ename": "LIFE INSURANCE",
+                "pre_describe": "產品種類不同保障功能相異、計算原理隨之異動。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0309",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU200",
+                "sub_name": "人壽保險",
+                "sub_ename": "LIFE INSURANCE",
+                "pre_describe": "產品種類不同保障功能相異、計算原理隨之異動。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0313",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險之基礎理論",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

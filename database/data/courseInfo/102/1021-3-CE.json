@@ -1,0 +1,366 @@
+[
+    {
+        "scr_selcode": "1523",
+        "cls_id": "CE05310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME302",
+                "sub_name": "纖維物理(二)",
+                "sub_ename": "FIBER PHYSICS(2)",
+                "pre_describe": "具備基礎之紡織物理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1543",
+        "cls_id": "CE0532A",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME668",
+                "sub_name": "人纖製程設計與分析",
+                "sub_ename": "DESIGN AND ANALYSIS OF MAN-MADE FIBER PROCESSING",
+                "pre_describe": "機能性纖維製程之變化因子設定追溯源於人纖製程基礎應用工程之設計與分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1419",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1421",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "流體力學分析基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1422",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1424",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201B",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "工程基本元件樑、柱之力學分析之概念及方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1427",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE300",
+                "sub_name": "熱傳學",
+                "sub_ename": "HEAT TRANSFER",
+                "pre_describe": "說明熱傳導、熱對流和熱輻射的傳熱機構及速率方程式以為熱傳分析的基礎，其中穩定狀態和暫態熱傳導的原理為銜接工程熱傳導問題之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1429",
+        "cls_id": "CE04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE200",
+                "sub_name": "電工學",
+                "sub_ename": "ELECTRICAL ENGINEERING",
+                "pre_describe": "電路解析方法，繼電器結構與應用，電位計結構與應用，階梯電路之分析與設計，馬達之原理與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1432",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE211",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "工程統計與實驗設計、可靠度分析預測、最佳化",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1435",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE363",
+                "sub_name": "液壓及氣動力工程",
+                "sub_ename": "FLUID POWER TECHNOLOGY",
+                "pre_describe": "瞭解液壓元件結構與功能、及液壓基本控制迴路",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1436",
+        "cls_id": "CE0431A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE375",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1439",
+        "cls_id": "CE04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201B",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "銲接製程係將熱量或/和壓力施於各式各樣相同或相異材料並使之結合以創造附加價值，而此等製程均與變形力學相關.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1440",
+        "cls_id": "CE04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一、第二定律、物質性質關係、能源轉換的理論用來作為深入探討的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4331",
+        "cls_id": "CE0432A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1638",
+        "cls_id": "CE06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN304",
+                "sub_name": "生產計畫與管制",
+                "sub_ename": "PRODUCTION PLANNING AND CONTROL",
+                "pre_describe": "生產作業管理了解各項物料或訂單的模型或生產模式。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1649",
+        "cls_id": "CE06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN602",
+                "sub_name": "實驗設計與分析",
+                "sub_ename": "DESIGN AND ANALYSIS OF EXPERIMENTS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1654",
+        "cls_id": "CE0632A",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN301",
+                "sub_name": "作業研究",
+                "sub_ename": "OPERATIONS RESEARCH",
+                "pre_describe": "本課程在說明資料包絡分析(DEA)模式時，需使用作業研究課程中之數學模式建構及對偶理論等主題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1817",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "che202",
+                "sub_name": "單元操作",
+                "sub_ename": "UNIT OPERATIONS",
+                "pre_describe": "瞭解動量、熱量及質量傳送之基本觀念及其在化工程序上的應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1822",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "化學平衡、化學反應、原子、分子等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1824",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO COMPUTER",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1825",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分、微分方程、矩陣、數值方法等來解決在電腦模擬上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2118",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(二)",
+                "sub_ename": "APPLIED MECHANICS(2)",
+                "pre_describe": "基本之動力理論概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2122",
+        "cls_id": "CE13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2124",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "專題研討基礎導論(一)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2126",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2127",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與行為描述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2151",
+        "cls_id": "CE19320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE210",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "微分方程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2248",
+        "cls_id": "CE25320",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN347",
+                "sub_name": "表現技法",
+                "sub_ename": "TECHNIQUES OF DESIGN RENDERING AND THINKING",
+                "pre_describe": "產品設計的表現基礎",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

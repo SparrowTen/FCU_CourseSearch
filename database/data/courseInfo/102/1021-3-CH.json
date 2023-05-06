@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "2410",
+        "cls_id": "CH08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "GIPP703",
+                "sub_name": "公共政策研究",
+                "sub_ename": "STUDIES ON PUBLIC POLICY",
+                "pre_describe": "公共政策的規劃、制定與執行歷程，以及成效評估",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2411",
+        "cls_id": "CH08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "GIPP701",
+                "sub_name": "研究設計與論文寫作",
+                "sub_ename": "RESEARCH DESIGN AND PROPOSAL WRITING",
+                "pre_describe": "學生需先經由前置課程掌握研究架構的設計原理以及論文寫作的基本結構與格式。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

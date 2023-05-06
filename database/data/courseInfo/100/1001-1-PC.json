@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "3503",
+        "cls_id": "PC28100",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY112",
+                "sub_name": "水利工程與資源保育概論(一)",
+                "sub_ename": "INTRODUCTION TO  WATER  RESOURCE  ENGINEERING AND CONSERVATION(1)",
+                "pre_describe": "對於專業領域的整體性認識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4249",
+        "cls_id": "PC45100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA353",
+                "sub_name": "國際貿易實務",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE",
+                "pre_describe": "以進出口貿易實務之正確概念，運用國際貿易經營管理之原理，達到習得一技之長的功效。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

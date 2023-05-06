@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "1828",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1832",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1422",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "必要的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1439",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201B",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "銲接製程係將熱量或/和壓力施於各式各樣相同或相異材料並使之結合以創造附加價值，而此等製程均與變形力學相關.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2122",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "coe205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體的性質, 流場, 黏性作用, 基本流力公式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3041",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH211",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "基本的機率理論、隨機變數、分配函數、密度與質量函數等基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

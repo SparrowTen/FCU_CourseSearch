@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "3837",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "銜接大一基礎微積分使同學能夠應用微分與積分方法，求解一般物理或工程問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3841",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE201",
+                "sub_name": "質能均衡",
+                "sub_ename": "MATERIAL AND ENERGY BALANCES",
+                "pre_describe": "質量與能量平衡、工程計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3844",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3849",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4262",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "邏輯設計",
+                "sub_ename": "LOGIC DESIGN",
+                "pre_describe": "組合與序向邏輯電路設計流程與化簡.",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

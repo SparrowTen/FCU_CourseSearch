@@ -1,0 +1,106 @@
+[
+    {
+        "scr_selcode": "1496",
+        "cls_id": "CE08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE308",
+                "sub_name": "單元操作(三)",
+                "sub_ename": "UNIT OPERATIONS(3)",
+                "pre_describe": "利用單元操作(三)裡所學的基礎質傳觀念於此高等熱質傳的課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1500",
+        "cls_id": "CE08320",
+        "PreCourse": [
+            {
+                "pre_subid3": "che313",
+                "sub_name": "高分子化學",
+                "sub_ename": "POLYMER CHEMISTRY",
+                "pre_describe": "藉由了解材料特性來設計其應用方向",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1818",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "專題研討基礎導論(一)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1820",
+        "cls_id": "CE13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE207",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "熱傳增益涉及流體質量與動量傳輸現象",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1837",
+        "cls_id": "CE19320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE210",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "微分方程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2695",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPTI201",
+                "sub_name": "光學(一)",
+                "sub_ename": "OPTICS (1)",
+                "pre_describe": "物理與幾何光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2696",
+        "cls_id": "CS06320",
+        "PreCourse": [
+            {
+                "pre_subid3": "OPT604",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "電磁波動方程式之解法，光偏振與繞射之基本理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0587",
+        "cls_id": "CA02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計圖表製作及機率之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

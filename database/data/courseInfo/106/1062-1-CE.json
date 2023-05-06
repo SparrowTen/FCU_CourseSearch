@@ -1,0 +1,2212 @@
+[
+    {
+        "scr_selcode": "1252",
+        "cls_id": "CE05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "本科目主要內容論及化學的基本概念，原子、分子、離子的結構，氣體定律，物質生成焓，原子構造及元素週期表，化學鍵結理論，共價鍵、離子鍵及分子的幾何結構，液體及固體的特性，碳矽化合物的網狀固體結構及液體的各種特性，溶解度積及平衡常數等，並期望能對化學知識獲得深",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1254",
+        "cls_id": "CE05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "Chemical bonds and molecular structures",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1256",
+        "cls_id": "CE05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分的基本觀念與技巧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1257",
+        "cls_id": "CE05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "誤差分析方法、基礎實驗儀器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1263",
+        "cls_id": "CE05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "本科目主要內容論及化學的基本概念，原子、分子、離子的結構，氣體定律，物質生成焓，原子構造及元素週期表，化學鍵結理論，共價鍵、離子鍵及分子的幾何結構，液體及固體的特性，碳矽化合物的網狀固體結構及液體的各種特性，溶解度積及平衡常數等，並期望能對化學知識獲得深",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1265",
+        "cls_id": "CE05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "Chemical bonds and molecular structures",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1267",
+        "cls_id": "CE05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分的基本觀念與技巧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1268",
+        "cls_id": "CE05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "誤差分析方法、基礎實驗儀器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1273",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "工程數學會用到微積分\r\nEngineering Mathematics needs background in calculus\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1274",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME204",
+                "sub_name": "纖維材料學",
+                "sub_ename": "FIBER MATERIALS",
+                "pre_describe": "纖維材料的種類、特性、用途",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1278",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM203",
+                "sub_name": "有機化學",
+                "sub_ename": "ORGANIC CHEMISTRY",
+                "pre_describe": "纖維材料化學結構原理概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1279",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME208",
+                "sub_name": "織布準備學",
+                "sub_ename": "PREPARING FOR WEAVING",
+                "pre_describe": "纖維材料使用織造工程前所需整備工作的相關知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1280",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME103",
+                "sub_name": "纖維複合材料概論",
+                "sub_ename": "INTRODUCTION TO THE FIBER AND COMPOSITE MATERIALS",
+                "pre_describe": "纖維材料種類、成型、應用原理與加工技術概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1290",
+        "cls_id": "CE05121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME234",
+                "sub_name": "纖維化學(一)",
+                "sub_ename": "FIBER CHEMISTRY(1)",
+                "pre_describe": "纖維化學基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1282",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "工程數學會用到微積分\r\nEngineering Mathematics needs background in calculus\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1283",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME204",
+                "sub_name": "纖維材料學",
+                "sub_ename": "FIBER MATERIALS",
+                "pre_describe": "纖維材料的種類、特性、用途",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1287",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM203",
+                "sub_name": "有機化學",
+                "sub_ename": "ORGANIC CHEMISTRY",
+                "pre_describe": "纖維材料化學結構原理概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1288",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME208",
+                "sub_name": "織布準備學",
+                "sub_ename": "PREPARING FOR WEAVING",
+                "pre_describe": "纖維材料使用織造工程前所需整備工作的相關知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1289",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME103",
+                "sub_name": "纖維複合材料概論",
+                "sub_ename": "INTRODUCTION TO THE FIBER AND COMPOSITE MATERIALS",
+                "pre_describe": "纖維材料種類、成型、應用原理與加工技術概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1290",
+        "cls_id": "CE05122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME234",
+                "sub_name": "纖維化學(一)",
+                "sub_ename": "FIBER CHEMISTRY(1)",
+                "pre_describe": "纖維化學基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1295",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "剛體之力平、衡與自由體之平衡",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1296",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME302",
+                "sub_name": "纖維物理(二)",
+                "sub_ename": "FIBER PHYSICS(2)",
+                "pre_describe": "各類纖維概論、纖維基礎結構及其物性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1298",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME388",
+                "sub_name": "複合材料學",
+                "sub_ename": "COMPOSITE MATERIALS",
+                "pre_describe": "複合材料之基本性質與製造方法概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1299",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "應力、應變，會用到材料力學。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1300",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "纖維物理學中，基本材料的組成、原子與分子結構、化學鍵結、分子間作用力都與化學習習相關，尤其大部分的纖維材料都是有機體，因此必須具備基本的普通化學基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1301",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE214",
+                "sub_name": "有機化學(一)",
+                "sub_ename": "ORGANIC CHEMISTRY(1)",
+                "pre_describe": "了解有機化合物的結構與構造原理等方法和能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1312",
+        "cls_id": "CE05131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分的原理與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1303",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學",
+                "sub_ename": "APPLIED MECHANICS",
+                "pre_describe": "剛體之力平、衡與自由體之平衡",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1304",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME302",
+                "sub_name": "纖維物理(二)",
+                "sub_ename": "FIBER PHYSICS(2)",
+                "pre_describe": "各類纖維概論、纖維基礎結構及其物性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1306",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME388",
+                "sub_name": "複合材料學",
+                "sub_ename": "COMPOSITE MATERIALS",
+                "pre_describe": "複合材料之基本性質與製造方法概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1307",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": "應力、應變，會用到材料力學。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1308",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "纖維物理學中，基本材料的組成、原子與分子結構、化學鍵結、分子間作用力都與化學習習相關，尤其大部分的纖維材料都是有機體，因此必須具備基本的普通化學基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1309",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE214",
+                "sub_name": "有機化學(一)",
+                "sub_ename": "ORGANIC CHEMISTRY(1)",
+                "pre_describe": "了解有機化合物的結構與構造原理等方法和能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1312",
+        "cls_id": "CE05132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分的原理與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1314",
+        "cls_id": "CE05141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME312",
+                "sub_name": "聚合體化學(一)",
+                "sub_ename": "MACROMOLECULAR CHEMISTRY (1)",
+                "pre_describe": "高分子定義, 分類, 與聚合反應原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1315",
+        "cls_id": "CE05141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME204",
+                "sub_name": "纖維材料",
+                "sub_ename": "FIBER MATERIALS",
+                "pre_describe": "各種纖維材料之性能、紡織品加工程序與性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1314",
+        "cls_id": "CE05142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME312",
+                "sub_name": "聚合體化學(一)",
+                "sub_ename": "MACROMOLECULAR CHEMISTRY (1)",
+                "pre_describe": "高分子定義, 分類, 與聚合反應原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1315",
+        "cls_id": "CE05142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FCME204",
+                "sub_name": "纖維材料",
+                "sub_ename": "FIBER MATERIALS",
+                "pre_describe": "各種纖維材料之性能、紡織品加工程序與性質",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1159",
+        "cls_id": "CE04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分的原理與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1162",
+        "cls_id": "CE04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "不同型態的結構體於不同外載作用下達到靜平衡狀態時，學生能運用平衡條件求解出邊界支撐的反力大小或結構某斷面上的內力大小。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1165",
+        "cls_id": "CE04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "理解工程製圖的基本學理與相關規範，並學習利用 Auto-CAD軟體進行2D與3D的繪製。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1166",
+        "cls_id": "CE04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一、第二原理與一些熱物理的觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1167",
+        "cls_id": "CE04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(二)",
+                "sub_ename": "APPLIED MECHANICS(2)",
+                "pre_describe": "剛體的位移、速度、加速度分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1169",
+        "cls_id": "CE04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分的原理與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1172",
+        "cls_id": "CE04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "不同型態的結構體於不同外載作用下達到靜平衡狀態時，學生能運用平衡條件求解出邊界支撐的反力大小或結構某斷面上的內力大小。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1175",
+        "cls_id": "CE04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "理解工程製圖的基本學理與相關規範，並學習利用 Auto-CAD軟體進行2D與3D的繪製。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1176",
+        "cls_id": "CE04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一、第二原理與一些熱物理的觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1177",
+        "cls_id": "CE04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(二)",
+                "sub_ename": "APPLIED MECHANICS(2)",
+                "pre_describe": "剛體的位移、速度、加速度分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1179",
+        "cls_id": "CE04123",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分的原理與運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1182",
+        "cls_id": "CE04123",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "不同型態的結構體於不同外載作用下達到靜平衡狀態時，學生能運用平衡條件求解出邊界支撐的反力大小或結構某斷面上的內力大小。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1185",
+        "cls_id": "CE04123",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "理解工程製圖的基本學理與相關規範，並學習利用 Auto-CAD軟體進行2D與3D的繪製。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1186",
+        "cls_id": "CE04123",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一、第二原理與一些熱物理的觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1187",
+        "cls_id": "CE04123",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(二)",
+                "sub_ename": "APPLIED MECHANICS(2)",
+                "pre_describe": "剛體的位移、速度、加速度分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1191",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "工程數學中必要之計算分析及各項求解之方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1192",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1193",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "Load determination",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1194",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "旨在使學生瞭解流體力學之基本原理和在工程上之應用,將連續方程式,動量方程式及能量方程式應用到內流場和外流場之方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1212",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": "材料的相圖、結晶結構、機械性質測試",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1213",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "相關基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1217",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1218",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "基礎微積分分析能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1219",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "60521",
+                "sub_name": "微積分(二)",
+                "sub_ename": "CALCULUS(2)",
+                "pre_describe": "極限，微分和積分的觀念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1220",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE200",
+                "sub_name": "電工學",
+                "sub_ename": "ELECTRICAL ENGINEERING",
+                "pre_describe": "電路解析方法，繼電器結構與應用，電位計結構與應用，階梯電路之分析與設計，馬達之原理與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1221",
+        "cls_id": "CE04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1198",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "工程數學中必要之計算分析及各項求解之方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1199",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1200",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "Load determination",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1201",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "旨在使學生瞭解流體力學之基本原理和在工程上之應用,將連續方程式,動量方程式及能量方程式應用到內流場和外流場之方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1212",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": "材料的相圖、結晶結構、機械性質測試",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1213",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "相關基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1217",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1218",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "基礎微積分分析能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1219",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "60521",
+                "sub_name": "微積分(二)",
+                "sub_ename": "CALCULUS(2)",
+                "pre_describe": "極限，微分和積分的觀念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1220",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE200",
+                "sub_name": "電工學",
+                "sub_ename": "ELECTRICAL ENGINEERING",
+                "pre_describe": "電路解析方法，繼電器結構與應用，電位計結構與應用，階梯電路之分析與設計，馬達之原理與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1221",
+        "cls_id": "CE04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1205",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "工程數學中必要之計算分析及各項求解之方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1206",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學(一)",
+                "sub_ename": "MECHANICS OF MATERIALS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1207",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "Load determination",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1208",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "旨在使學生瞭解流體力學之基本原理和在工程上之應用,將連續方程式,動量方程式及能量方程式應用到內流場和外流場之方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1212",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE205",
+                "sub_name": "機械材料(一)",
+                "sub_ename": "MECHANICAL MATERIALS(1)",
+                "pre_describe": "材料的相圖、結晶結構、機械性質測試",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1213",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO301",
+                "sub_name": "控制系統(一)",
+                "sub_ename": "CONTROL SYSTEMS (1)",
+                "pre_describe": "相關基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1217",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1218",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "基礎微積分分析能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1219",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "60521",
+                "sub_name": "微積分(二)",
+                "sub_ename": "CALCULUS(2)",
+                "pre_describe": "極限，微分和積分的觀念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1220",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE200",
+                "sub_name": "電工學",
+                "sub_ename": "ELECTRICAL ENGINEERING",
+                "pre_describe": "電路解析方法，繼電器結構與應用，電位計結構與應用，階梯電路之分析與設計，馬達之原理與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1221",
+        "cls_id": "CE04133",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1224",
+        "cls_id": "CE04141",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS106",
+                "sub_name": "普通物理(二)",
+                "sub_ename": "GENERAL PHYSICS(2)",
+                "pre_describe": "奈米科技中近代物理、量子物理的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1226",
+        "cls_id": "CE04141",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE113",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "工程圖學是機械領域工業應用軟體的重要基礎，尤其是電腦3D圖學的相關知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1224",
+        "cls_id": "CE04142",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS106",
+                "sub_name": "普通物理(二)",
+                "sub_ename": "GENERAL PHYSICS(2)",
+                "pre_describe": "奈米科技中近代物理、量子物理的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1226",
+        "cls_id": "CE04142",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE113",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "工程圖學是機械領域工業應用軟體的重要基礎，尤其是電腦3D圖學的相關知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1224",
+        "cls_id": "CE04143",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS106",
+                "sub_name": "普通物理(二)",
+                "sub_ename": "GENERAL PHYSICS(2)",
+                "pre_describe": "奈米科技中近代物理、量子物理的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1226",
+        "cls_id": "CE04143",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE113",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "工程圖學是機械領域工業應用軟體的重要基礎，尤其是電腦3D圖學的相關知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1362",
+        "cls_id": "CE06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分為機率與統計的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1364",
+        "cls_id": "CE06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE110",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "計算機基本架構、數位系統原理與作業系統指令操作。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1365",
+        "cls_id": "CE06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "學習向量空間內、外積之運算需具備微積分之微分、積分等基本運算技巧及概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1368",
+        "cls_id": "CE06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分為機率與統計的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1370",
+        "cls_id": "CE06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE110",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "計算機基本架構、數位系統原理與作業系統指令操作。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1371",
+        "cls_id": "CE06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "學習向量空間內、外積之運算需具備微積分之微分、積分等基本運算技巧及概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1378",
+        "cls_id": "CE06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN201",
+                "sub_name": "工作研究",
+                "sub_ename": "WORK STUDY",
+                "pre_describe": "人員效率、效能之概念及量測方法；工作站設計對工作績效之影響等概念及方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1379",
+        "cls_id": "CE06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN345",
+                "sub_name": "作業研究(一)",
+                "sub_ename": "OPERATIONS RESEARCH(1)",
+                "pre_describe": "配合課程用到的隨機觀念、線性規劃模式之建立、簡捷法之理論與計算方法、與運輸問題模式之建立及解法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1386",
+        "cls_id": "CE06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN302",
+                "sub_name": "品質管制",
+                "sub_ename": "QUALITY CONTROL",
+                "pre_describe": "品管七工具、計量值和計數值管制圖、製程能力分析和抽樣計畫。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1388",
+        "cls_id": "CE06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN303",
+                "sub_name": "製造程序",
+                "sub_ename": "MANUFACTURING PROCESSES",
+                "pre_describe": "金屬材料相關知識與移除加工之觀念與原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1383",
+        "cls_id": "CE06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN201",
+                "sub_name": "工作研究",
+                "sub_ename": "WORK STUDY",
+                "pre_describe": "人員效率、效能之概念及量測方法；工作站設計對工作績效之影響等概念及方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1384",
+        "cls_id": "CE06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN345",
+                "sub_name": "作業研究(一)",
+                "sub_ename": "OPERATIONS RESEARCH(1)",
+                "pre_describe": "配合課程用到的隨機觀念、線性規劃模式之建立、簡捷法之理論與計算方法、與運輸問題模式之建立及解法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1386",
+        "cls_id": "CE06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN302",
+                "sub_name": "品質管制",
+                "sub_ename": "QUALITY CONTROL",
+                "pre_describe": "品管七工具、計量值和計數值管制圖、製程能力分析和抽樣計畫。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1388",
+        "cls_id": "CE06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INEN303",
+                "sub_name": "製造程序",
+                "sub_ename": "MANUFACTURING PROCESSES",
+                "pre_describe": "金屬材料相關知識與移除加工之觀念與原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1501",
+        "cls_id": "CE08111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "基礎化學知識之應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1502",
+        "cls_id": "CE08111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "原子與分子理論、化學計算、化學鍵、熱力學、化學平衡、化學反應等化學原理，物質化學特性、分析儀器與分析方法之簡要應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1505",
+        "cls_id": "CE08111",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "誤差分析方法、基礎實驗儀器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1510",
+        "cls_id": "CE08112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "基礎化學知識之應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1511",
+        "cls_id": "CE08112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "原子與分子理論、化學計算、化學鍵、熱力學、化學平衡、化學反應等化學原理，物質化學特性、分析儀器與分析方法之簡要應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1514",
+        "cls_id": "CE08112",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "誤差分析方法、基礎實驗儀器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1518",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分於微分之定義與原理及微分運算之原理及方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1519",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "普通化學的基本概念與原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1520",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "原子結構、化學鍵、與電負性等基本概念與原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1521",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "原子理論、量子理論、原子結構、電子組態、化學鍵結、分子形狀、主要化學反應與反應熱　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1522",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1530",
+        "cls_id": "CE08121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE301",
+                "sub_name": "物理化學",
+                "sub_ename": "PHYSICAL CHEMISTRY",
+                "pre_describe": "依數性質概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1524",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分於微分之定義與原理及微分運算之原理及方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1525",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "普通化學的基本概念與原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1526",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "原子結構、化學鍵、與電負性等基本概念與原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1527",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE112",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "原子理論、量子理論、原子結構、電子組態、化學鍵結、分子形狀、主要化學反應與反應熱　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1528",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1530",
+        "cls_id": "CE08122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE301",
+                "sub_name": "物理化學",
+                "sub_ename": "PHYSICAL CHEMISTRY",
+                "pre_describe": "依數性質概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1535",
+        "cls_id": "CE08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1544",
+        "cls_id": "CE08131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "基本化學分子構造",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1541",
+        "cls_id": "CE08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1544",
+        "cls_id": "CE08132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學(一)",
+                "sub_ename": "GENERAL CHEMISTRY(1)",
+                "pre_describe": "基本化學分子構造",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1550",
+        "cls_id": "CE08141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "學習各種有害化學藥品的基本性質及了解化合物反應、製備時所可能發生的反應",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1550",
+        "cls_id": "CE08142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHEM101",
+                "sub_name": "普通化學",
+                "sub_ename": "GENERAL CHEMISTRY",
+                "pre_describe": "學習各種有害化學藥品的基本性質及了解化合物反應、製備時所可能發生的反應",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1777",
+        "cls_id": "CE13111",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE117",
+                "sub_name": "工廠加工實務(一)",
+                "sub_ename": "WORKSHOP PRACTICE (1)",
+                "pre_describe": "本課程為一學年課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1778",
+        "cls_id": "CE13111",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分的基本觀念與技巧　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1781",
+        "cls_id": "CE13111",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "AutoCAD 2000電腦繪圖能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1785",
+        "cls_id": "CE13112",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE117",
+                "sub_name": "工廠加工實務(一)",
+                "sub_ename": "WORKSHOP PRACTICE (1)",
+                "pre_describe": "本課程為一學年課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1786",
+        "cls_id": "CE13112",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分的基本觀念與技巧　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1789",
+        "cls_id": "CE13112",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE103",
+                "sub_name": "工程圖學(一)",
+                "sub_ename": "ENGINEERING GRAPHICS(1)",
+                "pre_describe": "AutoCAD 2000電腦繪圖能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1792",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1794",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "力學分析基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1797",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學基本觀念與定義、 熱力學第一定理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1805",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE211",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "線性代數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1808",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1809",
+        "cls_id": "CE13121",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "瞭解能源之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1799",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微分與積分的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1801",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "力學分析基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1804",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE201",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學基本觀念與定義、 熱力學第一定理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1805",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE211",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "線性代數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1808",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE108",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1809",
+        "cls_id": "CE13122",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "瞭解能源之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1812",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO102",
+                "sub_name": "航太工程概論",
+                "sub_ename": "INTRODUCTION  TO  AEROSPACE  ENGINEERING",
+                "pre_describe": "基本之機翼升力原理與飛機外型設計概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1813",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO302",
+                "sub_name": "空氣動力學(一)",
+                "sub_ename": "AERODYNAMICS (1)",
+                "pre_describe": "1.有關黏性流與非黏性流基礎理論。\r\n2.有關飛機之升力、阻力與力矩及其係數之形成。\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1814",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO102",
+                "sub_name": "航太工程概論",
+                "sub_ename": "INTRODUCTION  TO  AEROSPACE  ENGINEERING",
+                "pre_describe": "基本航太工程理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1816",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205B",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "旨在使學生瞭解流體力學之基本原理和在工程上之應用,將連續方程式,動量方程式及能量方程式應用到內流場和外流場之方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1817",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一定律、第二定律",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1827",
+        "cls_id": "CE13131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO327",
+                "sub_name": "飛航管制學",
+                "sub_ename": "AIRTRAFFIC CONTROLLED",
+                "pre_describe": "航行管制程序",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1820",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO102",
+                "sub_name": "航太工程概論",
+                "sub_ename": "INTRODUCTION  TO  AEROSPACE  ENGINEERING",
+                "pre_describe": "基本之機翼升力原理與飛機外型設計概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1821",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO302",
+                "sub_name": "空氣動力學(一)",
+                "sub_ename": "AERODYNAMICS (1)",
+                "pre_describe": "1.有關黏性流與非黏性流基礎理論。\r\n2.有關飛機之升力、阻力與力矩及其係數之形成。\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1822",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO102",
+                "sub_name": "航太工程概論",
+                "sub_ename": "INTRODUCTION  TO  AEROSPACE  ENGINEERING",
+                "pre_describe": "基本航太工程理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1824",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205B",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "旨在使學生瞭解流體力學之基本原理和在工程上之應用,將連續方程式,動量方程式及能量方程式應用到內流場和外流場之方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1825",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一定律、第二定律",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1827",
+        "cls_id": "CE13132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO327",
+                "sub_name": "飛航管制學",
+                "sub_ename": "AIRTRAFFIC CONTROLLED",
+                "pre_describe": "航行管制程序",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1831",
+        "cls_id": "CE13141",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一定理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1831",
+        "cls_id": "CE13142",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO203",
+                "sub_name": "熱力學(一)",
+                "sub_ename": "THERMODYNAMICS(1)",
+                "pre_describe": "熱力學第一定理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1945",
+        "cls_id": "CE26110",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "物理中之力學、光學、電學等基本理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1946",
+        "cls_id": "CE26110",
+        "PreCourse": [
+            {
+                "pre_subid3": "PHYS101",
+                "sub_name": "普通物理實驗(一)",
+                "sub_ename": "GENERAL PHYSICS LAB.(1)",
+                "pre_describe": "物理中之力學、光學、電學等基本理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1948",
+        "cls_id": "CE26110",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "分析微分方程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1950",
+        "cls_id": "CE26110",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1963",
+        "cls_id": "CE26130",
+        "PreCourse": [
+            {
+                "pre_subid3": "PSD212",
+                "sub_name": "控制系統",
+                "sub_ename": "CONTROL SYSTEM",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1966",
+        "cls_id": "CE26130",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "基礎微積分分析能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1967",
+        "cls_id": "CE26130",
+        "PreCourse": [
+            {
+                "pre_subid3": "PSD241",
+                "sub_name": "精密模具系統設計實務",
+                "sub_ename": "PRECISION MOLD SYSTEM DESIGN PRACTICE",
+                "pre_describe": "奠定學員對產品設計、塑膠模具設計與加工、高分子材料與射出成型等知識之基礎，而透過本門課將使學員能做出正確模具設計並進行工程分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1969",
+        "cls_id": "CE26130",
+        "PreCourse": [
+            {
+                "pre_subid3": "PSD241",
+                "sub_name": "精密模具系統設計實務",
+                "sub_ename": "PRECISION MOLD SYSTEM DESIGN PRACTICE",
+                "pre_describe": "1.基本模具三維、二維模具圖設計概念與繪製\r\n2.簡易模具拆解與組裝\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

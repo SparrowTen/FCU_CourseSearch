@@ -1,0 +1,691 @@
+[
+    {
+        "scr_selcode": "0259",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0260",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0261",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0262",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "基本電腦概念、原理及使用EXCEL的技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0273",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0274",
+        "cls_id": "CB03121",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險基本概念、原理、原則與保單分析的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0264",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0265",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0266",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0267",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "基本電腦概念、原理及使用EXCEL的技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0273",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0274",
+        "cls_id": "CB03122",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險基本概念、原理、原則與保單分析的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0269",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0270",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0271",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學原理中需求和供給的市場價格機能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0272",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "基本電腦概念、原理及使用EXCEL的技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0273",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計之一般公認會計原則、循環、借貸法則、財報要素、會計科目、財報之編制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0274",
+        "cls_id": "CB03123",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險基本概念、原理、原則與保單分析的方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0279",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本經濟理與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0281",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計的基本特性，ㄧ般公認會計原則，會計報表的呈現與意義。\r\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0292",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟、金融知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0293",
+        "cls_id": "CB03131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON307",
+                "sub_name": "貨幣銀行學",
+                "sub_ename": "MONEY AND BANKING",
+                "pre_describe": "貨幣、銀行",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0284",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本經濟理與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0286",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計的基本特性，ㄧ般公認會計原則，會計報表的呈現與意義。\r\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0292",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟、金融知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0293",
+        "cls_id": "CB03132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON307",
+                "sub_name": "貨幣銀行學",
+                "sub_ename": "MONEY AND BANKING",
+                "pre_describe": "貨幣、銀行",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0289",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "基本經濟理與分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0291",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "會計的基本特性，ㄧ般公認會計原則，會計報表的呈現與意義。\r\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0292",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "基本經濟、金融知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0293",
+        "cls_id": "CB03133",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON307",
+                "sub_name": "貨幣銀行學",
+                "sub_ename": "MONEY AND BANKING",
+                "pre_describe": "貨幣、銀行",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0348",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU100",
+                "sub_name": "風險管理",
+                "sub_ename": "RISK MANAGEMENT",
+                "pre_describe": "個人家庭、企業有關生命危險事故之管理與規劃",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0350",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學乃最基礎的課程,由危險認識,危險管理運用,保險契約與基本原理分析,進而經營實務,建立清晰正確觀念.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0351",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "需求、供給與彈性，效用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0358",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險之基礎理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0360",
+        "cls_id": "CB04121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "供需法則、消費者行為、廠商行為與市場結構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0354",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0355",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0356",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學乃最基礎的課程,由危險認識,危險管理運用,保險契約與基本原理分析,進而經營實務,建立清晰正確觀念.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0358",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險之基礎理論",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0360",
+        "cls_id": "CB04122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "供需法則、消費者行為、廠商行為與市場結構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0362",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0364",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU200",
+                "sub_name": "人壽保險",
+                "sub_ename": "LIFE INSURANCE",
+                "pre_describe": "產品種類不同保障功能相異、計算原理隨之異動。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0365",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU200",
+                "sub_name": "人壽保險",
+                "sub_ename": "LIFE INSURANCE",
+                "pre_describe": "產品種類不同保障功能相異、計算原理隨之異動。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0370",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配的概念，期望值、變異數、共變數、相關係數之計算能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0373",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0374",
+        "cls_id": "CB04131",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0370",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配的概念，期望值、變異數、共變數、相關係數之計算能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0373",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "建立分析的基本技能",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0374",
+        "cls_id": "CB04132",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0382",
+        "cls_id": "CB04141",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "了解基本的風險管理與保險學的原理原則的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0384",
+        "cls_id": "CB04141",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險的原理、原則應有充分的認知以做為學習之基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0382",
+        "cls_id": "CB04142",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "了解基本的風險管理與保險學的原理原則的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0384",
+        "cls_id": "CB04142",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險的原理、原則應有充分的認知以做為學習之基礎",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

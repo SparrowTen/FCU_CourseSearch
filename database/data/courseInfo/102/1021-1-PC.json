@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "3465",
+        "cls_id": "PC35100",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD212",
+                "sub_name": "法文(二)",
+                "sub_ename": "FRENCH(2)",
+                "pre_describe": "Basic language skills for French (weather ; time of day ordering & discussing food)",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3482",
+        "cls_id": "PC45100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ITRA353",
+                "sub_name": "國際貿易實務",
+                "sub_ename": "PRACTICES OF INTERNATIONAL TRADE",
+                "pre_describe": "以進出口貿易實務之正確概念，運用國際貿易經營管理之原理，達到習得一技之長的功效。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

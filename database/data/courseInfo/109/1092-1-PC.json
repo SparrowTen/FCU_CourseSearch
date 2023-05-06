@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "2769",
+        "cls_id": "PC04100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "無異曲線、消費選擇、成本等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2772",
+        "cls_id": "PC14100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW101",
+                "sub_name": "民法概要(一)",
+                "sub_ename": "INTRODUCTION TO CIVIL LAW(1)",
+                "pre_describe": "私人相互間權利義務關係",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2773",
+        "cls_id": "PC15100",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND236",
+                "sub_name": "休閒與遊憩理論與實務",
+                "sub_ename": "LEISURE AND RECREATION: THEORIES AND PRACTICES",
+                "pre_describe": "對休閒遊憩觀光基本概念的建立，與遊客行為管理技巧的瞭解，將有助於領隊與導遊知識與技能的訓練。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2782",
+        "cls_id": "PC30100",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS181",
+                "sub_name": "計算機程式－C",
+                "sub_ename": "PROGRAMMING LANGUAGE-C",
+                "pre_describe": "程式語言之程式撰寫。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2783",
+        "cls_id": "PC38100",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(二)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(2)",
+                "pre_describe": "計算機與資訊網路基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

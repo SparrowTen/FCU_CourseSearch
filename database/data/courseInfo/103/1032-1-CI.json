@@ -1,0 +1,1692 @@
+[
+    {
+        "scr_selcode": "2280",
+        "cls_id": "CI00101",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "一階、二階微分方程求解、拉普拉斯轉換與幂級數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1506",
+        "cls_id": "CE07111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1507",
+        "cls_id": "CE07111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法、演算法概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1520",
+        "cls_id": "CE07112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1521",
+        "cls_id": "CE07112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法、演算法概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1534",
+        "cls_id": "CE07113",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1535",
+        "cls_id": "CE07113",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法、演算法概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1547",
+        "cls_id": "CE07121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS201",
+                "sub_name": "資料結構",
+                "sub_ename": "DATA STRUCTURE",
+                "pre_describe": "基本的資料儲存、搜尋與存取的方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1549",
+        "cls_id": "CE07121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "C programming skill Logic Thinking",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1550",
+        "cls_id": "CE07121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "Programming",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1552",
+        "cls_id": "CE07121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE102",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "C language",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1555",
+        "cls_id": "CE07122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS201",
+                "sub_name": "資料結構",
+                "sub_ename": "DATA STRUCTURE",
+                "pre_describe": "基本的資料儲存、搜尋與存取的方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1557",
+        "cls_id": "CE07122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "C programming skill Logic Thinking",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1558",
+        "cls_id": "CE07122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "Programming",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1560",
+        "cls_id": "CE07122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE102",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "C language",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1563",
+        "cls_id": "CE07123",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS201",
+                "sub_name": "資料結構",
+                "sub_ename": "DATA STRUCTURE",
+                "pre_describe": "基本的資料儲存、搜尋與存取的方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1565",
+        "cls_id": "CE07123",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "C programming skill Logic Thinking",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1566",
+        "cls_id": "CE07123",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "計算機概論實習(二)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(2)",
+                "pre_describe": "Programming",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1568",
+        "cls_id": "CE07123",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE102",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "C language",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1581",
+        "cls_id": "CE07141",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1581",
+        "cls_id": "CE07142",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1581",
+        "cls_id": "CE07143",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE100",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2308",
+        "cls_id": "CI00831",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS301",
+                "sub_name": "作業系統(一)",
+                "sub_ename": "OPERATING SYSTEMS (1)",
+                "pre_describe": "OS基本觀念，如Process, Thread, Memory Management等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2311",
+        "cls_id": "CI00832",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "邏輯設計",
+                "sub_ename": "LOGIC DESIGN",
+                "pre_describe": "邏輯元件及電路",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2316",
+        "cls_id": "CI00834",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "邏輯設計",
+                "sub_ename": "LOGIC DESIGN",
+                "pre_describe": "邏輯元件及電路",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1701",
+        "cls_id": "CE09111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE102",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "C programming 設計與技巧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1702",
+        "cls_id": "CE09111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE111",
+                "sub_name": "普通物理-電、磁、光實驗",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS LAB.",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1715",
+        "cls_id": "CE09112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE102",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "C programming 設計與技巧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1716",
+        "cls_id": "CE09112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE111",
+                "sub_name": "普通物理-電、磁、光實驗",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS LAB.",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1726",
+        "cls_id": "CE09121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程式的基本分析觀念，Lapalce 轉換的基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1727",
+        "cls_id": "CE09121",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "數學計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1728",
+        "cls_id": "CE09121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本元件與電路的理論基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1731",
+        "cls_id": "CE09122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程式的基本分析觀念，Lapalce 轉換的基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1732",
+        "cls_id": "CE09122",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "數學計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1733",
+        "cls_id": "CE09122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本元件與電路的理論基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1781",
+        "cls_id": "CE11111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1782",
+        "cls_id": "CE11111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1795",
+        "cls_id": "CE11112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1796",
+        "cls_id": "CE11112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1805",
+        "cls_id": "CE11121",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "課程重點包含一階、二階微分方程求解、拉普拉斯轉換與冪級數等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1806",
+        "cls_id": "CE11121",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1807",
+        "cls_id": "CE11121",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN205",
+                "sub_name": "電子學實驗(一)",
+                "sub_ename": "ELECTRONICS LAB.(1)",
+                "pre_describe": "電學實驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1808",
+        "cls_id": "CE11121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "須具有普通物理的相關基礎.電學部份的認知與瞭解尤其重要",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1812",
+        "cls_id": "CE11122",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "課程重點包含一階、二階微分方程求解、拉普拉斯轉換與冪級數等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1813",
+        "cls_id": "CE11122",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1814",
+        "cls_id": "CE11122",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN205",
+                "sub_name": "電子學實驗(一)",
+                "sub_ename": "ELECTRONICS LAB.(1)",
+                "pre_describe": "電學實驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1815",
+        "cls_id": "CE11122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "須具有普通物理的相關基礎.電學部份的認知與瞭解尤其重要",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2292",
+        "cls_id": "CI00825",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統方程式、向量空間概論、線性轉換與矩陣表示法、特徵值、特徵向量、及內積運算原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2292",
+        "cls_id": "CI00827",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統方程式、向量空間概論、線性轉換與矩陣表示法、特徵值、特徵向量、及內積運算原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2319",
+        "cls_id": "CI00835",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2320",
+        "cls_id": "CI00835",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "交直流電路必要之各基本定理，例如克西荷夫定律與各種穩態與暫態計算等等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2321",
+        "cls_id": "CI00835",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電子學有關Diodes、BJT、MOSFET之原理與相關基本電路應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2325",
+        "cls_id": "CI00835",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電路原理、電晶體工作原理、偏壓電源與接地、元件的寄生效應、頻率響應",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2322",
+        "cls_id": "CI00836",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN309",
+                "sub_name": "半導體物理",
+                "sub_ename": "SEMICONDUCTOR PHYSICS",
+                "pre_describe": "PN junction diode",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2323",
+        "cls_id": "CI00836",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "幾何光學中的光線直進、反射及，折射等基本原理；物理光學中的干射、繞射及，偏振等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2325",
+        "cls_id": "CI00837",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電路原理、電晶體工作原理、偏壓電源與接地、元件的寄生效應、頻率響應",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2353",
+        "cls_id": "CI00845",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "交直流電路必要之各基本定理，例如克西荷夫定律與各種穩態計算等等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4187",
+        "cls_id": "CI00845",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "電力系統必要之觀念與知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2354",
+        "cls_id": "CI00846",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN341",
+                "sub_name": "光纖工程",
+                "sub_ename": "OPTIC FIBER ENGINEERING",
+                "pre_describe": "光纖的結構、基本波導理論、特性及製作方法與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2356",
+        "cls_id": "CI00847",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "微積分、微分方程、向量分析、座標轉換",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1842",
+        "cls_id": "CE12111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "課程主題包含電磁學與光學。在學習物理原理的同時，學生也需熟練所需的數學工具。同時，這些內容與當代之科技發展所需之知識也密切關聯。故本課程以物理原理、數學能力、與科技應用三者並重為目標。　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1846",
+        "cls_id": "CE12111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法、演算法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1847",
+        "cls_id": "CE12111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法及演算法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1852",
+        "cls_id": "CE12112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "課程主題包含電磁學與光學。在學習物理原理的同時，學生也需熟練所需的數學工具。同時，這些內容與當代之科技發展所需之知識也密切關聯。故本課程以物理原理、數學能力、與科技應用三者並重為目標。　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1856",
+        "cls_id": "CE12112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法、演算法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1857",
+        "cls_id": "CE12112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機基本知識、資料表示法及演算法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1859",
+        "cls_id": "CE12121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "工程數學基本工具",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1860",
+        "cls_id": "CE12121",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程、拉氏轉換。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1861",
+        "cls_id": "CE12121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "基本電路理論與分析技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1862",
+        "cls_id": "CE12121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路必要的網路定理，包括暫態分析、節點方程式建立；三相電路的相的觀念以及電壓、電流與功率計算的能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1864",
+        "cls_id": "CE12121",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE212",
+                "sub_name": "微處理機系統實習",
+                "sub_ename": "THE EXPERIMENT OF MICRO-PROCESSOR SYSTEM",
+                "pre_describe": "理論基礎課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1866",
+        "cls_id": "CE12122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "工程數學基本工具",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1867",
+        "cls_id": "CE12122",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "常微分方程、拉氏轉換。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1868",
+        "cls_id": "CE12122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "基本電路理論與分析技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1869",
+        "cls_id": "CE12122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路必要的網路定理，包括暫態分析、節點方程式建立；三相電路的相的觀念以及電壓、電流與功率計算的能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1871",
+        "cls_id": "CE12122",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE212",
+                "sub_name": "微處理機系統實習",
+                "sub_ename": "THE EXPERIMENT OF MICRO-PROCESSOR SYSTEM",
+                "pre_describe": "理論基礎課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1876",
+        "cls_id": "CE12131",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "基本電路理論與分析技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1877",
+        "cls_id": "CE12131",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "分析系統之物理模型、數學模型、及其分析、設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1882",
+        "cls_id": "CE12132",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "基本電路理論與分析技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CE12132",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "分析系統之物理模型、數學模型、及其分析、設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2302",
+        "cls_id": "CI0082I",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO209",
+                "sub_name": "工程力學(一)",
+                "sub_ename": "ENGINEERING MECHANICS(1)",
+                "pre_describe": "能利用向量和非向量方法分析力與力系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2306",
+        "cls_id": "CI0082I",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "運用常微分方程套用於電路分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2302",
+        "cls_id": "CI0082L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO209",
+                "sub_name": "工程力學(一)",
+                "sub_ename": "ENGINEERING MECHANICS(1)",
+                "pre_describe": "能利用向量和非向量方法分析力與力系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2303",
+        "cls_id": "CI0082L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO206",
+                "sub_name": "半導體原理",
+                "sub_ename": "SEMICONDUCTOR PRINCIPLES",
+                "pre_describe": "瞭解半導體相關材料和元件發展原理和技術",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2304",
+        "cls_id": "CI0082L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO237",
+                "sub_name": "光機電工程(一)",
+                "sub_ename": "OPTO-MECHATRONIC ENGINEERING (I)",
+                "pre_describe": "使學生了解微光機電工程的基本原理與應用，在教材上列舉雷射、DVD、LED、液晶顯示原理、光纖通信原理、光雷精密量測、雷射醫療、雷射加工、數位相機、立體全像片、照明、微光機電系統、光電半導體、生醫光電…等，這些應用的技術，採用淺顯易懂的表現方式，輔以許多不同的相",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2306",
+        "cls_id": "CI0082L",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分",
+                "sub_ename": "CALCULUS",
+                "pre_describe": "運用常微分方程套用於電路分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2329",
+        "cls_id": "CI0083I",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位信號處理",
+                "sub_ename": "DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2343",
+        "cls_id": "CI0083L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "微傳感器原理與應用",
+                "sub_ename": "PRINCIPLES AND APPLICATIONS OF MICROTRANSDUCERS",
+                "pre_describe": "各式微傳感元件之感測與致動原理及其應用之技能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2345",
+        "cls_id": "CI0083L",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2349",
+        "cls_id": "CI0083L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO143",
+                "sub_name": "工程力學(二)",
+                "sub_ename": "ENGINEERING MECHANICS(2)",
+                "pre_describe": "牛頓第二運動定律",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2358",
+        "cls_id": "CI0084I",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "人體解剖學",
+                "sub_ename": "ANATOMY OF HUMAN BODY",
+                "pre_describe": "人體結構組成功能。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2367",
+        "cls_id": "CI0084I",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO204",
+                "sub_name": "線性控制系統",
+                "sub_ename": "LINEAR CONTROL SYSTEM",
+                "pre_describe": "基本回授控制、穩定性分析概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2367",
+        "cls_id": "CI0084L",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO204",
+                "sub_name": "線性控制系統",
+                "sub_ename": "LINEAR CONTROL SYSTEM",
+                "pre_describe": "基本回授控制、穩定性分析概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2327",
+        "cls_id": "CI0083E",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME301",
+                "sub_name": "通訊系統",
+                "sub_ename": "COMMUNICATION SYSTEMS",
+                "pre_describe": "應用於數位訊息信號傳輸之通訊系統理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2328",
+        "cls_id": "CI0083E",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電晶體電路分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2351",
+        "cls_id": "CI0083M",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME215",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2374",
+        "cls_id": "CI02111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS103",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "計算機概論實習(一)中必要C語言程式設計之概念、及程式工作使用方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2375",
+        "cls_id": "CI02111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "\t\t電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2379",
+        "cls_id": "CI02111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2388",
+        "cls_id": "CI02112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS103",
+                "sub_name": "計算機概論實習(一)",
+                "sub_ename": "THE  PROGRAMMING LABORATORY(1)",
+                "pre_describe": "計算機概論實習(一)中必要C語言程式設計之概念、及程式工作使用方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2389",
+        "cls_id": "CI02112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "\t\t電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2393",
+        "cls_id": "CI02112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2399",
+        "cls_id": "CI02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2402",
+        "cls_id": "CI02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "PN接面電容的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2410",
+        "cls_id": "CI02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Derivation and integration manipulation",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2413",
+        "cls_id": "CI02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "機率之計算,模型及工程上之應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2414",
+        "cls_id": "CI02121",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機概論(1)中數位邏輯及各種程式語言等知識與概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2405",
+        "cls_id": "CI02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2408",
+        "cls_id": "CI02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "PN接面電容的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2410",
+        "cls_id": "CI02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH105",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "Derivation and integration manipulation",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2413",
+        "cls_id": "CI02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "機率之計算,模型及工程上之應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2414",
+        "cls_id": "CI02122",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "計算機概論(1)中數位邏輯及各種程式語言等知識與概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2417",
+        "cls_id": "CI02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME301",
+                "sub_name": "通訊系統",
+                "sub_ename": "COMMUNICATION SYSTEMS",
+                "pre_describe": "應用於類比與數位訊息信號傳輸之通訊原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2424",
+        "cls_id": "CI02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "向量分析、靜電學與電容、靜電學邊界條件問題分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2425",
+        "cls_id": "CI02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": "信號與系統在於時域及頻域的觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2427",
+        "cls_id": "CI02131",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電晶體電路分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2421",
+        "cls_id": "CI02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME301",
+                "sub_name": "通訊系統",
+                "sub_ename": "COMMUNICATION SYSTEMS",
+                "pre_describe": "應用於類比與數位訊息信號傳輸之通訊原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2424",
+        "cls_id": "CI02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "向量分析、靜電學與電容、靜電學邊界條件問題分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2425",
+        "cls_id": "CI02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": "信號與系統在於時域及頻域的觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2427",
+        "cls_id": "CI02132",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電晶體電路分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2431",
+        "cls_id": "CI02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "應用於數位無線電系統，展頻通訊系統理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2433",
+        "cls_id": "CI02141",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "座標轉換、圓球座標系統、靜電學、靜磁學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2431",
+        "cls_id": "CI02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "應用於數位無線電系統，展頻通訊系統理論。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2433",
+        "cls_id": "CI02142",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "座標轉換、圓球座標系統、靜電學、靜磁學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2457",
+        "cls_id": "CI05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2461",
+        "cls_id": "CI05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "N進位碼",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2462",
+        "cls_id": "CI05111",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "邏輯設計",
+                "sub_ename": "LOGIC DESIGN",
+                "pre_describe": "布林函數化簡、邏輯閘原理、組合電路與序向電路",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2471",
+        "cls_id": "CI05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "普通物理-電、磁、光",
+                "sub_ename": "GENERAL PHYSICS - ELECTRIC, MAGNETIC, OPTICS",
+                "pre_describe": "電學、磁學、光學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2475",
+        "cls_id": "CI05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "N進位碼",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2476",
+        "cls_id": "CI05112",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE103",
+                "sub_name": "邏輯設計",
+                "sub_ename": "LOGIC DESIGN",
+                "pre_describe": "布林函數化簡、邏輯閘原理、組合電路與序向電路",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

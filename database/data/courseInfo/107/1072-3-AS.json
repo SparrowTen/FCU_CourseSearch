@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "1905",
+        "cls_id": "CE25310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MPCD633",
+                "sub_name": "創意設計實作(一)",
+                "sub_ename": "CREATIVE DESIGN IMPLEMENTION (1)",
+                "pre_describe": "創意設計與產品開發",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "0852",
+        "cls_id": "CC00100",
+        "PreCourse": [
+            {
+                "pre_subid3": "IINE1001",
+                "sub_name": "程式邏輯與應用",
+                "sub_ename": "PROGRAMMING LOGIC AND APPLICATIONS",
+                "pre_describe": "變數宣告、迴圈、邏輯判斷、陣列等程式基礎邏輯觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0853",
+        "cls_id": "CC00100",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB602",
+                "sub_name": "研究方法",
+                "sub_ename": "RESEARCH METHODOLOGY",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

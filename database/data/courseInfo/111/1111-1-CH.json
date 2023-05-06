@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "2007",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2007",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

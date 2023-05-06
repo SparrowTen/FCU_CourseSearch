@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "0604",
+        "cls_id": "CB07430",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT302",
+                "sub_name": "應用數理統計學",
+                "sub_ename": "APPLIED MATHEMATICAL STATISTICS",
+                "pre_describe": "基礎統計估計與檢定",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0680",
+        "cls_id": "CB08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON612",
+                "sub_name": "總體經濟理論(二)",
+                "sub_ename": "MACROECONOMIC THEORY(2)",
+                "pre_describe": "理性預期、宣示效果與最適控制理論等動態分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0808",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "經濟理論的應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0809",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2227",
+        "cls_id": "CB16410",
+        "PreCourse": [
+            {
+                "pre_subid3": "45650",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "機率分配, 統計檢定",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0813",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

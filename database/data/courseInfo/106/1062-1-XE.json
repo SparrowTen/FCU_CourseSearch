@@ -1,0 +1,236 @@
+[
+    {
+        "scr_selcode": "3460",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分於微分之定義與原理及微分運算之原理及方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3461",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT111",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3466",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE110",
+                "sub_name": "材料科學導論(二)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE(2)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3469",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論與實習(I)",
+                "sub_ename": "INTRODUCTION TO COMPUTER SCIENCE AND ITS PRACTICE(I)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3470",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論與實習(I)",
+                "sub_ename": "INTRODUCTION TO COMPUTER SCIENCE AND ITS PRACTICE(I)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3471",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論與實習(I)",
+                "sub_ename": "INTRODUCTION TO COMPUTER SCIENCE AND ITS PRACTICE(I)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3472",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "財務會計的基本介紹",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3473",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "連續、動量及能量方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3474",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計入門之初步基礎，由淺入深從機率觀念定義導引學生熟悉統計估計方法的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3475",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計入門之初步基礎，由淺入深從機率觀念定義導引學生熟悉統計估計方法的基礎。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3477",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分的基本觀念與技巧",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3478",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學",
+                "sub_ename": "ENGINEERING MATHEMATICS",
+                "pre_describe": "利用基礎的微積分運算概念來解決在單元操作上所可能遇到的所有數學問題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3479",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3480",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT100",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3485",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "面積分，體積分",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3492",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS100",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO DIGITAL COMPUTER AND COMPUTING",
+                "pre_describe": "計算機基本知識、Windows  視窗基本操作",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4304",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論與實習(I)",
+                "sub_ename": "INTRODUCTION TO COMPUTER SCIENCE AND ITS PRACTICE(I)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4652",
+        "cls_id": "XE01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論與實習(I)",
+                "sub_ename": "INTRODUCTION TO COMPUTER SCIENCE AND ITS PRACTICE(I)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

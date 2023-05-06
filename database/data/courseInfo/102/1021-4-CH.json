@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "3282",
+        "cls_id": "CS04410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN201",
+                "sub_name": "中國文學史",
+                "sub_ename": "HISTORY OF CHINESE LITERATURE",
+                "pre_describe": "對中國文學流變史有總體的認識，有助於更進一步之分類文學史研究。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

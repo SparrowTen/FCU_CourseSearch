@@ -1,0 +1,236 @@
+[
+    {
+        "scr_selcode": "1879",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1881",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "具有以相量( phasor )分析三相弦波穩態電路之知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常?、波阻抗及波導結構之特性阻抗等觀?及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1884",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量、座標轉換、線性組合、矩陣",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1931",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "線性系統理論",
+                "sub_ename": "LINEAR SYSTEM THEORY",
+                "pre_describe": "線性控制系統必要定理，包括狀態方程、系統可控性、可觀測性、狀態迴授及狀態估測器設計。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1932",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200S",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "主要為矩陣運算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1942",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO419",
+                "sub_name": "數位信號處理應用",
+                "sub_ename": "APPLICATIONS OF DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "DSP的概念與DSP系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2537",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統之性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2538",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "電場、磁場、電容效應、電感效應、傳輸線的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2540",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2541",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁波",
+                "sub_ename": "ELECTROMAGNETIC WAVE",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波\r\n特性，垂直入射、斜向入射、及電磁波的傳播常數，阻抗等觀念及特性\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2542",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "瞭解各種電子元件的特性，分析電子電路的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1809",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN308",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "半導體元件基礎知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1886",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1888",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN676",
+                "sub_name": "眼用光學",
+                "sub_ename": "VISUAL OPTICS",
+                "pre_describe": "幾何光學、軟體操作基本技巧、規格解讀",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1947",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO302",
+                "sub_name": "數位信號處理",
+                "sub_ename": "DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "需具有信號時域和頻域的分析觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1643",
+        "cls_id": "CI21410",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2540",
+        "cls_id": "CI21410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

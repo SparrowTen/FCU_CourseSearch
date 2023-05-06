@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "1959",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1960",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1959",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1960",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

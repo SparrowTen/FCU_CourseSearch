@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "0991",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM112",
+                "sub_name": "力學原理",
+                "sub_ename": "THEORY OF MECHANICS",
+                "pre_describe": "力學、平衡、形心、慣性矩",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0993",
+        "cls_id": "CD06520",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM110",
+                "sub_name": "營管及物管概論",
+                "sub_ename": "INTRODUCTION TO CONSTRUCTION-PROPERTY MANAGEMENT",
+                "pre_describe": "營建管理及物業管理之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0999",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM233",
+                "sub_name": "會計學",
+                "sub_ename": "ACCOUNTING",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1000",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM208",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "主軸應力、彎矩圖、剪力圖及撓度之計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1003",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM218",
+                "sub_name": "物業管理法規",
+                "sub_ename": "PROPERTY MANAGEMENT REGULATIONS",
+                "pre_describe": "物業管理技術之運用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1007",
+        "cls_id": "CD06530",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤基本物理性質、土壤中有效應力的計算、剪力強度的計算、沉陷量的計算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1015",
+        "cls_id": "CD06540",
+        "PreCourse": [
+            {
+                "pre_subid3": "CEM325",
+                "sub_name": "鋼筋混凝土",
+                "sub_ename": "REINFORCED CONCRETE",
+                "pre_describe": "材料的強度控制，應用材料特性，剪應力與力矩觀念來使用不同工法，使工程施工更安全更簡易。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

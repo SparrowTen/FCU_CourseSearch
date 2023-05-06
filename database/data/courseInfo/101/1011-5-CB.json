@@ -1,0 +1,106 @@
+[
+    {
+        "scr_selcode": "0763",
+        "cls_id": "CB14521",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "計畫、組織與領導之基本架構及重要觀念知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0763",
+        "cls_id": "CB14522",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "計畫、組織與領導之基本架構及重要觀念知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0766",
+        "cls_id": "CB14531",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0768",
+        "cls_id": "CB14531",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "此為貨幣銀行學分析之理論基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0774",
+        "cls_id": "CB14531",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "講述人壽保險之基本準則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0770",
+        "cls_id": "CB14532",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "瞭解財務報表分析等重要課題",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0772",
+        "cls_id": "CB14532",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "此為貨幣銀行學分析之理論基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0774",
+        "cls_id": "CB14532",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "講述人壽保險之基本準則",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

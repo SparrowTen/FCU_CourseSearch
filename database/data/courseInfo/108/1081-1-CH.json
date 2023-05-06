@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "2197",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": "前一個學年所學習的語言知識為基礎，進行口語訓練。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2198",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2197",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": "前一個學年所學習的語言知識為基礎，進行口語訓練。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2198",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

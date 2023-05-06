@@ -1,0 +1,444 @@
+[
+    {
+        "scr_selcode": "1482",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "66250",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "Eigenvalue, Eigenvector, Vector Calculus",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1623",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1627",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN300",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "具基本半導體物理及元件操作基本概念即可",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1630",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN611",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1695",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1696",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1697",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN308",
+                "sub_name": "波動光學",
+                "sub_ename": "WAVE OPTICS",
+                "pre_describe": "光的波動性質與其特性",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1698",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1700",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常數、波阻抗及波導結構之特性阻抗等觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1701",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "基本電子電路原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1704",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "須具有電磁相關基礎。( EM background required. )",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1706",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學必要的原理，包括波動、重疊原理；干涉原理以及相位的觀念、光強度計算與物理光學實驗的基礎能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1760",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "建立放大器濾波器電路實作基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1761",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "建立放大器濾波器電路實作基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1767",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "一個變數與多個變數之微分與積分",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1769",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1772",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "微感測器設計",
+                "sub_ename": "MICROSENSOR DESIGN",
+                "pre_describe": "利用半導體製程製作之微感測器的感測原理、機制與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1774",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "數位信號處理包含部份系統分析觀念，學生必須具備線性系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2321",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2322",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME609",
+                "sub_name": "微波電路分析",
+                "sub_ename": "MICROWAVE CIRCUIT ANALYSIS",
+                "pre_describe": "熟悉微波量測儀器之使用以及量測與製作時所需注意之事項",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2323",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2328",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2330",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "電晶體放大器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1695",
+        "cls_id": "CI0831I",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1700",
+        "cls_id": "CI0831I",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常數、波阻抗及波導結構之特性阻抗等觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2321",
+        "cls_id": "CI0831K",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2322",
+        "cls_id": "CI0831K",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME609",
+                "sub_name": "微波電路分析",
+                "sub_ename": "MICROWAVE CIRCUIT ANALYSIS",
+                "pre_describe": "熟悉微波量測儀器之使用以及量測與製作時所需注意之事項",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2330",
+        "cls_id": "CI0832K",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "電晶體放大器",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1760",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "建立放大器濾波器電路實作基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1761",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO202",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "建立放大器濾波器電路實作基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1769",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2362",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS646",
+                "sub_name": "生物資訊學",
+                "sub_ename": "BIOINFORMATICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2834",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MSE100",
+                "sub_name": "材料科學導論(一)",
+                "sub_ename": "INTRODUCTION TO MATERIALS SCIENCE (1)",
+                "pre_describe": "本課程之教學目標有二：其一是講授材料科學工程之基本原理，以提供具有微積分、普物、普化背景之理工大學部學生研習，其二是務求內容具羅輯順序，由淺漸深。本課程分上、下兩學期，上學期的教材均屬材料之基本性質，包含：原子鍵結、晶體結構、晶體缺陷、及擴散理論。下學期",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1774",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "數位信號處理包含部份系統分析觀念，學生必須具備線性系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "scr_selcode": "2350",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2350",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4326",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4327",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4326",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4327",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2374",
+        "cls_id": "CH06140",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD429",
+                "sub_name": "畢業公演(一)",
+                "sub_ename": "GRADUATE PROJECT (1)",
+                "pre_describe": "表演訓練、劇場分工、排練技巧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

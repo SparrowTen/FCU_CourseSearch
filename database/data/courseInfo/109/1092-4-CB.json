@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "0647",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "BPHD701",
+                "sub_name": "商學博士專題研究(一)",
+                "sub_ename": "DOCTORAL RESEARCH SEMINAR (1)",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

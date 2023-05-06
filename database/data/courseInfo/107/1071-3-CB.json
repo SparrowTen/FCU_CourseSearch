@@ -1,0 +1,223 @@
+[
+    {
+        "scr_selcode": "0148",
+        "cls_id": "CB01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT203",
+                "sub_name": "中級會計學(一)",
+                "sub_ename": "INTERMEDIATE ACCOUNTING(1)",
+                "pre_describe": "基本財務會計理論與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0151",
+        "cls_id": "CB01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COB602",
+                "sub_name": "研究方法",
+                "sub_ename": "RESEARCH METHODS",
+                "pre_describe": "延續研究架構或問卷設計規畫的基本觀念與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0156",
+        "cls_id": "CB01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ACCT101",
+                "sub_name": "會計學(一)",
+                "sub_ename": "ACCOUNTING (1)",
+                "pre_describe": "了解會計記錄的方法、程序及原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2687",
+        "cls_id": "CM01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "有關管理之基本概念與管理活動",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2688",
+        "cls_id": "CM01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT100",
+                "sub_name": "企業概論",
+                "sub_ename": "INTRODUCTION TO BUSINESS",
+                "pre_describe": "有關企業管理各功能領域的基本知識，如生產與作業管理、行銷管理、人力資源管理、財務管理、資訊管理等之概念及其管理活動",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2689",
+        "cls_id": "CM01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS101",
+                "sub_name": "計算機概論",
+                "sub_ename": "INTRODUCTION TO  COMPUTER AND COMPUTING",
+                "pre_describe": "電腦、網路、與軟體等基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2692",
+        "cls_id": "CM01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT101",
+                "sub_name": "管理學",
+                "sub_ename": "MANAGEMENT",
+                "pre_describe": "銜接科技管理的基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2695",
+        "cls_id": "CM01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT610",
+                "sub_name": "組織理論與管理",
+                "sub_ename": "ORGANIZATION THEORY AND MANAGEMENT",
+                "pre_describe": "組織之特性、組織設計之重要知識、理論、一般管理之重要知識與架構",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2701",
+        "cls_id": "CM01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計(一) 中必要機率與抽樣分配概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0264",
+        "cls_id": "CB02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學",
+                "sub_ename": "ECONOMICS",
+                "pre_describe": "經濟理論的應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0522",
+        "cls_id": "CB05320",
+        "PreCourse": [
+            {
+                "pre_subid3": "PF240",
+                "sub_name": "租稅法(一)",
+                "sub_ename": "TAX LAW(1)",
+                "pre_describe": "稅制之基本概念稅法架構及課稅原則",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4470",
+        "cls_id": "CB07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "各種離散分配與連續分配，條件機率、隨機變數、機率函數、期望值。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0641",
+        "cls_id": "CB07320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT267",
+                "sub_name": "線性代數(二)",
+                "sub_ename": "LINEAR ALGEBRA(2)",
+                "pre_describe": "矩陣運算與數值分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0645",
+        "cls_id": "CB07320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT101",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "統計圖表製作及機率之基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0718",
+        "cls_id": "CB08310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON601",
+                "sub_name": "個體經濟理論(一)",
+                "sub_ename": "MICROECONOMIC THEORY(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能---邊際分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0565",
+        "cls_id": "CB06310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA230",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "營利廠商財務管理相關課題。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0779",
+        "cls_id": "CB15322",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELAW701",
+                "sub_name": "民法債篇總論(一)",
+                "sub_ename": "CIVIL LAW: GENERAL PRINCIPLES OF OBLIGATIONS(1)",
+                "pre_describe": "本課程屬進階課程，選修者應先修畢民法總則、民法債篇總論一等基礎法學課程。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

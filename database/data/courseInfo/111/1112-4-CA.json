@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "1692",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "流體力學的基本特性與流體行為的描述",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

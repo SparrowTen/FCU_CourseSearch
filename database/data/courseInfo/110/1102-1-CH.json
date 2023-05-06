@@ -1,0 +1,80 @@
+[
+    {
+        "scr_selcode": "3556",
+        "cls_id": "CH00101",
+        "PreCourse": [
+            {
+                "pre_subid3": "ENGS4910",
+                "sub_name": "校外實習導論",
+                "sub_ename": "INTRODUCTION TO OFF-CAMPUS INTERNSHIP",
+                "pre_describe": "強化學生職場實習態度，融入工作環境，做好實習任務",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2440",
+        "cls_id": "CS04140",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN122",
+                "sub_name": "四書",
+                "sub_ename": "THE FOUR BOOKS",
+                "pre_describe": "大學 中庸  論語  孟子",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1786",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1787",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1796",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1797",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

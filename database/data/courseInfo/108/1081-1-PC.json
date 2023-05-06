@@ -1,0 +1,41 @@
+[
+    {
+        "scr_selcode": "3216",
+        "cls_id": "PC04100",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON101",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "無異曲線、消費選擇、成本等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3231",
+        "cls_id": "PC46100",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE348",
+                "sub_name": "工程類專案管理理論與實務",
+                "sub_ename": "PROJECT MANAGEMENT KNOWLEDGE AND PRACTICE IN ENGINEERING",
+                "pre_describe": "為本課程重要基礎觀念建立之前置課程，需修過工程類專案管理理論與實務或管理類專案管理理論與實務，方能選修本課程。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3241",
+        "cls_id": "PC63100",
+        "PreCourse": [
+            {
+                "pre_subid3": "AERO356",
+                "sub_name": "線性控制系統(一)",
+                "sub_ename": "LINEAR CONTROL SYSTEM(1)",
+                "pre_describe": "自動控制基本分析方法",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

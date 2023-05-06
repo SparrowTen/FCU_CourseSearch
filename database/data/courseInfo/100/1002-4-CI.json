@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "1600",
+        "cls_id": "CE07410",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

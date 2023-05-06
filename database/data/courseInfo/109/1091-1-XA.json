@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "3005",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "日文(一)習得的基礎句型延伸",
+                "pre_describe_en": "Extention of the learned basic Japanese I"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3006",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "日文(一)習得的基礎句型延伸",
+                "pre_describe_en": "Extention of the learned basic Japanese I"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3007",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "日文(一)習得的基礎句型延伸",
+                "pre_describe_en": "Extention of the learned basic Japanese I"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3008",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "日文(一)習得的基礎句型延伸",
+                "pre_describe_en": "Extention of the learned basic Japanese I"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3009",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "日文(一)習得的基礎句型延伸",
+                "pre_describe_en": "Extention of the learned basic Japanese I"
+            }
+        ]
+    }
+]

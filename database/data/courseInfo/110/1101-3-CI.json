@@ -1,0 +1,236 @@
+[
+    {
+        "scr_selcode": "1423",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS347",
+                "sub_name": "資料探勘導論",
+                "sub_ename": "INTRODUCTION TO DATA MINING",
+                "pre_describe": "資料探勘基礎概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1542",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN301",
+                "sub_name": "電子電路學",
+                "sub_ename": "ELECTRONIC CIRCUITS",
+                "pre_describe": "基本的電路介紹與功能分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1543",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "VLSI課程之基礎知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1545",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN308",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "半導體元件基礎知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1548",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "11430",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "熟悉元件特性進而了解元件發生可靠度問題之物理機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1641",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN215",
+                "sub_name": "幾何光學",
+                "sub_ename": "GEOMETRICAL OPTIC",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1644",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1645",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1646",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量、座標轉換、線性組合、矩陣",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1647",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學必要的原理，包括波動、重疊原理；干涉原理以及相位的觀念、光強度計算與物理光學實驗的基礎能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1649",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3660",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1698",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "分析系統之物理模型、數學模型、及其分析、設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1699",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO419",
+                "sub_name": "數位信號處理應用",
+                "sub_ename": "APPLICATIONS OF DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "DSP的概念與DSP系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2109",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "瞭解各種電子元件的特性，分析電子電路的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2112",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "come303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1641",
+        "cls_id": "CI2331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN215",
+                "sub_name": "幾何光學",
+                "sub_ename": "GEOMETRICAL OPTIC",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1645",
+        "cls_id": "CI2331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

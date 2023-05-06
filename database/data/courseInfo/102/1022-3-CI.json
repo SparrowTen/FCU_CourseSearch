@@ -1,0 +1,457 @@
+[
+    {
+        "scr_selcode": "1728",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1732",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN342",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "熟悉元件特性進而了解元件模型及參數之物理意義。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1820",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1821",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常?、波阻抗及波導結構之特性阻抗等觀?及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2469",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學基本觀念、像差、像質評價",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2471",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路元件與基本定律；儲能元件：電感與電容；電路分析方法；一/二階電路；相量電路；交流穩態功率；拉普拉氏轉換在電路的應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2478",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1825",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "基本線性代數概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1826",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學的原理、實驗與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2485",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1878",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "回授控制理論之探討，包括系統暫態與穩態分析、穩定度分析以及性能與規範探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1880",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "一個變數與多個變數之微分與積分",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1881",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1885",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "微感測器設計",
+                "sub_ename": "MICROSENSOR DESIGN",
+                "pre_describe": "利用半導體製程製作之微感測器的感測原理、機制與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1886",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO310",
+                "sub_name": "微機電製程原理",
+                "sub_ename": "PRINCIPLE OF MEMS PROCESS",
+                "pre_describe": "瞭解微機電系統理論與技術，使夠與產業應用接軌　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2428",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME615",
+                "sub_name": "隨機信號處理",
+                "sub_ename": "RANDOM SIGNAL PROCESSING",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2430",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2475",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1878",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "回授控制理論之探討，包括系統暫態與穩態分析、穩定度分析以及性能與規範探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2469",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學基本觀念、像差、像質評價",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2471",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路元件與基本定律；儲能元件：電感與電容；電路分析方法；一/二階電路；相量電路；交流穩態功率；拉普拉氏轉換在電路的應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2478",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1728",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2475",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2478",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2485",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2491",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2491",
+        "cls_id": "CI0632E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2428",
+        "cls_id": "CI0831J",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME615",
+                "sub_name": "隨機信號處理",
+                "sub_ename": "RANDOM SIGNAL PROCESSING",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1880",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH101",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "一個變數與多個變數之微分與積分",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1881",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO313",
+                "sub_name": "生醫信號處理",
+                "sub_ename": "BIOMEDICAL SIGNAL PROCESSING",
+                "pre_describe": "信號處理在生物醫學上的重要性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2500",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS646",
+                "sub_name": "生物資訊學",
+                "sub_ename": "BIOINFORMATICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1883",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

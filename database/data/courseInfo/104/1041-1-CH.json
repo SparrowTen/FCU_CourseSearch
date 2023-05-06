@@ -1,0 +1,223 @@
+[
+    {
+        "scr_selcode": "3235",
+        "cls_id": "CS04120",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN101",
+                "sub_name": "文字學(一)",
+                "sub_ename": "CHINESE SCRIPT(1)",
+                "pre_describe": "熟悉漢字六書原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2382",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2385",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2382",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "Basic reading skills and vocabulary power of at least 3000 words",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2385",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(一)",
+                "sub_ename": "ENGLISH(1)",
+                "pre_describe": "閱讀英文文章之基本技巧與理解能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2403",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2404",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2405",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2406",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2412",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2403",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2404",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2405",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2406",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2412",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2422",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL031",
+                "sub_name": "第二外語（三）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (3) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2422",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL031",
+                "sub_name": "第二外語（三）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (3) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

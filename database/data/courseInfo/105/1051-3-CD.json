@@ -1,0 +1,132 @@
+[
+    {
+        "scr_selcode": "1133",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1134",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE278",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "材料在負載下的物理特性，內力與變形之基本觀念，軸向應力、剪應力、撓曲應力、及挫屈應力等定義與計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1135",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤現場與室內試驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1137",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1138",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE273",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "微分方程式求解、向量及矩陣運算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1141",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1141",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1146",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1148",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "側向土壓力的計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1148",
+        "cls_id": "CE0132A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "側向土壓力的計算。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

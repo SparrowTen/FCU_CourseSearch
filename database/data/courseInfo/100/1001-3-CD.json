@@ -1,0 +1,275 @@
+[
+    {
+        "scr_selcode": "1176",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤現場與室內試驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1179",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1181",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE273",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "微分方程式求解、向量及矩陣運算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1182",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1183",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1179",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1182",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1183",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1187",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE421,615",
+                "sub_name": "結構動力學",
+                "sub_ename": "STRUCTURAL DYNAMICS",
+                "pre_describe": "時域分析、頻域分析、模態疊加法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1190",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE201",
+                "sub_name": "材料力學",
+                "sub_ename": "MECHANICS OF MATERIALS",
+                "pre_describe": "熟悉Mohr's circle及應力應變觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1193",
+        "cls_id": "CE0132A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH100",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分原理與運用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1280",
+        "cls_id": "CE02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "連續方程式、動量方程式、及能量方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1286",
+        "cls_id": "CE02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY310",
+                "sub_name": "明渠水力學",
+                "sub_ename": "OPEN CHANNEL HYDRAULICS",
+                "pre_describe": "基本水動力學概念、公式推演分析之步驟",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2945",
+        "cls_id": "CM02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM203",
+                "sub_name": "軌道工程",
+                "sub_ename": "RAILWAY ENGINEERING",
+                "pre_describe": "了解軌道之結構,調車作業,號誌,車輛結構等.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2945",
+        "cls_id": "CM0231A",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM203",
+                "sub_name": "軌道工程",
+                "sub_ename": "RAILWAY ENGINEERING",
+                "pre_describe": "了解軌道之結構,調車作業,號誌,車輛結構等.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3054",
+        "cls_id": "CM0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH601",
+                "sub_name": "統計學(二)",
+                "sub_ename": "STATISTICS(2)",
+                "pre_describe": "瞭解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3059",
+        "cls_id": "CM03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND123",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3059",
+        "cls_id": "CM0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND123",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1193",
+        "cls_id": "CD0232A",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH100",
+                "sub_name": "微積分(一)",
+                "sub_ename": "CALCULUS (1)",
+                "pre_describe": "微積分原理與運用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1032",
+        "cls_id": "CD03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題研究(一)",
+                "sub_ename": "SPECIAL TOPICS STUDY (1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1037",
+        "cls_id": "CD0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

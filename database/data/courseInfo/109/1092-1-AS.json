@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "1015",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE370B",
+                "sub_name": "結構學",
+                "sub_ename": "STRUCTURAL THEORY",
+                "pre_describe": "結構受外力作用所反應的受力分佈及變形狀況",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1016",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH301",
+                "sub_name": "建築設計(五)",
+                "sub_ename": "ARCHITECTURAL DESIGN(5)",
+                "pre_describe": "銜接建築設計(五)之具備掌握單體建築與回應基地周邊環境之設計能?。實際演練操作建築設計主題(1)『複合單體建築?型』及(2)『社區建築環境?型』之訓練。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1017",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH331",
+                "sub_name": "近代建築史",
+                "sub_ename": "HISTORY OF MODERN ARCHITECTURE",
+                "pre_describe": "近代建築的發展源自於啟蒙運動與工業革命後，現代主義的思潮普遍地影響了世界建築的發展，因此現代建築史的課程也將延續近代建築史，做更多元化的闡述",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1018",
+        "cls_id": "CE03130",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH417",
+                "sub_name": "都市計畫學",
+                "sub_ename": "URBAN PLANNING",
+                "pre_describe": "理解都市計畫與都市設計之層級關係及引導機制",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1031",
+        "cls_id": "CE03150",
+        "PreCourse": [
+            {
+                "pre_subid3": "ARCH101",
+                "sub_name": "建築設計(一)",
+                "sub_ename": "ARCHITECTURAL DESIGN(1)",
+                "pre_describe": "環境與空間的認知、表現與溝通",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

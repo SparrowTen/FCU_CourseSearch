@@ -1,0 +1,210 @@
+[
+    {
+        "scr_selcode": "1749",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN301",
+                "sub_name": "電子電路學",
+                "sub_ename": "ELECTRONIC CIRCUITS",
+                "pre_describe": "基本的電路介紹與功能分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1823",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1824",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN215",
+                "sub_name": "幾何光學",
+                "sub_ename": "GEOMETRICAL OPTIC",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1826",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1827",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1875",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "線性系統理論",
+                "sub_ename": "LINEAR SYSTEM THEORY",
+                "pre_describe": "線性控制系統必要定理，包括狀態方程、系統可控性、可觀測性、狀態迴授及狀態估測器設計。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1876",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200S",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "主要為矩陣運算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2440",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "come303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2443",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2444",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁波",
+                "sub_ename": "ELECTROMAGNETIC WAVE",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波\r\n特性，垂直入射、斜向入射、及電磁波的傳播常數，阻抗等觀念及特性\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2445",
+        "cls_id": "CI03410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "瞭解各種電子元件的特性，分析電子電路的能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1829",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1831",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN208",
+                "sub_name": "電路學(一)",
+                "sub_ename": "CIRCUIT THEORY(1)",
+                "pre_describe": "電路元件與基本定律；儲能元件：電感與電容；電路分析方法；一/二階電路；相量電路；交流穩態功率；拉普拉氏轉換在電路的應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1832",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學必要的原理，包括波動、重疊原理；干涉原理以及相位的觀念、光強度計算與物理光學實驗的基礎能力。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1886",
+        "cls_id": "CI03420",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO302",
+                "sub_name": "數位信號處理",
+                "sub_ename": "DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "需具有信號時域和頻域的分析觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2443",
+        "cls_id": "CI21410",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH271",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": " ",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

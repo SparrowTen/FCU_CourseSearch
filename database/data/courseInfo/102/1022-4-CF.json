@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "2108",
+        "cls_id": "CF01410",
+        "PreCourse": [
+            {
+                "pre_subid3": "18700",
+                "sub_name": "投資學",
+                "sub_ename": "INVESTMENTS",
+                "pre_describe": "投資組合分析",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2109",
+        "cls_id": "CF01410",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA730",
+                "sub_name": "財務管理",
+                "sub_ename": "FINANCIAL MANAGEMENT",
+                "pre_describe": "資本結構理論、資本資產訂價模型、分散風險理論",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

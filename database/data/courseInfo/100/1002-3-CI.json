@@ -1,0 +1,522 @@
+[
+    {
+        "scr_selcode": "1600",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1604",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "66250",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "Eigenvalue, Eigenvector, Vector Calculus",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1604",
+        "cls_id": "CE0731A",
+        "PreCourse": [
+            {
+                "pre_subid3": "66250",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "Eigenvalue, Eigenvector, Vector Calculus",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1751",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN643",
+                "sub_name": "數位矽智產設計",
+                "sub_ename": " DIGITAL SILICON INTELLECTUAL PROPETY DESIGN",
+                "pre_describe": "設計數位矽智產之能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1756",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1757",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN609",
+                "sub_name": "高等半導體元件",
+                "sub_ename": "ADVANCED SEMICONDUCTOR DEVICES",
+                "pre_describe": "建立高等半導體元件物理之必要知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1761",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN300",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "具基本半導體物理及元件操作基本概念即可",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1763",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN611",
+                "sub_name": "工程材料",
+                "sub_ename": "ENGINEERING MATERIALS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1846",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "電磁向量 (梯度、旋度、散度)、電磁感應、電磁激發與波導邊界值之觀念及計算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1847",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1849",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1850",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN605",
+                "sub_name": "高等電磁理論(一)",
+                "sub_ename": "ADVANCED ELECTROMAGNETIC THEORY(1)",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波特性，電磁波的傳播常?、波阻抗及波導結構之特性阻抗等觀念及特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1851",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量、座標轉換、線性組合、矩陣",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1855",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1856",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學的原理、實驗與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2495",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1909",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "回授控制理論之探討，包括系統暫態與穩態分析、穩定度分析以及性能與規範探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1912",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1914",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "微感測器設計",
+                "sub_ename": "MICROSENSOR DESIGN",
+                "pre_describe": "利用半導體製程製作之微感測器的感測原理、機制與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1915",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO310",
+                "sub_name": "微機電製程原理",
+                "sub_ename": "PRINCIPLE OF MEMS PROCESS",
+                "pre_describe": "瞭解微機電系統理論與技術，使夠與產業應用接軌　",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1917",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "數位信號處理包含部份系統分析觀念，學生必須具備線性系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2437",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME201",
+                "sub_name": "信號與系統",
+                "sub_ename": "SIGNALS AND SYSTEMS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2479",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2441",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME223",
+                "sub_name": "工程數學－機率論　　",
+                "sub_ename": " ENGINEERING MATHEMATICS－PROBABILITY",
+                "pre_describe": "隨機變數、隨機向量及其相關之觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1847",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1849",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN302",
+                "sub_name": "電力系統(一)",
+                "sub_ename": "POWER SYSTEM ANALYSIS(1)",
+                "pre_describe": "三相系統、傳輸線參數與線路負載能力、「短程、中程以及長程」傳輸線路、電力變壓器、電力系統穩態運轉條件",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1909",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "回授控制理論之探討，包括系統暫態與穩態分析、穩定度分析以及性能與規範探討。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1751",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN643",
+                "sub_name": "數位矽智產設計",
+                "sub_ename": " DIGITAL SILICON INTELLECTUAL PROPETY DESIGN",
+                "pre_describe": "設計數位矽智產之能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1756",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2479",
+        "cls_id": "CI0631D",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2479",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "瞭解電晶體、二極體等電子元件及電路的相關原理、特性。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2483",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1856",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "物理光學的原理、實驗與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1917",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "數位信號處理包含部份系統分析觀念，學生必須具備線性系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2495",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2441",
+        "cls_id": "CI0632D",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME223",
+                "sub_name": "工程數學－機率論　　",
+                "sub_ename": " ENGINEERING MATHEMATICS－PROBABILITY",
+                "pre_describe": "隨機變數、隨機向量及其相關之觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2501",
+        "cls_id": "CI0632E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN448",
+                "sub_name": "光纖通訊",
+                "sub_ename": "OPTICAL FIBER COMMUNICATION",
+                "pre_describe": "光纖架構及基本原理，包含光纖波導特性、光調制器及光檢測器之概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1914",
+        "cls_id": "CI0832I",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "微感測器設計",
+                "sub_ename": "MICROSENSOR DESIGN",
+                "pre_describe": "利用半導體製程製作之微感測器的感測原理、機制與應用",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1912",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO303",
+                "sub_name": "醫學量測及儀表",
+                "sub_ename": "MEDICAL MEASUREMENT AND INSTRUMENTATION",
+                "pre_describe": "醫學量測及儀表之基本概念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1917",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO201",
+                "sub_name": "線性系統分析",
+                "sub_ename": "LINEAR SYSTEM ANALYSIS",
+                "pre_describe": "數位信號處理包含部份系統分析觀念，學生必須具備線性系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

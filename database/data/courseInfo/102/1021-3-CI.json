@@ -1,0 +1,496 @@
+[
+    {
+        "scr_selcode": "1724",
+        "cls_id": "CE07310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1891",
+        "cls_id": "CE09310",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN301",
+                "sub_name": "電子電路學",
+                "sub_ename": "ELECTRONIC CIRCUITS",
+                "pre_describe": "基本的電路介紹與功能分析。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1896",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "電子學(一)中對半導體有初步的介紹,並且對MOSFET與BJT的原理介紹可以使學生快速的進入相關元件的特性了解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1900",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN308",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "半導體元件基礎知識。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1982",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN200",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "向量分析、微分方程、複變函數、特殊函數等",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1983",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN202",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1984",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN310",
+                "sub_name": "光電工程",
+                "sub_ename": "OPTO-ELECTRIC ENGINEERING",
+                "pre_describe": "光調制。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1985",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1986",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN210",
+                "sub_name": "電磁學(一)",
+                "sub_ename": "ELECTROMAGNETICS(1)",
+                "pre_describe": "Maxwell's equations，電磁場理論，電機機械原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2644",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4342",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "向量、座標轉換、線性組合、矩陣",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1988",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4343",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN329",
+                "sub_name": "高頻電路概論",
+                "sub_ename": "INTRODUCTION TO RADIO FREQUENCY CIRCUIT",
+                "pre_describe": "電子電路在高頻訊號所產生的影響，並對元件之高頻特性做探討分析，並介紹元件在高頻時的雜散效應、微帶傳輸線分析、史密斯圖表、單埠與多埠電?網?等特性及應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2032",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO611",
+                "sub_name": "線性系統理論",
+                "sub_ename": "LINEAR SYSTEM THEORY",
+                "pre_describe": "線性控制系統必要定理，包括狀態方程、系統可控性、可觀測性、狀態迴授及狀態估測器設計。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2034",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200S",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "主要為矩陣運算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2039",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO419",
+                "sub_name": "數位信號處理應用",
+                "sub_ename": "APPLICATIONS OF DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "DSP的概念與DSP系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2652",
+        "cls_id": "CE12310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO615",
+                "sub_name": "控制系統設計與實務",
+                "sub_ename": "CONTROL SYSTEM DESIGN AND PRACTICE",
+                "pre_describe": "控制系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2045",
+        "cls_id": "CE12320",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO629",
+                "sub_name": "工業自動化系統",
+                "sub_ename": "FACTORY AUTOMATION CONTROL SYSTEM",
+                "pre_describe": "機械學、電子學、電氣科學、電子計算機、控制、及軟體工程使用微電子學去控制機械裝置。使能製作出符合設計理論的物件並能控制此物件使其達到高效能的運轉條件。機電整合再進一步運用到半導體技術，電子計算機與通訊技術，機器人學，電子視覺及智慧類神經-模糊技術。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2598",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2600",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統之性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2601",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "電場、磁場、電容效應、電阻效應、電感效應、傳輸線的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2604",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE110",
+                "sub_name": "電磁波",
+                "sub_ename": "ELECTROMAGNETIC WAVE",
+                "pre_describe": "電磁場中必要的馬克斯威爾方程組、平面波\r\n特性，垂直入射、斜向入射、及電磁波的傳播常數，阻抗等觀念及特性\r\n",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2605",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE106",
+                "sub_name": "電子學",
+                "sub_ename": "ELECTRONICS",
+                "pre_describe": "瞭解各種電子元件的特性，分析電子電路的能力，訓練學生應用電路之能力",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2607",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME304",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "基本數位通訊系統架構以及知識",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2608",
+        "cls_id": "CI02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT401",
+                "sub_name": "機率論",
+                "sub_ename": "PROBABILITY",
+                "pre_describe": "機率論概念、數字描述及計算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2611",
+        "cls_id": "CI02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統分析、設計、及其性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1985",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE105",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "線性系統與矩陣運算",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2644",
+        "cls_id": "CI0631C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN243",
+                "sub_name": "幾何光學(一)",
+                "sub_ename": "GEOMETRICAL OPTIC（一）",
+                "pre_describe": "幾何光學中的光線直進、反射、折射、光線追跡、像差、像質評估及，公差分析等基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2651",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN342",
+                "sub_name": "光纖工程",
+                "sub_ename": "OPTIC FIBER ENGINEERING",
+                "pre_describe": "光纖的結構、基本波導理論、特性及製作方法與應用。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2652",
+        "cls_id": "CI0631E",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO615",
+                "sub_name": "控制系統設計與實務",
+                "sub_ename": "CONTROL SYSTEM DESIGN AND PRACTICE",
+                "pre_describe": "控制系統的基本觀念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1988",
+        "cls_id": "CI0632C",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN603",
+                "sub_name": "物理光學",
+                "sub_ename": "PHYSICAL OPTICS",
+                "pre_describe": "波動光學之原理",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2658",
+        "cls_id": "CI0632E",
+        "PreCourse": [
+            {
+                "pre_subid3": "CIEE691",
+                "sub_name": "文獻研討(一)",
+                "sub_ename": "LITERATURE SURVEY(1)",
+                "pre_describe": "課堂講述研究生應有之研究思維與獨立解決問題能力，研讀論文的過程增進學生相關知識之深度與廣度。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1724",
+        "cls_id": "CI0831J",
+        "PreCourse": [
+            {
+                "pre_subid3": "IECS303",
+                "sub_name": "計算機結構學",
+                "sub_ename": "COMPUTER ARCHITECTURE",
+                "pre_describe": "Instruction set design, computer arithmetic, controller and datapath design, memory systems, input-output systems, networks interrupts and exceptions, pipelining",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2601",
+        "cls_id": "CI0831J",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME210",
+                "sub_name": "電磁學",
+                "sub_ename": "ELECTROMAGNETICS",
+                "pre_describe": "電場、磁場、電容效應、電阻效應、電感效應、傳輸線的概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2611",
+        "cls_id": "CI0832K",
+        "PreCourse": [
+            {
+                "pre_subid3": "COME303",
+                "sub_name": "數位通訊系統",
+                "sub_ename": "  DIGITAL COMMUNICATIONS",
+                "pre_describe": "數位通訊系統分析、設計、及其性能指標參數",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2034",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "MATH200S",
+                "sub_name": "線性代數",
+                "sub_ename": "LINEAR ALGEBRA",
+                "pre_describe": "主要為矩陣運算方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2039",
+        "cls_id": "CI13310",
+        "PreCourse": [
+            {
+                "pre_subid3": "AUTO419",
+                "sub_name": "數位信號處理應用",
+                "sub_ename": "APPLICATIONS OF DIGITAL SIGNAL PROCESSING",
+                "pre_describe": "DSP的概念與DSP系統。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0568",
+        "cls_id": "CI13320",
+        "PreCourse": [
+            {
+                "pre_subid3": "STAT267",
+                "sub_name": "線性代數(二)",
+                "sub_ename": "LINEAR ALGEBRA(2)",
+                "pre_describe": "矩陣運算與數值分析",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

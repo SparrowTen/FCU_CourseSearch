@@ -1,0 +1,28 @@
+[
+    {
+        "scr_selcode": "3593",
+        "cls_id": "NM03120",
+        "PreCourse": [
+            {
+                "pre_subid3": "ISTM114",
+                "sub_name": "解析幾何與微積分I",
+                "sub_ename": "ANALYTIC GEOMETRY AND CALCULUS I",
+                "pre_describe": "建立基本數學微積分觀念。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3592",
+        "cls_id": "NM06120",
+        "PreCourse": [
+            {
+                "pre_subid3": "ISTM247",
+                "sub_name": "電路分析",
+                "sub_ename": "CIRCUIT ANALYSIS",
+                "pre_describe": "修習電路的結構與分析技巧，對本課程有幫助。(可與本課程同時修習)",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

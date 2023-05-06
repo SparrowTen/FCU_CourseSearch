@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "1436",
+        "cls_id": "CE08410",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1439",
+        "cls_id": "CE08420",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHE346",
+                "sub_name": "微製造與微流體技術",
+                "sub_ename": "MICROFABRICATION AND MICROFLUIDICS",
+                "pre_describe": "Microfluidic Technologies and Microfabrication",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1130",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE107",
+                "sub_name": "應用力學(一)",
+                "sub_ename": "APPLIED MECHANICS(1)",
+                "pre_describe": "超音波之基本科學原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1659",
+        "cls_id": "CE17410",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學(一)",
+                "sub_ename": "FLUID MECHANICS(1)",
+                "pre_describe": "基礎流體力學認識與瞭解",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1656",
+        "cls_id": "CE17420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MCAE620",
+                "sub_name": "彈性力學",
+                "sub_ename": "THEORY OF ELASTICITY",
+                "pre_describe": "The index notation, 應力與應變之關係、Navier's equation。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

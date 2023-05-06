@@ -1,0 +1,119 @@
+[
+    {
+        "scr_selcode": "2849",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2850",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2851",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2852",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2853",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2854",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC101",
+                "sub_name": "日文(一)",
+                "sub_ename": "JAPANESE(1)",
+                "pre_describe": "與課程銜接的重要概念、原理與技能\r\n\r\n",
+                "pre_describe_en": "Importantideas,principlesandskills linkedto course"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2855",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC102",
+                "sub_name": "日文(二)",
+                "sub_ename": "JAPANESE(2)",
+                "pre_describe": "日文（一）日文（二）習得的基礎句型延伸",
+                "pre_describe_en": "Extension of the learned basic Japanese I and Japanese II"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2856",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC102",
+                "sub_name": "日文(二)",
+                "sub_ename": "JAPANESE(2)",
+                "pre_describe": "日文（一）日文（二）習得的基礎句型延伸",
+                "pre_describe_en": "Extension of the learned basic Japanese I and Japanese II"
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2857",
+        "cls_id": "XA01101",
+        "PreCourse": [
+            {
+                "pre_subid3": "LC102",
+                "sub_name": "日文(二)",
+                "sub_ename": "JAPANESE(2)",
+                "pre_describe": "日文（一）日文（二）習得的基礎句型延伸",
+                "pre_describe_en": "Extension of the learned basic Japanese I and Japanese II"
+            }
+        ]
+    }
+]

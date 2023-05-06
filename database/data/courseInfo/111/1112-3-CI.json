@@ -1,0 +1,54 @@
+[
+    {
+        "scr_selcode": "1454",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN3008",
+                "sub_name": "半導體元件",
+                "sub_ename": "SEMICONDUCTOR DEVICES",
+                "pre_describe": "具基本半導體元件操作概念即可",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1455",
+        "cls_id": "CE09320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ELEN201",
+                "sub_name": "電子學(一)",
+                "sub_ename": "ELECTRONICS (1)",
+                "pre_describe": "Basic conception about microelectronics.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1564",
+        "cls_id": "CE11310",
+        "PreCourse": [
+            {
+                "pre_subid3": "IEE1000",
+                "sub_name": "計算機概論(一)",
+                "sub_ename": "INTRODUCTION TO COMPUTER(1)",
+                "pre_describe": "十六進制與十進制間相關的概念、C語言相關程式語言的基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3573",
+        "cls_id": "CE11320",
+        "PreCourse": [
+            {
+                "pre_subid3": "EEEN3016",
+                "sub_name": "電波實驗",
+                "sub_ename": "MICROWAVE LAB.",
+                "pre_describe": "具備基本的天線理論基礎以及天線的實作/模擬技術。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

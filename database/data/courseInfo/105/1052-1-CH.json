@@ -1,0 +1,249 @@
+[
+    {
+        "scr_selcode": "2937",
+        "cls_id": "CS04140",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN122",
+                "sub_name": "四書",
+                "sub_ename": "THE FOUR BOOKS",
+                "pre_describe": "大學 中庸  論語  孟子",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2080",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2081",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2082",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2083",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2084",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2100",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2092",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2093",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2094",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2095",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2096",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2100",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2123",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2123",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2156",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2156",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2165",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2165",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "scr_selcode": "1107",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤現場與室內試驗",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1111",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE273",
+                "sub_name": "工程數學(一)",
+                "sub_ename": "ENGINEERING MATHEMATICS(1)",
+                "pre_describe": "微分方程式求解、向量及矩陣運算。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1112",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1114",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1115",
+        "cls_id": "CE01310",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1112",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE271",
+                "sub_name": "土壤力學",
+                "sub_ename": "SOIL MECHANICS",
+                "pre_describe": "土壤的組成、分類、土壓力與水壓力分佈、滲流、沉陷及剪力強度之基本原理。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1114",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "功與應變能，傾角變位法，單位力法，最小功法，虛功法等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1115",
+        "cls_id": "CE0131A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE270",
+                "sub_name": "結構學(一)",
+                "sub_ename": "STRUCTURAL THEORY(1)",
+                "pre_describe": "靜定結構之內力分析方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1121",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE373",
+                "sub_name": "鋼筋混凝土(一)",
+                "sub_ename": "REINFORCED CONCRETE(1)",
+                "pre_describe": "梁、柱、樓版、基礎之分析與設計",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4226",
+        "cls_id": "CE01320",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE630",
+                "sub_name": "彈性力學",
+                "sub_ename": "THEORY OF ELASTICITY",
+                "pre_describe": "應力張量、應變張量、彈性組成律及平衡方程式等。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1123",
+        "cls_id": "CE0132A",
+        "PreCourse": [
+            {
+                "pre_subid3": "CE201",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "波動相關理論及空氣動力學",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1209",
+        "cls_id": "CE02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "COE205",
+                "sub_name": "流體力學",
+                "sub_ename": "FLUID MECHANICS",
+                "pre_describe": "連續方程式、動量方程式、及能量方程式",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1214",
+        "cls_id": "CE02320",
+        "PreCourse": [
+            {
+                "pre_subid3": "HY310",
+                "sub_name": "明渠水力學",
+                "sub_ename": "OPEN CHANNEL HYDRAULICS",
+                "pre_describe": "基本水動力學概念、公式推演分析之步驟",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2881",
+        "cls_id": "CM02310",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM203",
+                "sub_name": "軌道工程",
+                "sub_ename": "RAILWAY ENGINEERING",
+                "pre_describe": "了解軌道之結構,調車作業,號誌,車輛結構等.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2881",
+        "cls_id": "CM0231A",
+        "PreCourse": [
+            {
+                "pre_subid3": "TTEM203",
+                "sub_name": "軌道工程",
+                "sub_ename": "RAILWAY ENGINEERING",
+                "pre_describe": "了解軌道之結構,調車作業,號誌,車輛結構等.",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2985",
+        "cls_id": "CM03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND231",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "瞭解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2988",
+        "cls_id": "CM03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND481",
+                "sub_name": "研究方法",
+                "sub_ename": "RESEARCH METHODOLOGY",
+                "pre_describe": "能充分瞭解研究方法與工具、能闡述社會科學研究方法的基本概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2985",
+        "cls_id": "CM0331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND231",
+                "sub_name": "統計學(一)",
+                "sub_ename": "STATISTICS (1)",
+                "pre_describe": "瞭解統計之基本概念與方法",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3000",
+        "cls_id": "CM03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND123",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "3000",
+        "cls_id": "CM0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LAND123",
+                "sub_name": "經濟學(一)",
+                "sub_ename": "ECONOMICS (1)",
+                "pre_describe": "經濟學基本概念與名詞；供給與需求、效用與彈性、邊際成本與效益等概念與方法。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0983",
+        "cls_id": "CD03320",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題研究(一)",
+                "sub_ename": "SPECIAL TOPICS STUDY (1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0988",
+        "cls_id": "CD0332A",
+        "PreCourse": [
+            {
+                "pre_subid3": "LR691",
+                "sub_name": "專題討論(一)",
+                "sub_ename": "SEMINAR(1)",
+                "pre_describe": "是一連串的訓練過程，從相關文獻回顧與討論開始。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

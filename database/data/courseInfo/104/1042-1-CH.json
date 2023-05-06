@@ -1,0 +1,366 @@
+[
+    {
+        "scr_selcode": "2198",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2199",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2200",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2201",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2202",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2225",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2214",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2215",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2216",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2217",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2218",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2225",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2256",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2256",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2283",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2284",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2285",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2286",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2293",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2283",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2284",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2285",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2286",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2293",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2303",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4169",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2303",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "4169",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

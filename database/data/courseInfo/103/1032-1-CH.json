@@ -1,0 +1,457 @@
+[
+    {
+        "scr_selcode": "3029",
+        "cls_id": "CS04140",
+        "PreCourse": [
+            {
+                "pre_subid3": "CHIN122",
+                "sub_name": "四書",
+                "sub_ename": "THE FOUR BOOKS",
+                "pre_describe": "大學 中庸  論語  孟子",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2153",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2154",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2155",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2156",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2157",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2180",
+        "cls_id": "CH06111",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2169",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2170",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD104",
+                "sub_name": "英文(二)",
+                "sub_ename": "ENGLISH(2)",
+                "pre_describe": "Students should score higher than 40% to be admitted to English (2).",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2171",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2172",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2173",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2180",
+        "cls_id": "CH06112",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD120B",
+                "sub_name": "英文作文(一)",
+                "sub_ename": "COMPOSITION (1)",
+                "pre_describe": "為上學期之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2200",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2201",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2203",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2204",
+        "cls_id": "CH06121",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2200",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2201",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2203",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2204",
+        "cls_id": "CH06122",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD200",
+                "sub_name": "英國文學1600以前",
+                "sub_ename": "ENGLISH LITERATURE TO 1600",
+                "pre_describe": "為英國文學1600以前之銜接課程",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2229",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2230",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2231",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2232",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2233",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2234",
+        "cls_id": "CH06131",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2229",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2230",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL012",
+                "sub_name": "第二外語（一）-法文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - FRENCH",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2231",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2232",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL014",
+                "sub_name": "第二外語（一）-西班牙文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - SPANISH",
+                "pre_describe": "Students will learn the rules of Spanish pronunciation and writing. They will learn basic Spanish grammar such as the conjugation of the three basic verb forms and several important irregular verbs, as well as gender of nouns as these are the basics for b",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2233",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL011",
+                "sub_name": "第二外語（一）-日文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - JAPANESE",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2234",
+        "cls_id": "CH06132",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLL013",
+                "sub_name": "第二外語（一）-德文",
+                "sub_ename": "SECOND FOREIGN LANGUAGE (1) - GERMAN",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2245",
+        "cls_id": "CH06141",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "2245",
+        "cls_id": "CH06142",
+        "PreCourse": [
+            {
+                "pre_subid3": "FLLD115",
+                "sub_name": "筆譯理論與實務(一)",
+                "sub_ename": "TRANSLATION THEORY AND  PRACTICE(1)",
+                "pre_describe": "本課程運用前置課程所學之理論與技巧來做實務筆譯的應用習作，為就業作準備。",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "scr_selcode": "0696",
+        "cls_id": "CB16420",
+        "PreCourse": [
+            {
+                "pre_subid3": "MGT774",
+                "sub_name": "企業研究方法（一）",
+                "sub_ename": "BUSINESS RESEARCH  METHODLOGY（1）",
+                "pre_describe": "研究方法概念、研究問題發掘、文獻回顧",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]

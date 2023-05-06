@@ -1,0 +1,67 @@
+[
+    {
+        "scr_selcode": "0318",
+        "cls_id": "CB03310",
+        "PreCourse": [
+            {
+                "pre_subid3": "FINA673",
+                "sub_name": "公司財務",
+                "sub_ename": "CORPORATE FINANCE",
+                "pre_describe": "公司資本預算、投資決策、融資決策、資本結構與股利政策等相關概念",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0374",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險學概念是修習保險法之重要基礎",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0377",
+        "cls_id": "CB04310",
+        "PreCourse": [
+            {
+                "pre_subid3": "INSU101",
+                "sub_name": "保險學",
+                "sub_ename": "INSURANCE",
+                "pre_describe": "保險原理與學說",
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "0379",
+        "cls_id": "CB04320",
+        "PreCourse": [
+            {
+                "pre_subid3": "ECON203",
+                "sub_name": "總體經濟學",
+                "sub_ename": "MACROECONOMICS",
+                "pre_describe": null,
+                "pre_describe_en": null
+            }
+        ]
+    },
+    {
+        "scr_selcode": "1776",
+        "cls_id": "CF1331A",
+        "PreCourse": [
+            {
+                "pre_subid3": "45650",
+                "sub_name": "統計學",
+                "sub_ename": "STATISTICS",
+                "pre_describe": "迴歸模型及統計檢定",
+                "pre_describe_en": null
+            }
+        ]
+    }
+]
