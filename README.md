@@ -36,7 +36,7 @@ pip freeze > requirements.txt
 #### pip 使用 requirements.txt
 
 ```
-pip install -r requirements.txt
+pip install -r .\env\requirements.txt
 ```
 
 ### 初始化資料庫
