@@ -3,15 +3,46 @@
 
 ## 設定環境
 
-### Vscode Python 虛擬環境啟動指令
-```powershell
-.\pyenv\Scripts\Activate.ps1
+### Vscode Python 虛擬環境
+
+#### 建立虛擬環境
+```
+python -m venv venv
+```
+
+#### 啟動虛擬環境
+```
+.\venv\Scripts\Activate.ps1
+```
+
+#### 安裝套件
+```
+pip install -r requirements.txt
+```
+
+#### 關閉虛擬環境
+```
+deactivate
+```
+
+### Python 套件清單
+
+#### pip 生成 requirements.txt
+
+```
+pip freeze > requirements.txt
+```
+
+#### pip 使用 requirements.txt
+
+```
+pip install -r requirements.txt
 ```
 
 ### 初始化資料庫
 
 #### 使用 python 匯入
-```powershell
+```
 python .\database\Databaseinit.py
 ```
 
