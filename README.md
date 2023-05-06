@@ -17,7 +17,7 @@ python -m venv venv
 
 #### 安裝套件
 ```
-pip install -r requirements.txt
+pip install -r .\env\requirements.txt
 ```
 
 #### 關閉虛擬環境
@@ -30,7 +30,7 @@ deactivate
 #### pip 生成 requirements.txt
 
 ```
-pip freeze > requirements.txt
+pip freeze > .\env\requirements.txt
 ```
 
 #### pip 使用 requirements.txt
