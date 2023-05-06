@@ -1,3 +1,4 @@
 .vscode
 chromedriver.exe
 msedgedriver.exe
+__pycache__
