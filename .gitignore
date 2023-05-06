@@ -3,5 +3,5 @@ chromedriver.exe
 msedgedriver.exe
 __pycache__
 venv
-flask/app/__pycache__/
+API/__pycache__/*.pyc
 flask/app/__pycache__/*.pyc
