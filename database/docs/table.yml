@@ -33,7 +33,7 @@ Student:
     std_degree: INT           # 學制
     std_dept: VARCHAR(2)      # 學院
     std_unit: VARCHAR(4)      # 主系
-    std_class: VARCHAR(7)     # 班級
+    std_cls: VARCHAR(7)     # 班級
     curr_id: INT              # 課表 ID
     acc_id: INT               # 帳號 ID
 
