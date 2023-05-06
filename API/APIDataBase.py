@@ -30,6 +30,7 @@ class APIDataBase:
         for row in resault:
             row_with_column_names = dict(zip(column_names, row))
             data.append(row_with_column_names)
+        conn.close()
         return data
 
 # 測試用
