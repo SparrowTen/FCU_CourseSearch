@@ -323,11 +323,12 @@
                 <td>{{d['cls_id']}}</td>
                 <td>{{d['scr_period']}}</td>
                 <td>{{d['scr_acptcnt']}}</td>
-                <td><button class="btn btn-sm mr-3 btn-primary border-dark {{d['sub_id3']}}" name="">
+                <td><button class="btn btn-sm mr-3 btn-primary border-dark {{d['sub_id3']}}" data-add_select_id="{{d['scr_selcode']}}"
+                    data-add_cls_id="{{d['cls_id']}}" onclick="focus_course('{{d.scr_selcode}}','{{d.cls_id}}')">
                     <span class="btn-text ">關注</span><br>
                 </button>
                 <button class="btn btn-sm mr-3 btn-primary border-dark add" data-add_select_id="{{d['scr_selcode']}}"
-                    data-add_cls_id="{{d['cls_id']}}">
+                    data-add_cls_id="{{d['cls_id']}}" onclick="add_course('{{d.scr_selcode}}','{{d.cls_id}}')">
                     <span class="btn-text ">加選</span>
                 </button>
             </td>
@@ -381,6 +382,37 @@
       </footer>
       <!-- Copyright -->
     </footer>
+    <script>
+        function focus_course(selcode,cid){
+            console.log(selcode,cid);
+            $.post(
+                "http://127.0.0.1:8000/course/focus",
+            {
+                select_id: selcode,
+                cls_id: cid,
+            },
+            function (data, status) {
+                alert(data + status);
+            }
+        );
+        }
+
+        function add_course(selcode,cid) {
+            console.log(selcode,cid);
+            $.post(
+                "http://127.0.0.1:8000/course/add",
+            {
+                select_id: selcode,
+                cls_id: cid,
+            },
+            function (data, status) {
+                alert(data + status);
+            }
+        );
+    }
+
+    </script>
+
     <!-- Core -->
     <!-- <script src="node_modules/popper.js/dist/umd/popper.min.js"></script> -->
     <script src="{{ url_for('static', filename='node_modules/popper.js/dist/umd/popper.min.js') }}"></script>
