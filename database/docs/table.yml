@@ -46,7 +46,7 @@ Curriculum:
     mon: TEXT
     tue: TEXT
     wed: TEXT
-    thur: TEXT
+    thu: TEXT
     fri: TEXT
     sat: TEXT
     sun: TEXT
