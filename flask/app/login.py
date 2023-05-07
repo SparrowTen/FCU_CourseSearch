@@ -29,6 +29,7 @@ def submit():
             res = make_response('login success')
             token = user.generate_token()
             res.set_cookie(key = 'fcu_token', value = token)
+            res.set_cookie(key = 'fcu_std_id', value = std_id)
             # print('登入成功')
             return res
 

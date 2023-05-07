@@ -33,6 +33,12 @@ class APIDataBase:
         conn.close()
         return data
 
+    def exec(self, sql):
+        conn = self.POOL.connection()
+        cursor = conn.cursor()
+        cursor.execute(sql)
+        conn.commit()
+
 # 測試用
 # if __name__ == '__main__':
 #     db = APIDataBase('localhost', 3306, 'root', 'fcu')

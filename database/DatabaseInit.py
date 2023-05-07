@@ -108,14 +108,22 @@ if __name__ == "__main__":
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_curriculum` (' +
                     '`curr_id` INT NOT NULL , ' +
-                    '`mon` TEXT NOT NULL , ' +
-                    '`tue` TEXT NOT NULL , ' +
-                    '`wed` TEXT NOT NULL , ' +
-                    '`thu` TEXT NOT NULL , ' +
-                    '`fri` TEXT NOT NULL , ' +
-                    '`sat` TEXT NOT NULL , ' +
-                    '`sun` TEXT NOT NULL , ' +
-                    'PRIMARY KEY (`curr_id`)) ENGINE = InnoDB;')
+                    '`day` VARCHAR(1) NOT NULL , ' +
+                    '`1` TEXT NOT NULL , ' +
+                    '`2` TEXT NOT NULL , ' +
+                    '`3` TEXT NOT NULL , ' +
+                    '`4` TEXT NOT NULL , ' +
+                    '`5` TEXT NOT NULL , ' +
+                    '`6` TEXT NOT NULL , ' +
+                    '`7` TEXT NOT NULL , ' +
+                    '`8` TEXT NOT NULL , ' +
+                    '`9` TEXT NOT NULL , ' +
+                    '`10` TEXT NOT NULL , ' +
+                    '`11` TEXT NOT NULL , ' +
+                    '`12` TEXT NOT NULL , ' +
+                    '`13` TEXT NOT NULL , ' +
+                    '`14` TEXT NOT NULL , ' +
+                    'PRIMARY KEY (`curr_id`, `day`)) ENGINE = InnoDB;')
         db.exec(sql)
         db.insertCourseData(year, sms, file)
     
