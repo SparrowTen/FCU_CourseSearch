@@ -26,7 +26,9 @@ def submit():
             return ('',200)
         else:
             user = User(std_id, pwd)
-            res = make_response('login success')
+            index =  redirect(url_for('index'))
+            flash('Login Success!', "success")
+            res = make_response(index)
             token = user.generate_token()
             res.set_cookie(key = 'fcu_token', value = token)
             res.set_cookie(key = 'fcu_std_id', value = std_id)
