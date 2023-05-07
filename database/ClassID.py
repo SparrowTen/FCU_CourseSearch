@@ -42,18 +42,25 @@ def GetUnitList(Unit_data,degree,deptId):
     payload = json.dumps(payload)
     url = "https://coursesearch04.fcu.edu.tw/Service/Search.asmx/GetUnitList"
     r = Post(url,payload)
-
+    # print(r)
+    
     i = 0
-    while(True):   
+    this_dept = {}
+    while(True):
         try:
+            dept_id = deptId
+            # print(r['d'][i]['name'])
+            # print(r['d'][i]['id'])
             seq = r['d'][i]['name']
             value = r['d'][i]['id']
             Unit_data.setdefault(seq,value)
+            # Unit_data[dept_id][seq] = value
             i=i+1
         except:
+            print(Unit_data)
             return Unit_data
 
-def GetClassList(Class_data,degree,unitId):
+def GetClassList(Class_data, degree, unitId):
     payload = {
         "baseOptions":{
             "lang":"cht",
@@ -121,27 +128,43 @@ if __name__ == '__main__':
         f.write(d)
 
     # 所有系所
-    Unit_data = {}
+    # Unit_data = {}
+    # for degree in 1,3,4,5:
+    #     for deptId in Dept_data.values():
+    #         GetUnitList(Unit_data, degree, deptId)
+    # print("\n## 系所列表：（" + str(len(Unit_data)) + " 筆資料）")
+    # # Show(Unit_data)
+    # dataframe = pd.Series(Unit_data, index = Unit_data.keys()) 
+    # dataframe.to_csv(dir + "csv\\Unit_data.csv")
+    # with open(dir + "json\\Unit_data.json", 'w', encoding='utf-8') as f:
+    #     d = json.dumps(Unit_data, ensure_ascii=False)
+    #     f.write(d)
+    
     for degree in 1,3,4,5:
         for deptId in Dept_data.values():
-            GetUnitList(Unit_data,degree,deptId)
+            Unit_data = {}
+            GetUnitList(Unit_data, degree, deptId)
+            if len(Unit_data) != 0:
+                if not os.path.exists(dir + f"json\\unit\\"):
+                    os.makedirs(dir + f"json\\unit\\")
+                with open(dir + f"json\\unit\\{deptId}_unit.json", 'w', encoding='utf-8') as f:
+                    d = json.dumps(Unit_data, ensure_ascii=False)
+                    f.write(d)
     print("\n## 系所列表：（" + str(len(Unit_data)) + " 筆資料）")
     # Show(Unit_data)
-    dataframe = pd.Series(Unit_data, index = Unit_data.keys()) 
-    dataframe.to_csv(dir + "csv\\Unit_data.csv")
-    with open(dir + "json\\Unit_data.json", 'w', encoding='utf-8') as f:
-        d = json.dumps(Unit_data, ensure_ascii=False)
-        f.write(d)
+    # dataframe = pd.Series(Unit_data, index = Unit_data.keys()) 
+    # dataframe.to_csv(dir + "csv\\Unit_data.csv")
+    
 
     # 所有班級
-    Class_data = {}
-    for degree in 1,3,4,5:
-        for unitId in Unit_data.values():
-            GetClassList(Class_data,degree,unitId)
-    print("\n## 班級列表：（" + str(len(Class_data)) + " 筆資料）")
-    # Show(Class_data)
-    dataframe = pd.Series(Class_data, index = Class_data.keys()) 
-    dataframe.to_csv(dir + "csv\\Class_data.csv")
-    with open(dir + "json\\Class_data.json", 'w', encoding='utf-8') as f:
-        d = json.dumps(Class_data, ensure_ascii=False)
-        f.write(d)
+    # Class_data = {}
+    # for degree in 1,3,4,5:
+    #     for unitId in Unit_data.values():
+    #         GetClassList(Class_data,degree,unitId)
+    # print("\n## 班級列表：（" + str(len(Class_data)) + " 筆資料）")
+    # # Show(Class_data)
+    # dataframe = pd.Series(Class_data, index = Class_data.keys()) 
+    # dataframe.to_csv(dir + "csv\\Class_data.csv")
+    # with open(dir + "json\\Class_data.json", 'w', encoding='utf-8') as f:
+    #     d = json.dumps(Class_data, ensure_ascii=False)
+    #     f.write(d)
