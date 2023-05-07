@@ -1,13 +1,16 @@
-from flask import render_template
+# from flask import render_template
+# import MySQLdb
 
-def hello_world():
-    return "Hello, MVC框架!"
+# def hello_world():
+#     return "Hello, MVC框架!"
 
-def index():
-    return render_template('index.html') 
+# def index():
 
-def login():
-    return render_template('login.html')
+#     return render_template('index.html') 
 
-def register():
-    return render_template('register.html')
+
+# def login():
+#     return render_template('login.html')
+
+# def register():
+#     return render_template('register.html')
