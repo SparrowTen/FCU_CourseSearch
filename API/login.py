@@ -1,10 +1,10 @@
 from flask import Blueprint, request, jsonify
 from APIDataBase import APIDataBase
 
-getAccount_blp = Blueprint('getAccount', __name__)
+login_blp = Blueprint('login', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 
-@getAccount_blp.route('/getAccount', methods=['GET', 'POST'])
+@login_blp.route('/getAccount', methods=['GET', 'POST'])
 def getAccount():
     if request.method == 'POST':
         std_id = request.values['std_id']
@@ -24,7 +24,7 @@ def getAccount():
         
         return jsonify(data)
 
-@getAccount_blp.route('/createAccount', methods=['GET', 'POST'])
+@login_blp.route('/createAccount', methods=['GET', 'POST'])
 def createAccount():
     if request.method == 'POST':
         std_id = request.values['std_id']
