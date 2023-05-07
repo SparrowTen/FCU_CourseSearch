@@ -299,15 +299,16 @@
                 <span>Sign in to our platform</span>
               </div>
               <div class="card-body">
-                <form action="#" class="mt-4">
+                <form action="loginSID" class="mt-4" method="post">
                   <!-- Form -->
                   <div class="form-group">
-                    <label for="email" class="mb-2">Email</label>
+                    <label for="email" class="mb-2">SID</label>
                     <input
                       id="email"
-                      type="email"
+                      type="text"
                       class="form-control"
                       placeholder="Your email"
+                      name="SID"
                       required
                     />
                   </div>
@@ -321,7 +322,6 @@
                         type="password"
                         class="form-control"
                         placeholder="Your password"
-                        required
                       />
                     </div>
                     <!-- End of Form -->
