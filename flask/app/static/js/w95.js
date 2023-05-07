@@ -15,7 +15,6 @@
 
 */
 
-"use strict";
 $(document).ready(function () {
   $(".Schedule").hide();
   // Tooltip
@@ -122,6 +121,12 @@ $(document).ready(function () {
     // $(".Schedule").show();
     $(".Schedule").fadeToggle();
     console.log("show");
+  });
+
+  $(".closeschedule").click(function () {
+    $(".Schedule").fadeOut();
+    // $(".Schedule").hide();
+    console.log("hide");
   });
 
   $(".closeschedule").click(function () {
