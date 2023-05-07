@@ -60,3 +60,5 @@ python .\database\Databaseinit.py
 
 劉旭峰 [brian1130](https://github.com/brian1130)
 
+葉展綸 [lavacookies](https://github.com/lavacookies)
+
