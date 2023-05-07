@@ -141,6 +141,19 @@
       </script>
       <!-- {{message.1}} -->
       {% endfor %} {% endif %} {% endwith %}
+
+
+      <section class="animation-wrapper" style="z-index: 500;">
+        <section class="animation">
+          <div class="hero">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Logo_%281992-2001%29.svg/640px-Windows_Logo_%281992-2001%29.svg.png" alt="math image" 
+            width="200" height="200"/>
+          </div>
+        </section>
+        <div class="slider"></div>
+      </section>
+
+
     <div class="col-12 col-lg-6 mb-lg-0 Schedule">
       <div class="card card-tertiary insideSch">
         <div class="card-header">
@@ -372,7 +385,7 @@
             </div>
           </div>
           
-      </div>
+
       </form>
        
     </main>
@@ -509,7 +522,8 @@
     <script src="{{ url_for('static', filename='node_modules/jquery/dist/jquery.min.js') }}"></script>
     <script src="{{ url_for('static', filename='node_modules/bootstrap/dist/js/bootstrap.min.js') }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha512-3j3VU6WC5rPQB4Ld1jnLV7Kd5xr+cq9avvhwqzbH/taCRNURoeEpoPBK9pDyeukwSxwRPJ8fDgvYXd6SkaZ2TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js" integrity="sha512-0xrMWUXzEAc+VY7k48pWd5YT6ig03p4KARKxs4Bqxb9atrcn2fV41fWs+YXTKb8lD2sbPAmZMjKENiyzM/Gagw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js" integrity="sha512-DkPsH9LzNzZaZjCszwKrooKwgjArJDiEjA5tTgr3YX4E6TYv93ICS8T41yFHJnnSmGpnf0Mvb5NhScYbwvhn2w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <!-- pixel JS -->
     <script src="{{ url_for('static', filename='js/w95.js') }}"></script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
