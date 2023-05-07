@@ -33,7 +33,7 @@ Student:
     std_degree: INT           # 學制
     std_dept: VARCHAR(2)      # 學院
     std_unit: VARCHAR(4)      # 主系
-    std_cls: VARCHAR(7)     # 班級
+    std_cls: VARCHAR(7)       # 班級
     curr_id: INT              # 課表 ID
     acc_id: INT               # 帳號 ID
 
@@ -50,3 +50,29 @@ Curriculum:
     fri: TEXT
     sat: TEXT
     sun: TEXT
+
+# class_id
+Class_id:
+  PRIMARY KEY:
+    - cls_id
+  Coulmns:
+    cls_id: VARCHAR(7)       # id
+    cls_name: TEXT           # id 名稱
+
+# dept_id
+Dept_id:
+  PRIMARY KEY:
+    - dept_id
+  Coulmns:
+    dept_id: VARCHAR(2)       # id
+    dept_name: TEXT           # id 名稱
+
+# unit_id
+Unit_id:
+  PRIMARY KEY:
+    - unit_id
+  Coulmns:
+    unit_id: VARCHAR(4)       # id
+    unit_name: TEXT           # id 名稱
+
+
