@@ -10,8 +10,5 @@ app.register_blueprint(getCourse_blp, url_prefix = '/API')
 app.register_blueprint(getIdList_blp, url_prefix = '/API')
 app.register_blueprint(login_blp, url_prefix = '/API')
 
-login_manager = LoginManager()
-login_manager.init_app(app)
-
 if __name__ == '__main__':
     app.run(debug=True)
