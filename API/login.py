@@ -19,8 +19,8 @@ def getAccount():
         if email != None and pwd != None:
             data = db.execSelect(f"SELECT * FROM `Account` WHERE `email` = '{email}' AND `pwd` = '{pwd}'")
         
-        if data == []:
-            return jsonify({'error': '查無資料'})
+        # if data == []:
+            # return jsonify({'error': '查無資料'})
         
         return jsonify(data)
 
@@ -36,3 +36,23 @@ def createAccount():
 
         if std_id != None and pwd != None:
             db.execSelect(f"REPLACE INTO `Account` (`std_id`, `email`, `pwd`) VALUES ('{std_id}', '{email}', '{pwd}')")
+
+# @login_blp.route('/getToken', methods=['POST'])
+# def getToken():
+#     if request.method == 'POST':
+#         token = request.values['token']
+        
+#         if token == None:
+#             return jsonify({'error': '參數錯誤'})
+        
+#         data = db.execSelect(f"SELECT * FROM `Account` WHERE `token` = '{token}'")
+        
+#         if data == []:
+#             return jsonify({'error': '查無資料'})
+        
+#         return jsonify(data)
+
+# @login_blp.route('/setToken', methods=['POST'])
+# def setToken():
+#     if request.method == 'POST':
+#         token = request.values['token']

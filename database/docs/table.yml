@@ -82,5 +82,7 @@ Account:
     - std_id
   Coulmns:
     std_id: VARCHAR(8)       # 學號
-    email: TEXT              # email
+    # email: TEXT              # email
     pwd: VARCHAR(32)         # 密碼
+    # token: VARCHAR(32)       # token
+    # expire: INT              # token 有效期限

@@ -120,35 +120,40 @@ if __name__ == "__main__":
         db.insertCourseData(year, sms, file)
     
     
-    dir = os.path.dirname(__file__) + "\\data\\id\\json\\"
-    fileList = os.listdir(dir)
+    # dir = os.path.dirname(__file__) + "\\data\\id\\json\\"
+    # fileList = os.listdir(dir)
 
-    for file in fileList:
-        file_name = file.split('.')[0]
-        # print(file_name)
-        with open(dir + file, 'r', encoding = 'utf-8') as f:
-            file = json.loads(f.read())
-        if (file_name == 'class_id'):
-            sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-                        '`cls_id` VARCHAR(7) NOT NULL , ' +
-                        '`cls_name` TEXT NOT NULL , ' +
-                        'PRIMARY KEY (`cls_id`)) ENGINE = InnoDB;')
-        if (file_name == 'dept_id'):
-            sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-                        '`dept_id` VARCHAR(2) NOT NULL , ' +
-                        '`dept_name` TEXT NOT NULL , ' +
-                        'PRIMARY KEY (`dept_id`)) ENGINE = InnoDB;')
-        if (file_name == 'unit_id'):
-            sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-                        '`unit_id` VARCHAR(2) NOT NULL , ' +
-                        '`unit_name` TEXT NOT NULL , ' +
-                        'PRIMARY KEY (`unit_id`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        if (file_name == 'class_id'):
-            db.insertClsData(file)
-        if (file_name == 'dept_id'):
-            db.insertDeptData(file)
-        if (file_name == 'unit_id'):
-            db.insertUnitData(file)
+    # for file in fileList:
+    #     file_name = file.split('.')[0]
+    #     # print(file_name)
+    #     with open(dir + file, 'r', encoding = 'utf-8') as f:
+    #         file = json.loads(f.read())
+    #     if (file_name == 'class_id'):
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
+    #                     '`cls_id` VARCHAR(7) NOT NULL , ' +
+    #                     '`cls_name` TEXT NOT NULL , ' +
+    #                     'PRIMARY KEY (`cls_id`)) ENGINE = InnoDB;')
+    #     if (file_name == 'dept_id'):
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
+    #                     '`dept_id` VARCHAR(2) NOT NULL , ' +
+    #                     '`dept_name` TEXT NOT NULL , ' +
+    #                     'PRIMARY KEY (`dept_id`)) ENGINE = InnoDB;')
+    #     if (file_name == 'unit_id'):
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
+    #                     '`unit_id` VARCHAR(2) NOT NULL , ' +
+    #                     '`unit_name` TEXT NOT NULL , ' +
+    #                     'PRIMARY KEY (`unit_id`)) ENGINE = InnoDB;')
+    #     db.exec(sql)
+    #     if (file_name == 'class_id'):
+    #         db.insertClsData(file)
+    #     if (file_name == 'dept_id'):
+    #         db.insertDeptData(file)
+    #     if (file_name == 'unit_id'):
+    #         db.insertUnitData(file)
+    
+    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
+            '`std_id` VARCHAR(8) NOT NULL , ' +
+            '`pwd` VARCHAR(32) NOT NULL , ' +
+            'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
     
     db.closeDB()
