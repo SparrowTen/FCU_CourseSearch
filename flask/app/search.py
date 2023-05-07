@@ -19,7 +19,6 @@ def submit():
 def result(Classid):
     r = requests.get(f"http://localhost:5000/API/getCourse?year=111&sms=2&cls_id={Classid}")
     r = json.loads(r.text)
-    print(r)
     return render_template('result.html',data = r)
 
 # 從搜尋結果登入視窗
@@ -31,3 +30,4 @@ def returnlogin():
 @search_blp.route('/register.html')
 def returnregister():
     return redirect(url_for('login_blp.register'))
+

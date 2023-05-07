@@ -134,29 +134,29 @@ $(document).ready(function () {
     console.log("hide");
   });
 
-  $(".focus").click(function () {
-    $.post(
-      "http://127.0.0.1:8000/focus",
-      {
-        select_id: $(".focus").data("focus_select_id"),
-        cls_id: $(".focus").data("focus_cls_id"),
-      },
-      function (data, status) {
-        alert(data + status);
-      }
-    );
-  });
+  // $(".focus").click(function () {
+  //   $.post(
+  //     "http://127.0.0.1:8000/focus",
+  //     {
+  //       select_id: $(".focus").data("focus_select_id"),
+  //       cls_id: $(".focus").data("focus_cls_id"),
+  //     },
+  //     function (data, status) {
+  //       alert(data + status);
+  //     }
+  //   );
+  // });
 
-  $(".add").click(function () {
-    $.post(
-      "http://127.0.0.1:8000/add",
-      {
-        select_id: $(".add").data("add_select_id"),
-        cls_id: $(".add").data("add_cls_id"),
-      },
-      function (data, status) {
-        alert(data + status);
-      }
-    );
-  });
+  // $(".add").click(function () {
+  //   $.post(
+  //     "http://127.0.0.1:8000/add",
+  //     {
+  //       select_id: $(".add").data("add_select_id"),
+  //       cls_id: $(".add").data("add_cls_id"),
+  //     },
+  //     function (data, status) {
+  //       alert(data + status);
+  //     }
+  //   );
+  // });
 });
