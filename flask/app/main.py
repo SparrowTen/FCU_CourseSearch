@@ -1,4 +1,4 @@
-from flask import render_template, Flask
+from flask import render_template, Flask,request
 
 from search import search_blp
 from login import login_blp
@@ -13,7 +13,12 @@ app.register_blueprint(course_blp, url_prefix = '/course')
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    if 'fcu_token' in request.cookies:
+        print("login")
+        return render_template('index.html',login = "y")
+    else:
+        print("logout")
+        return render_template('index.html')
 
 if __name__ == "__main__":
     app.run(debug=True, port=8000)

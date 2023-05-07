@@ -133,6 +133,14 @@
   </head>
 
   <body class="d-flex flex-column min-vh-100">
+    {% with messages = get_flashed_messages(with_categories=true) %} {% if
+      messages %} {% for message in messages %}
+      <script>
+        var str = String('{{message.1}}');
+        alert(str);
+      </script>
+      <!-- {{message.1}} -->
+      {% endfor %} {% endif %} {% endwith %}
     <div class="col-12 col-lg-6 mb-lg-0 Schedule">
       <div class="card card-tertiary insideSch">
         <div class="card-header">
@@ -368,49 +376,13 @@
       </form>
        
     </main>
+    {%if login%}
+    {% include 'footerlogin.html' %}
+    {%else%}
+    {% include 'footernologin.html' %}
+    {%endif%}
 
-    <footer class="bg-info text-center text-lg-start fixed-bottom">
-      <!-- Grid container -->
-      <!-- Grid container -->
-
-      <!-- Copyright -->
-      <footer>
-        <nav
-          id="navbar-footer"
-          class="navbar navbar-main navbar-expand-lg navbar-dark justify-content-between navbar-footer mt-auto"
-          style="margin-top: auto"
-        >
-          <ul class="navbar-nav navbar-nav-hover flex-row align-items-center">
-            <li class="nav-item">
-              <a href="/login" class="nav-link" role="button">
-                <span class="nav-link-inner-text">Login</span>
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a href="/login/register" class="nav-link" role="button">
-                <span class="nav-link-inner-text">Register</span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link buttonschedule"
-                role="button"
-                data-bs-toggle="offcanvas"
-                data-bs-target="#offcanvasBottom"
-                aria-controls="offcanvasBottom"
-              >
-                <span class="nav-link-inner-text buttonschedule">Schedule</span>
-              </a>
-            </li>
-          </ul>
-          <div class="time text-center">
-            <span class="time text-uppercase">1:47 PM</span>
-          </div>
-        </nav>
-      </footer>
-      <!-- Copyright -->
-    </footer>
+    
     <script type="text/javascript">
       var colleges = [
         "商學院",
@@ -536,6 +508,7 @@
     <script src="{{ url_for('static', filename='node_modules/popper.js/dist/umd/popper.min.js') }}"></script>
     <script src="{{ url_for('static', filename='node_modules/jquery/dist/jquery.min.js') }}"></script>
     <script src="{{ url_for('static', filename='node_modules/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha512-3j3VU6WC5rPQB4Ld1jnLV7Kd5xr+cq9avvhwqzbH/taCRNURoeEpoPBK9pDyeukwSxwRPJ8fDgvYXd6SkaZ2TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <!-- pixel JS -->
     <script src="{{ url_for('static', filename='js/w95.js') }}"></script>
