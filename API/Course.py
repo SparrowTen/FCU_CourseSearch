@@ -34,6 +34,15 @@ def add():
     if r != []:
         return jsonify({'error': '前置課程未修習'})
     
+    # 判斷是否學制是否符合
+    r = db.execSelect(f"SELECT `unit_id` FROM `unit_class` WHERE `cls_id` = \'{cls_id}\'")
+    unit_id = r[0]['unit_id']
+    r = db.execSelect(f"SELECT `degree` FROM `dept_unit` WHERE `unit_id` = \'{unit_id}\'")
+    degree = r[0]['degree']
+    r = db.execSelect(f"SELECT `degree` FROM `student` WHERE `std_id` = \'{std_id}\'")
+    if degree != r[0]['degree']:
+        return jsonify({'error': '學制不符'})
+    
     # 判斷學分數是否超過上限
     r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
     std_credit = r[0]['sum']
