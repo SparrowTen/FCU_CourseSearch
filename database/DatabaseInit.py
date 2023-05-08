@@ -137,6 +137,7 @@ if __name__ == "__main__":
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
+                '`selected_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
@@ -144,6 +145,7 @@ if __name__ == "__main__":
                 'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
+                '`focused_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
@@ -153,6 +155,7 @@ if __name__ == "__main__":
         db.insertCourseData(year, sms, file)
     
     db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
+            '`account_id` INT(8) NOT NULL AUTO_INCREMENT, ' +
             '`std_id` VARCHAR(8) NOT NULL , ' +
             '`pwd` VARCHAR(32) NOT NULL , ' +
             'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
