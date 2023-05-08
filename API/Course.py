@@ -23,17 +23,20 @@ def add():
     scr_credit = r[0]['scr_credit']
     
     # 判斷是否已滿人
-    scr_percent = r[0]['scr_percent']
+    scr_percent = r[0]['scr_precnt']
     scr_acptcnt = r[0]['scr_acptcnt']
     
     if scr_acptcnt + 1 > scr_percent:
         return jsonify({'error': '課程已滿人'})
     
-    # 取得學分數
-    r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
-    std_credit = r[0]['sum']
+    # 判斷是否有前置課程
+    r = db.execSelect(f"SELECT * FROM {year}{sms}_precourse WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    if r != []:
+        return jsonify({'error': '前置課程未修習'})
     
     # 判斷學分數是否超過上限
+    r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
+    std_credit = r[0]['sum']
     if std_credit + scr_credit > 25:
         return jsonify({'error': '學分數超過上限'})
     
@@ -965,7 +968,10 @@ def delelte():
         return jsonify({'error': '必修課程不可退選'})
     
     db.exec(f"DELETE FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
-    
+    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    scr_acptcnt = r[0]['scr_acptcnt']
+    scr_acptcnt -= 1
+    db.exec(f"UPDATE `{year}{sms}_course` SET `scr_acptcnt` = \'{scr_acptcnt}\' WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
     return jsonify({'success': '退選成功'})
 
 @course_blp.route('/focus', methods=['POST'])
