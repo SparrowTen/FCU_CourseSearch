@@ -37,6 +37,10 @@ def createAccount():
         if std_id == None or pwd == None:
             return jsonify({'error': '參數錯誤'})
 
+        r = db.execSelect(f"SELECT * FROM `account` WHERE `std_id` = '{std_id}'")
+        if r != []:
+            return jsonify({'error': '此學號已被註冊'})
+        
         if std_id != None and pwd != None:
             db.exec(f"REPLACE INTO `account` (`std_id`, `pwd`) VALUES ('{std_id}', '{pwd}')")
             db.exec(f"REPLACE INTO `{year}{sms}_student` (`std_id`, `std_name`, `std_degree`, `std_dept`, `std_unit`, `std_cls`) VALUES ('{std_id}', '{std_name}', '{std_degree}', '{std_dept}', '{std_unit}', '{std_cls}')")
