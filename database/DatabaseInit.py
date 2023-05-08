@@ -88,6 +88,8 @@ if __name__ == "__main__":
     
     for file in fileList:
         sms = file[3]
+        if sms == '1':
+            continue
         with open(dir + file, 'r', encoding = 'utf-8') as f:
             file = json.loads(f.read())
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_course` (' +
@@ -109,31 +111,28 @@ if __name__ == "__main__":
                     '`std_dept` VARCHAR(2) NOT NULL , ' +
                     '`std_unit` VARCHAR(4) NOT NULL , ' +
                     '`std_cls` VARCHAR(7) NOT NULL , ' +
-                    '`std_credit` INT NOT NULL , ' +
-                    '`curr_id` INT NOT NULL , ' +
+                    # '`std_credit` INT NOT NULL , ' +
+                    # '`curr_id` INT NOT NULL , ' +
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_curriculum` (' +
-                    '`curr_id` INT NOT NULL , ' +
-                    '`day` VARCHAR(1) NOT NULL , ' +
-                    '`1` TEXT NOT NULL , ' +
-                    '`2` TEXT NOT NULL , ' +
-                    '`3` TEXT NOT NULL , ' +
-                    '`4` TEXT NOT NULL , ' +
-                    '`5` TEXT NOT NULL , ' +
-                    '`6` TEXT NOT NULL , ' +
-                    '`7` TEXT NOT NULL , ' +
-                    '`8` TEXT NOT NULL , ' +
-                    '`9` TEXT NOT NULL , ' +
-                    '`10` TEXT NOT NULL , ' +
-                    '`11` TEXT NOT NULL , ' +
-                    '`12` TEXT NOT NULL , ' +
-                    '`13` TEXT NOT NULL , ' +
-                    '`14` TEXT NOT NULL , ' +
-                    'PRIMARY KEY (`curr_id`, `day`)) ENGINE = InnoDB;')
-                    '`is_focus` INT NOT NULL , ' +
-        db.exec(sql)
+        # sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_curriculum` (' +
+        #             '`curr_id` INT NOT NULL , ' +
+        #             '`day` VARCHAR(1) NOT NULL , ' +
+        #             '`row` INT NOT NULL , ' +
+        #             '`scr_selcode` VARCHAR(8) NOT NULL , ' +
+        #             '`cls_id` VARCHAR(8) NOT NULL , ' +
+        #             '`sub_name` TEXT NOT NULL , ' +
+        #             '`is_focus` INT NOT NULL , ' +
+        #             'ENGINE = InnoDB;')
+        # db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
+                '`std_id` VARCHAR(8) NOT NULL , ' + 
+                '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
+                '`cls_id` VARCHAR(8) NOT NULL , ' + 
+                '`scr_credit` INT NOT NULL , ' + 
+                'PRIMARY KEY (`std_id`, `scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+        db.exec(sql)
+        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
