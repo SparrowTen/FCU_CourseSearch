@@ -125,7 +125,56 @@ $(document).ready(function () {
       function (data, status) {
         for (var [day, daysection] of Object.entries(data)) {
           for (var [section, value] of Object.entries(daysection)) {
-            console.log(section, value["add"]);
+            var id_day = "";
+            if (value["add"]["0"]) {
+              switch (day) {
+                case "一":
+                  id_day = "Mon";
+                  break;
+                case "二":
+                  id_day = "Tue";
+                  break;
+                case "三":
+                  id_day = "Wed";
+                  break;
+                case "四":
+                  id_day = "Thu";
+                  break;
+                case "五":
+                  id_day = "Fri";
+                  break;
+                default:
+                  break;
+              }
+              var id = "#" + id_day + "-" + section;
+              console.log(day, section, value["add"], id);
+              var data = `<a  class="btn-primary Scheduleinbtn" data-toggle="modal" data-target="#${value["add"]["0"]["sub_id3"]}">
+                ${value["add"]["0"]["sub_name"]}
+              </a>
+
+              <!-- Modal -->
+              <div class="modal fade" id="${value["add"]["0"]["sub_id3"]}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel"  style="color:black">${value["add"]["0"]["scj_scr_mso"]}</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">X</span>
+                      </button>
+                    </div>
+                    <div class="modal-body" style="color:black">
+                    ${value["add"]["0"]["sub_name"]}${value["add"]["0"]["scr_period"]}
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">退選</button>
+                      <button type="button" class="btn btn-primary">保留</button>
+                    </div>
+                  </div>
+                </div>
+              </div>`;
+
+              $(id).html(data);
+            }
           }
         }
         console.log(data);
