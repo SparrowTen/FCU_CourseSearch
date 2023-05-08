@@ -15,10 +15,89 @@
 ![](./img/register.png)
 
 ### 檢索結果
-![](./img/resault.png.png)
+![](./img/resault.png)
+
+### API
+![](./img/api.png)
 
 ## ER Model
 ![](./img/er_model.png)
+
+## API
+
+### Course
+
+#### 取得課程列表
+```
+GET: /API/getCourse
+args(year, sms)
+```
+
+#### 加選課程
+```
+POST: /API/Course/add
+data(std_id, scr_selcode, cls_id)
+```
+
+#### 退選課程
+```
+POST: /API/Course/delete
+data(std_id, scr_selcode, cls_id)
+```
+
+#### 關注課程
+```
+POST: /API/Course/focus
+data(std_id, scr_selcode, cls_id)
+```
+
+#### 取消關注課程
+```
+POST: /API/Course/unfocus
+data(std_id, scr_selcode, cls_id)
+```
+
+#### 取得課表
+```
+GET: /API/Course/getCurriculum
+args(std_id)
+```
+
+### Login
+
+#### 取得帳號
+```
+POST: /API/Login/getAccount
+data(std_id, pwd)
+```
+
+#### 創建帳號
+```
+POST: /API/Login/getAccount
+data(std_id, pwd, std_name, std_degree, std_dept, std_unit, std_cls)
+```
+
+### Id
+
+#### 取得所屬該學制的學院
+```
+GET: /API/Id/getDept
+args(degree)
+```
+
+#### 取得所屬該學院的學系
+```
+GET: /API/Id/getUnit
+args(dept_id)
+```
+
+#### 取得所屬該學系的班級
+```
+GET: /API/Id/getClass
+args(unit_id)
+```
+
+## 爬蟲
 
 ## 設定環境
 
