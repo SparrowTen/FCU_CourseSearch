@@ -958,12 +958,16 @@ def focus():
     db.exec(f"REPLACE INTO `{year}{sms}_focused` (`std_id`, `scr_selcode`, `cls_id`) VALUES (\'{std_id}\', \'{scr_selcode}\', \'{cls_id}\');")
     
     return jsonify({'success': '關注成功'})
-    
+
 @course_blp.route('/getCurriculum', methods=['GET'])
 def getCurriculum():
     year = "111"
     sms = "2"
     std_id = request.args.get('std_id')
+    
+    # 取學生姓名
+    r = db.execSelect(f"SELECT `std_name` FROM `{year}{sms}_student` WHERE `std_id` = \'{std_id}\'")
+    std_name = r[0]['std_name']
     
     # 總學分數
     r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
@@ -1384,13 +1388,15 @@ def getCurriculum():
             }
     }
     currDict["學號"] = std_id
+    currDict["姓名"] = std_name
     currDict["已選學分"] = std_credit
     currDict["最高學分"] = "25"
     
     for cls in r:
         scr_selcode = cls['scr_selcode']
         cls_id = cls['cls_id']
-        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        r = db.execSelect(f"SELECT * FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        classData = r[0]
         scr_period = r[0]['scr_period']
         
         # 取得星期幾
@@ -1413,12 +1419,12 @@ def getCurriculum():
                 end_time = timeStr.split(')')[1][3:5]
                 for i in range(int(start_time), int(end_time) + 1):
                     if len(currDict[day][i]['add']) == 0:
-                        currDict[day][i]['add'].append(cls)
+                        currDict[day][i]['add'].append(classData)
                     # currDict[day][i]['add'].append(cls)
             else:
                 time = int(timeStr.split(')')[1][0:2])
                 if len(currDict[day][time]['add']) == 0:
-                    currDict[day][time]['add'].append(cls)
+                    currDict[day][time]['add'].append(classData)
                 # currDict[day][time]['add'].append(cls)
     
     # 關注課程清單
@@ -1449,9 +1455,9 @@ def getCurriculum():
                 start_time = timeStr.split(')')[1][0:2]
                 end_time = timeStr.split(')')[1][3:5]
                 for i in range(int(start_time), int(end_time) + 1):
-                    currDict[day][i]['focus'].append(cls)
+                    currDict[day][i]['focus'].append(classData)
             else:
                 time = int(timeStr.split(')')[1][0:2])
-                currDict[day][time]['focus'].append(cls)
+                currDict[day][time]['focus'].append(classData)
     
     return currDict
