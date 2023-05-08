@@ -102,6 +102,7 @@ if __name__ == "__main__":
                     '`std_dept` VARCHAR(2) NOT NULL , ' +
                     '`std_unit` VARCHAR(4) NOT NULL , ' +
                     '`std_cls` VARCHAR(7) NOT NULL , ' +
+                    '`std_credit` INT NOT NULL , ' +
                     '`curr_id` INT NOT NULL , ' +
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
