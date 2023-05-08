@@ -175,6 +175,8 @@ $(document).ready(function () {
 
               $(id).html(data);
             }
+
+            console.log(section, value["add"]);
           }
         }
         console.log(data);
