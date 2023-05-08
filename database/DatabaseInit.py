@@ -131,6 +131,7 @@ if __name__ == "__main__":
                     '`13` TEXT NOT NULL , ' +
                     '`14` TEXT NOT NULL , ' +
                     'PRIMARY KEY (`curr_id`, `day`)) ENGINE = InnoDB;')
+                    '`is_focus` INT NOT NULL , ' +
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
