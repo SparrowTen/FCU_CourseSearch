@@ -9,9 +9,9 @@ class User:
         self.std_id = std_id
         self.pwd = pwd
     
-    def __init__(self, std_id):
-        self.key = 'poyu39AdminGeneralKey'
-        self.std_id = std_id
+    # def __init__(self, std_id):
+    #     self.key = 'poyu39AdminGeneralKey'
+    #     self.std_id = std_id
     
     # def is_active(self):
     #     return self._active

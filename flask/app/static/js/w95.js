@@ -174,4 +174,84 @@ $(document).ready(function () {
   $("div.wnds").on("click", function () {
     $("div.tg").fadeToggle(50);
   });
+
+  var count = 1;
+  $("#degree-list").on("change", function () {
+    $("#degree-list option:selected").each(function () {
+      // console.log($(this).val());
+      $.get(
+        "http://127.0.0.1:5000/API/Id/getDept?degree=" + $(this).val(),
+        function (data, status) {
+          // console.log(data);
+          var list = "<option>學院</option>";
+
+          for (var d in data) {
+            list +=
+              "<option value=" +
+              data[d].dept_id +
+              ">" +
+              data[d].dept_name +
+              "</option>";
+          }
+          $("#college-list").html(list);
+          count++;
+        }
+      );
+    });
+  });
+
+  $("#college-list").on("change", function () {
+    if (count != 2) {
+      window.location.reload();
+      count = 1;
+    }
+    $("#college-list option:selected").each(function () {
+      console.log($(this).val());
+      $.get(
+        "http://127.0.0.1:5000/API/Id/getUnit?dept_id=" + $(this).val(),
+        function (data, status) {
+          console.log(data);
+          var list = "<option>系所</option>";
+
+          for (var d in data) {
+            list +=
+              "<option value=" +
+              data[d].unit_id +
+              ">" +
+              data[d].unit_name +
+              "</option>";
+          }
+          $("#dept-list").html(list);
+          count++;
+        }
+      );
+    });
+  });
+
+  $("#dept-list").on("change", function () {
+    if (count != 3) {
+      window.location.reload();
+      count = 1;
+    }
+    $("#dept-list option:selected").each(function () {
+      console.log($(this).val());
+      $.get(
+        "http://127.0.0.1:5000/API/Id/getClass?unit_id=" + $(this).val(),
+        function (data, status) {
+          console.log(data);
+          var list = "<option>班級</option>";
+
+          for (var d in data) {
+            list +=
+              "<option value=" +
+              data[d].cls_id +
+              ">" +
+              data[d].cls_name +
+              "</option>";
+          }
+          $("#cls-list").html(list);
+        }
+      );
+    });
+  });
 });

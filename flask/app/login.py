@@ -20,7 +20,7 @@ def submit():
     if std_id == None or pwd == None:
         return jsonify({'error': '參數錯誤'})
     if std_id != None and pwd != None:
-        r = requests.get(f"http://localhost:5000/API/login/getAccount?std_id={std_id}&pwd={pwd}")
+        r = requests.get(f"http://127.0.0.1:5000/API/Login/getAccount?std_id={std_id}&pwd={pwd}")
         if r == []:
             # print('無此帳號或密碼錯誤')
             return ('',200)

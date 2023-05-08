@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify, redirect, url_for
 from APIDataBase import APIDataBase
 
-Course_blp = Blueprint('Course', __name__)
+course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 
 # 新增課程
@@ -72,7 +72,7 @@ def addCourse(year, sms, std_id, scr_selcode, cls_id, focus = False):
     
     return True
 
-@Course_blp.route('/add', methods=['GET', 'POST'])
+@course_blp.route('/add', methods=['GET', 'POST'])
 def add():
     year = "111"
     sms = "2"
@@ -85,7 +85,7 @@ def add():
     else:
         return jsonify({'error': '加選失敗，衝堂'})
 
-@Course_blp.route('/focus', methods=['POST'])
+@course_blp.route('/focus', methods=['POST'])
 def focus():
     year = "111"
     sms = "2"
@@ -97,7 +97,7 @@ def focus():
     else:
         return jsonify({'error': '關注失敗，衝堂'})
     
-@Course_blp.route('/getCurriculum', methods=['POST'])
+@course_blp.route('/getCurriculum', methods=['POST'])
 def getCurriculum():
     year = "111"
     sms = "2"

@@ -1,8 +1,10 @@
 from flask import Blueprint, request, render_template, url_for, redirect
 import json
 import requests
+from flask_cors import CORS,cross_origin
 
 search_blp = Blueprint('search_blp', __name__, template_folder= 'templates')
+CORS(search_blp)
 
 # 點擊搜尋按鈕
 @search_blp.route('/submit', methods=['GET', 'POST'])
