@@ -1,8 +1,6 @@
 from flask import Blueprint, request, jsonify, redirect, url_for
 from APIDataBase import APIDataBase
 
-import json
-
 course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 
@@ -528,10 +526,17 @@ def add():
     
     print(add_clsList)
 
+@course_blp.route('/add', methods=['GET', 'POST'])
+def add():
+    year = "111"
+    sms = "2"
+    std_id = request.values['std_id']
+    scr_selcode = request.values['scr_selcode']
+    cls_id = request.values['cls_id']
     # db.exec(f"REPLACE INTO {year}{sms}_selected (`std_id`, `scr_selcode`, `cls_id`, `scr_credit`) VALUES ('{std_id}', '{scr_selcode}', '{cls_id}', '{scr_credit}')")
+
     
     return jsonify({'success': '加選成功'})
-
 
 @course_blp.route('/focus', methods=['POST'])
 def focus():
@@ -541,16 +546,6 @@ def focus():
     scr_selcode = request.values['scr_selcode']
     cls_id = request.values['cls_id']
     
-    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
-    if r == []:
-        return jsonify({'error': '課程不存在'})
-    scr_credit = r[0]['scr_credit']
-    
-    db.exec(f"REPLACE INTO {year}{sms}_focused (`std_id`, `scr_selcode`, `cls_id`, `scr_credit`) VALUES ('{std_id}', '{scr_selcode}', '{cls_id}', '{scr_credit}')")
-    
-    return jsonify({'success': '關注成功'})
-
-
 @course_blp.route('/getCurriculum', methods=['GET'])
 def getCurriculum():
     year = "111"
