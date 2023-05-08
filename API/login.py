@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify
 from APIDataBase import APIDataBase
+from flask_cors import CORS
 
 login_blp = Blueprint('login', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
+CORS(login_blp)
 
 @login_blp.route('/getAccount', methods=['GET', 'POST'])
 def getAccount():

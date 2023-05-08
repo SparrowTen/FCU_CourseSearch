@@ -2,6 +2,7 @@ from flask import  request,render_template,flash,abort,url_for,redirect,Flask
 import MySQLdb
 import sys,io,json
 from flask_cors import CORS,cross_origin
+
 sys.stdout=io.TextIOWrapper(sys.stdout.buffer,encoding='utf8')
 import requests
 
