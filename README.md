@@ -1,6 +1,25 @@
 # FCU 選課系統 & 檢索系統
 > IECS322 資料庫系統 (許懷中) 期中專題
 
+## Main Window
+
+## Feature
+
+### 主畫面
+![](./img/main_windows.png)
+
+### 登入畫面
+![](./img/login.png)
+
+### 註冊畫面
+![](./img/register.png)
+
+### 檢索結果
+![](./img/resault.png.png)
+
+## ER Model
+![](./img/er_model.png)
+
 ## 設定環境
 
 ### Vscode Python 虛擬環境
