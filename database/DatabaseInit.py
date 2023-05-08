@@ -103,7 +103,6 @@ if __name__ == "__main__":
                     '`std_unit` VARCHAR(4) NOT NULL , ' +
                     '`std_class` VARCHAR(7) NOT NULL , ' +
                     '`curr_id` INT NOT NULL , ' +
-                    '`acc_id` INT NOT NULL , ' +
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_curriculum` (' +
@@ -125,12 +124,13 @@ if __name__ == "__main__":
                     '`14` TEXT NOT NULL , ' +
                     'PRIMARY KEY (`curr_id`, `day`)) ENGINE = InnoDB;')
         db.exec(sql)
-        db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`selected` (' +
+        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
-                '`scr_selcode`: VARCHAR(8) NOT NULL , ' + 
+                '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_credit` INT NOT NULL , ' + 
                 'PRIMARY KEY (`std_id`, `scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+        db.exec(sql)
         db.insertCourseData(year, sms, file)
     
     
