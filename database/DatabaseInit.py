@@ -132,8 +132,6 @@ if __name__ == "__main__":
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_credit` INT NOT NULL , ' + 
-                'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
-                'FOREIGN KEY (`scr_selcode`,`cls_id`) REFERENCES ' + f'`{year}{sms}_course`(`scr_selcode`,`cls_id`) ,' +
                 'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
@@ -142,8 +140,6 @@ if __name__ == "__main__":
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_credit` INT NOT NULL , ' + 
-                'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
-                'FOREIGN KEY (`scr_selcode`,`cls_id`) REFERENCES ' + f'`{year}{sms}_course`(`scr_selcode`,`cls_id`) ,' +
                 'PRIMARY KEY (`focused_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         db.insertCourseData(year, sms, file)
@@ -152,7 +148,6 @@ if __name__ == "__main__":
             '`account_id` int(8) NOT NULL AUTO_INCREMENT, ' +
             '`std_id` VARCHAR(8) NOT NULL , ' +
             '`pwd` VARCHAR(32) NOT NULL , ' +
-            'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
             'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
