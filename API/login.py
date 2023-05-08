@@ -46,7 +46,6 @@ def createAccount():
             # 匯入必修
             r = db.execSelect(f"SELECT * FROM `{year}{sms}_course` WHERE `cls_id` = '{std_cls}' AND `scj_scr_mso` = \'必修\'")
             for course in r:
-                # if course not in courseList:
                 courseList.append(course)
                 print
                 db.exec(f"REPLACE INTO `{year}{sms}_selected` (`std_id`, `scr_selcode`, `cls_id`, `scr_credit`) VALUES ('{std_id}', '{course['scr_selcode']}', '{course['cls_id']}', '{course['scr_credit']}')")
