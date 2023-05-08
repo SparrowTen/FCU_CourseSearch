@@ -943,6 +943,22 @@ def focus():
     scr_selcode = request.values['scr_selcode']
     cls_id = request.values['cls_id']
     
+    # 判斷是否有此課程
+    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    if r == []:
+        return jsonify({'error': '課程不存在'})
+    
+    
+    # 判斷是否重複關注
+    r = db.execSelect(f"SELECT * FROM `{year}{sms}_focused` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    for cls in r:
+        if cls['scr_selcode'] == scr_selcode and cls['cls_id'] == cls_id:
+            return jsonify({'error': '課程已存在，不得重複關注'})
+    
+    db.exec(f"REPLACE INTO `{year}{sms}_focused` (`std_id`, `scr_selcode`, `cls_id`) VALUES (\'{std_id}\', \'{scr_selcode}\', \'{cls_id}\');")
+    
+    return jsonify({'success': '關注成功'})
+    
 @course_blp.route('/getCurriculum', methods=['GET'])
 def getCurriculum():
     year = "111"
