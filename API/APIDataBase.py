@@ -38,6 +38,7 @@ class APIDataBase:
         cursor = conn.cursor()
         cursor.execute(sql)
         conn.commit()
+        conn.close()
 
 # 測試用
 # if __name__ == '__main__':
