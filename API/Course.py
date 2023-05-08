@@ -4,7 +4,38 @@ from APIDataBase import APIDataBase
 course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 
-emptyCurrDict = {
+@course_blp.route('/add', methods=['GET', 'POST'])
+def add():
+    year = "111"
+    sms = "2"
+    std_id = request.values['std_id']
+    scr_selcode = request.values['scr_selcode']
+    cls_id = request.values['cls_id']
+    
+    # 判斷是否有此課程
+    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    if r == []:
+        return jsonify({'error': '課程不存在'})
+    
+    sub_name = r[0]['sub_name']
+    scr_credit = r[0]['scr_credit']
+    
+    # 取得學分數
+    r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
+    std_credit = r[0]['sum']
+    
+    # 判斷學分數是否超過上限
+    if std_credit + scr_credit > 25:
+        return jsonify({'error': '學分數超過上限'})
+    
+    # 判斷是否重名
+    r = db.execSelect(f"SELECT * FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    for cls in r:
+        if cls['sub_name'] == sub_name:
+            return jsonify({'error': '課程已存在，不得重複加選'})
+    
+    # 判斷是否衝堂
+    selected_clsList = {
         "學號": "",
         "已選學分": "",
         "最高學分": "25",
@@ -415,40 +446,6 @@ emptyCurrDict = {
                 }
             }
     }
-
-@course_blp.route('/add', methods=['GET', 'POST'])
-def add():
-    year = "111"
-    sms = "2"
-    std_id = request.values['std_id']
-    scr_selcode = request.values['scr_selcode']
-    cls_id = request.values['cls_id']
-    
-    # 判斷是否有此課程
-    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
-    if r == []:
-        return jsonify({'error': '課程不存在'})
-    
-    sub_name = r[0]['sub_name']
-    scr_credit = r[0]['scr_credit']
-    
-    # 取得學分數
-    r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
-    std_credit = r[0]['sum']
-    
-    # 判斷學分數是否超過上限
-    if std_credit + scr_credit > 25:
-        return jsonify({'error': '學分數超過上限'})
-    
-    # 判斷是否重名
-    r = db.execSelect(f"SELECT * FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
-    for cls in r:
-        if cls['sub_name'] == sub_name:
-            return jsonify({'error': '課程已存在，不得重複加選'})
-    
-    # 判斷是否衝堂
-    selected_clsList = {}
-    selected_clsList = emptyCurrDict.copy()
     for cls in r:
         # 取得要已加選的課程時間
         scr_selcode = cls['scr_selcode']
@@ -485,8 +482,417 @@ def add():
     print(selected_clsList)
     
     # 取得要加選的課程時間
-    add_clsList = {}
-    add_clsList = emptyCurrDict.copy()
+    add_clsList = {
+        "學號": "",
+        "已選學分": "",
+        "最高學分": "25",
+        "一": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "二": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "三": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "四": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "五": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "六": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "日": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            }
+    }
     r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
     for cls in r:
         # 取得要已加選的課程時間
@@ -526,18 +932,6 @@ def add():
     
     print(add_clsList)
 
-@course_blp.route('/add', methods=['GET', 'POST'])
-def add():
-    year = "111"
-    sms = "2"
-    std_id = request.values['std_id']
-    scr_selcode = request.values['scr_selcode']
-    cls_id = request.values['cls_id']
-    # db.exec(f"REPLACE INTO {year}{sms}_selected (`std_id`, `scr_selcode`, `cls_id`, `scr_credit`) VALUES ('{std_id}', '{scr_selcode}', '{cls_id}', '{scr_credit}')")
-
-    
-    return jsonify({'success': '加選成功'})
-
 @course_blp.route('/focus', methods=['POST'])
 def focus():
     year = "111"
@@ -559,8 +953,417 @@ def getCurriculum():
     # 已選課程清單
     r = db.execSelect(f"SELECT * FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\'")
     
-    currDict = {}
-    currDict = emptyCurrDict.copy()
+    currDict = {
+        "學號": "",
+        "已選學分": "",
+        "最高學分": "25",
+        "一": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "二": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "三": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "四": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "五": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "六": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            },
+        "日": {
+            1: {
+                "add": [],
+                "focus": []
+                },
+            2: {
+                "add": [],
+                "focus": []
+                },
+            3: {
+                "add": [],
+                "focus": []
+                },
+            4: {
+                "add": [],
+                "focus": []
+                },
+            5: {
+                "add": [],
+                "focus": []
+                },
+            6: {
+                "add": [],
+                "focus": []
+                },
+            7: {
+                "add": [],
+                "focus": []
+                },
+            8: {
+                "add": [],
+                "focus": []
+                },
+            9: {
+                "add": [],
+                "focus": []
+                },
+            10: {
+                "add": [],
+                "focus": []
+                },
+            11: {
+                "add": [],
+                "focus": []
+                },
+            12: {
+                "add": [],
+                "focus": []
+                },
+            13: {
+                "add": [],
+                "focus": []
+                },
+            14: {
+                "add": [],
+                "focus": []
+                }
+            }
+    }
     currDict["學號"] = std_id
     currDict["已選學分"] = std_credit
     currDict["最高學分"] = "25"
