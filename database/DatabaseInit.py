@@ -75,6 +75,27 @@ class DatabaseInit:
                                     , (unit_id, class_name, unitClassList[unit_id][class_name]))
         self.conn.commit()
     
+    def insertPreCourseData(self, year, sms, json_file):
+        year = "111"
+        sms = "2"
+        preCourseList = json_file
+        for course in preCourseList:
+            scr_selcode = course['scr_selcode']
+            cls_id = course['cls_id']
+            for precourse in course['PreCourse']:
+                pre_subid3 = precourse['pre_subid3']
+                sub_name = precourse['sub_name']
+                pre_describe = precourse['pre_describe']
+                self.cursor.execute("REPLACE INTO `fcu`.`" + year + sms + "_precourse` (" +
+                                    '`scr_selcode` , ' +
+                                    '`cls_id` , '+
+                                    '`pre_subid3` , ' +
+                                    '`pre_sub_name` , ' +
+                                    '`pre_describe`) ' +
+                                    'VALUES (%s, %s, %s, %s, %s);'
+                                    , (scr_selcode, cls_id, pre_subid3, sub_name, pre_describe))
+                self.conn.commit()
+    
     def closeDB(self):
         self.conn.close()
         
@@ -102,7 +123,6 @@ if __name__ == "__main__":
                     '`scr_precnt` INT NOT NULL , ' +
                     '`scr_acptcnt` INT NOT NULL , ' +
                     '`cls_id` VARCHAR(8) NOT NULL , ' +
-
                     'PRIMARY KEY (`scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_student` (' +
@@ -116,18 +136,7 @@ if __name__ == "__main__":
                     # '`curr_id` INT NOT NULL , ' +
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
-        # sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_curriculum` (' +
-        #             '`curr_id` INT NOT NULL , ' +
-        #             '`day` VARCHAR(1) NOT NULL , ' +
-        #             '`row` INT NOT NULL , ' +
-        #             '`scr_selcode` VARCHAR(8) NOT NULL , ' +
-        #             '`cls_id` VARCHAR(8) NOT NULL , ' +
-        #             '`sub_name` TEXT NOT NULL , ' +
-        #             '`is_focus` INT NOT NULL , ' +
-        #             'ENGINE = InnoDB;')
-        # db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
-                '`selected_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
@@ -135,7 +144,6 @@ if __name__ == "__main__":
                 'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
-                '`focused_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
@@ -145,7 +153,6 @@ if __name__ == "__main__":
         db.insertCourseData(year, sms, file)
     
     db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
-            '`account_id` int(8) NOT NULL AUTO_INCREMENT, ' +
             '`std_id` VARCHAR(8) NOT NULL , ' +
             '`pwd` VARCHAR(32) NOT NULL , ' +
             'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
@@ -179,5 +186,24 @@ if __name__ == "__main__":
             '`cls_name` TEXT NOT NULL , ' +
             'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
     db.insertUnitClassData(file)
+    
+    
+    dir = os.path.dirname(__file__) + "\\data\\courseInfo\\111\\"
+    fileList = os.listdir(dir)
+    for file in fileList:
+        sms = file[3]
+        if sms == '1':
+            continue
+        with open(dir + file, 'r', encoding = 'utf-8') as f:
+            file = json.loads(f.read())
+        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_precourse` (' +
+                    '`scr_selcode` VARCHAR(8) NOT NULL , ' +
+                    '`cls_id` VARCHAR(8) NOT NULL , ' +
+                    '`pre_subid3` VARCHAR(10) NOT NULL , ' +
+                    '`pre_sub_name` TEXT NOT NULL , ' +
+                    '`pre_describe` TEXT , ' +
+                    'PRIMARY KEY (`scr_selcode`, `cls_id`, `pre_subid3`)) ENGINE = InnoDB;')
+        db.exec(sql)
+        db.insertPreCourseData(year, sms, file)
     
     db.closeDB()

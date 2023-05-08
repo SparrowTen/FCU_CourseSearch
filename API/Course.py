@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify, redirect, url_for
 from APIDataBase import APIDataBase
+from flask_cors import CORS
 
 course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
+CORS(course_blp)
 
 @course_blp.route('/add', methods=['GET', 'POST'])
 def add():
@@ -19,6 +21,13 @@ def add():
     
     sub_name = r[0]['sub_name']
     scr_credit = r[0]['scr_credit']
+    
+    # 判斷是否已滿人
+    scr_percent = r[0]['scr_percent']
+    scr_acptcnt = r[0]['scr_acptcnt']
+    
+    if scr_acptcnt + 1 > scr_percent:
+        return jsonify({'error': '課程已滿人'})
     
     # 取得學分數
     r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
@@ -935,6 +944,30 @@ def add():
     
     return jsonify({'success': '加選成功'})
 
+@course_blp.route('/delete', methods=['POST'])
+def delelte():
+    year = "111"
+    sms = "2"
+    std_id = request.values['std_id']
+    scr_selcode = request.values['scr_selcode']
+    cls_id = request.values['cls_id']
+    
+    # 取得學分數
+    r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
+    std_credit = r[0]['sum']
+    
+    if std_credit < 9:
+        return jsonify({'error': '學分數不足'})
+    
+    # 判斷必修
+    r = db.execSelect(f"SELECT `scj_scr_mso` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    if r[0]['scj_scr_mso'] == '必修':
+        return jsonify({'error': '必修課程不可退選'})
+    
+    db.exec(f"DELETE FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    
+    return jsonify({'success': '退選成功'})
+
 @course_blp.route('/focus', methods=['POST'])
 def focus():
     year = "111"
@@ -958,12 +991,38 @@ def focus():
     db.exec(f"REPLACE INTO `{year}{sms}_focused` (`std_id`, `scr_selcode`, `cls_id`) VALUES (\'{std_id}\', \'{scr_selcode}\', \'{cls_id}\');")
     
     return jsonify({'success': '關注成功'})
+
+@course_blp.route('/unfocus', methods=['POST'])
+def unfocus():
+    year = "111"
+    sms = "2"
+    std_id = request.values['std_id']
+    scr_selcode = request.values['scr_selcode']
+    cls_id = request.values['cls_id']
     
+    # 判斷是否有此課程
+    r = db.execSelect(f"SELECT * FROM {year}{sms}_course WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    if r == []:
+        return jsonify({'error': '課程不存在'})
+    
+    # 判斷是否重複關注
+    r = db.execSelect(f"SELECT * FROM `{year}{sms}_focused` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+    for cls in r:
+        if cls['scr_selcode'] == scr_selcode and cls['cls_id'] == cls_id:
+            db.exec(f"DELETE FROM `{year}{sms}_focused` WHERE `std_id` = \'{std_id}\' AND `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\';")
+            return jsonify({'success': '已取消關注'})
+        else:
+            return jsonify({'error': '沒有此關注可取消'})
+
 @course_blp.route('/getCurriculum', methods=['GET'])
 def getCurriculum():
     year = "111"
     sms = "2"
     std_id = request.args.get('std_id')
+    
+    # 取學生姓名
+    r = db.execSelect(f"SELECT `std_name` FROM `{year}{sms}_student` WHERE `std_id` = \'{std_id}\'")
+    std_name = r[0]['std_name']
     
     # 總學分數
     r = db.execSelect(f"SELECT SUM(`scr_credit`) AS sum FROM `{year}{sms}_selected` WHERE `std_id` = \'{std_id}\';")
@@ -1384,13 +1443,15 @@ def getCurriculum():
             }
     }
     currDict["學號"] = std_id
+    currDict["姓名"] = std_name
     currDict["已選學分"] = std_credit
     currDict["最高學分"] = "25"
     
     for cls in r:
         scr_selcode = cls['scr_selcode']
         cls_id = cls['cls_id']
-        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        r = db.execSelect(f"SELECT * FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        classData = r[0]
         scr_period = r[0]['scr_period']
         
         # 取得星期幾
@@ -1413,12 +1474,12 @@ def getCurriculum():
                 end_time = timeStr.split(')')[1][3:5]
                 for i in range(int(start_time), int(end_time) + 1):
                     if len(currDict[day][i]['add']) == 0:
-                        currDict[day][i]['add'].append(cls)
+                        currDict[day][i]['add'].append(classData)
                     # currDict[day][i]['add'].append(cls)
             else:
                 time = int(timeStr.split(')')[1][0:2])
                 if len(currDict[day][time]['add']) == 0:
-                    currDict[day][time]['add'].append(cls)
+                    currDict[day][time]['add'].append(classData)
                 # currDict[day][time]['add'].append(cls)
     
     # 關注課程清單
@@ -1449,9 +1510,10 @@ def getCurriculum():
                 start_time = timeStr.split(')')[1][0:2]
                 end_time = timeStr.split(')')[1][3:5]
                 for i in range(int(start_time), int(end_time) + 1):
-                    currDict[day][i]['focus'].append(cls)
+                    currDict[day][i]['focus'].append(classData)
             else:
                 time = int(timeStr.split(')')[1][0:2])
-                currDict[day][time]['focus'].append(cls)
+                currDict[day][time]['focus'].append(classData)
     
+    print(currDict)
     return currDict
