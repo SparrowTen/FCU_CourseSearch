@@ -6,7 +6,7 @@ Course:
     - cls_id
   Coulmns:
     scr_selcode: VARCHAR(8)   # 選課代碼
-    sub_id3: VARCHAR(8)       # 課程編碼
+    sub_id3: VARCHAR(10)       # 課程編碼
     sub_name: TEXT            # 課程名稱
     scr_credit": INT          # 學分
     scj_scr_mso": VARCHAR(2)  # 選修 / 必修
@@ -35,6 +35,18 @@ Student:
     std_unit: VARCHAR(4)      # 主系
     std_cls: VARCHAR(7)       # 班級
     curr_id: INT              # 課表 ID
+
+# 已選課
+Selected:
+  PRIMARY KEY:
+    - std_id
+    - scr_selcode
+    - cls_id
+  Coulmns:
+    std_id: VARCHAR(8)        # 學生 ID
+    scr_selcode: VARCHAR(8)   # 選課代碼
+    cls_id: VARCHAR(8)        # 開課班級 ID
+    scr_credit: INT          # 選課時間
 
 # 課表
 Curriculum:

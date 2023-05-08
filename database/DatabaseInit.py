@@ -85,7 +85,7 @@ if __name__ == "__main__":
             file = json.loads(f.read())
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_course` (' +
                     '`scr_selcode` VARCHAR(8) NOT NULL , ' +
-                    '`sub_id3` VARCHAR(8) NOT NULL , ' +
+                    '`sub_id3` VARCHAR(10) NOT NULL , ' +
                     '`sub_name` TEXT NOT NULL , ' +
                     '`scr_credit` INT NOT NULL , ' +
                     '`scj_scr_mso` VARCHAR(2) NOT NULL , ' +
@@ -125,6 +125,12 @@ if __name__ == "__main__":
                     '`14` TEXT NOT NULL , ' +
                     'PRIMARY KEY (`curr_id`, `day`)) ENGINE = InnoDB;')
         db.exec(sql)
+        db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`selected` (' +
+                '`std_id` VARCHAR(8) NOT NULL , ' + 
+                '`scr_selcode`: VARCHAR(8) NOT NULL , ' + 
+                '`cls_id` VARCHAR(8) NOT NULL , ' + 
+                '`scr_credit` INT NOT NULL , ' + 
+                'PRIMARY KEY (`std_id`, `scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
         db.insertCourseData(year, sms, file)
     
     
