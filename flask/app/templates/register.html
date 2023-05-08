@@ -299,19 +299,29 @@
                 <span>Register on our platform</span>
               </div>
               <div class="card-body">
-                <form action="#" class="mt-4">
-                  <!-- Form -->
+                <form action="/register/submit" class="mt-4" method="post">
                   <div class="form-group">
-                    <label for="email" class="mb-2">Email</label>
+                    <label for="email" class="mb-2">SID</label>
                     <input
-                      id="email"
-                      type="email"
+                      id="SID"
+                      type="text"
                       class="form-control"
-                      placeholder="Your email"
+                      placeholder="SID"
+                      name="std_id"
                       required
                     />
                   </div>
-                  <!-- End of Form -->
+                  <div class="form-group">
+                    <label for="email" class="mb-2">Name</label>
+                    <input
+                      id="std_name"
+                      type="text"
+                      class="form-control"
+                      placeholder="Name"
+                      name="std_name"
+                      required
+                    />
+                  </div>
                   <div class="form-group">
                     <!-- Form -->
                     <div class="form-group">
@@ -321,34 +331,91 @@
                         type="password"
                         class="form-control"
                         placeholder="Your password"
+                        name="pwd"
                         required
                       />
                     </div>
-                    <div class="form-group">
-                      <label for="confirmPassword" class="mb-2"
-                        >Confirm password</label
+
+                    <div
+                      class="form-group d-flex align-items-center justify-content-between"
+                    >
+                      <label for="Degree" class="mr-3" style="font-size: 1.5rem"
+                        >學制:</label
                       >
-                      <input
-                        id="confirmPassword"
-                        type="password"
-                        class="form-control"
-                        placeholder="Confirm password"
-                        required
-                      />
+                      <select
+                        class="form-control w-75"
+                        style="font-size: 1rem"
+                        name="std_degree"
+                        id="std_degree"
+                      >
+                        <option>學制</option>
+                        <option value="1">大學部</option>
+                        <option value="3">碩士班</option>
+                        <option value="4">博士班</option>
+                        <option value="5">進修學士班</option>
+                      </select>
                     </div>
+                    <div
+                      class="form-group d-flex align-items-center justify-content-between"
+                    >
+                      <label
+                        for="College"
+                        class="mr-3"
+                        style="font-size: 1.5rem"
+                        >學院:</label
+                      >
+                      <select
+                        class="form-control w-75"
+                        style="font-size: 1rem"
+                        name="std_dept"
+                        id="std_dept"
+                      ></select>
+                    </div>
+                    <div
+                      class="form-group d-flex align-items-center justify-content-between"
+                    >
+                      <label
+                        for="default"
+                        class="mr-3"
+                        style="font-size: 1.5rem"
+                        for="Department"
+                        >系所:</label
+                      >
+                      <select
+                        class="form-control w-75"
+                        style="font-size: 1rem"
+                        name="std_unit"
+                        id="std_unit"
+                      ></select>
+                    </div>
+                    <div
+                      class="form-group d-flex align-items-center justify-content-between"
+                    >
+                      <label
+                        for="default"
+                        class="mr-3"
+                        style="font-size: 1.5rem"
+                        for="std_cls"
+                        >年級:</label
+                      >
+                      <select
+                        class="form-control w-75"
+                        style="font-size: 1rem"
+                        name="std_cls"
+                        id="std_cls"
+                      ></select>
+                    </div>
+                    <div
+                      class="form-group d-flex justify-content-between mb-2"
+                    ></div>
+                    <div
+                      class="form-group d-flex justify-content-end mb-4"
+                    ></div>
+
                     <!-- End of Form -->
                     <div
                       class="d-flex justify-content-between align-items-center mb-4"
-                    >
-                      <div class="form-check">
-                        <label class="form-check-label">
-                          <input class="form-check-input" type="checkbox" />
-                          <span class="form-check-x"></span>
-                          <span class="form-check-sign"></span>
-                          I agree to the <a href="#">terms and conditions</a>
-                        </label>
-                      </div>
-                    </div>
+                    ></div>
                   </div>
                   <button type="submit" class="btn btn-block btn-primary">
                     Register account
@@ -359,9 +426,7 @@
                 >
                   <p class="font-weight-normal">
                     Already have an account?
-                    <a href="./login.html" class="font-weight-bold"
-                      >Login here</a
-                    >
+                    <a href="/login" class="font-weight-bold">Login here</a>
                   </p>
                 </div>
               </div>
@@ -391,18 +456,7 @@
 
             <li class="nav-item">
               <a href="/login" class="nav-link" role="button">
-                <span class="nav-link-inner-text">login</span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link buttonschedule"
-                role="button"
-                data-bs-toggle="offcanvas"
-                data-bs-target="#offcanvasBottom"
-                aria-controls="offcanvasBottom"
-              >
-                <span class="nav-link-inner-text buttonschedule">Schedule</span>
+                <span class="nav-link-inner-text">Login</span>
               </a>
             </li>
           </ul>

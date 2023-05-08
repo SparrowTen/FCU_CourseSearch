@@ -1,3 +1,148 @@
+<div class="col-12 col-lg-6 mb-lg-0 Schedule">
+  <div class="card card-tertiary insideSch">
+    <div class="card-header">
+      <span class="icon icon-xs w95-folder"></span>
+      <span class="ml-4">Default Tertiary Card Header Title</span>
+      <button
+        class="btn mr-2 mb-2 btn-danger pt-0 pb-0 pr-1 pl-1 closeschedule"
+        type="button"
+        style="position: absolute; right: 0; margin: 0"
+      >
+        <span class="btn-text">X</span>
+      </button>
+    </div>
+    <div
+      class="card-body"
+      style="justify-content: center; align-items: center; margin-right: 0px"
+    >
+      <table
+        class="Schedule_table"
+        style="display: flex; align-items: center; justify-content: center"
+      >
+        <tr>
+          <th>&nbsp;</th>
+          <th>Mon</th>
+          <th>Tue</th>
+          <th>Wed</th>
+          <th>Thu</th>
+          <th>Fri</th>
+        </tr>
+        <tr>
+          <th>1</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>7</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>8</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>11</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>12</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>13</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <th>14</th>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
 <footer class="bg-info text-center text-lg-start fixed-bottom">
   <!-- Grid container -->
   <!-- Grid container -->
@@ -15,10 +160,9 @@
             <span class="nav-link-inner-text">Logout</span>
           </a>
         </li>
-
         <li class="nav-item">
-          <a href="/login/register" class="nav-link" role="button">
-            <span class="nav-link-inner-text">Register</span>
+          <a href="/" class="nav-link" role="button" onclick="">
+            <span class="nav-link-inner-text">Search</span>
           </a>
         </li>
         <li class="nav-item">
@@ -44,5 +188,6 @@
 <script>
   function clearck() {
     $.removeCookie("fcu_token");
+    $.removeCookie("fcu_std_id");
   }
 </script>

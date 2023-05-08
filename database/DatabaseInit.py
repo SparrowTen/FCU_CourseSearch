@@ -102,6 +102,7 @@ if __name__ == "__main__":
                     '`scr_precnt` INT NOT NULL , ' +
                     '`scr_acptcnt` INT NOT NULL , ' +
                     '`cls_id` VARCHAR(8) NOT NULL , ' +
+
                     'PRIMARY KEY (`scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_student` (' +
@@ -126,25 +127,33 @@ if __name__ == "__main__":
         #             'ENGINE = InnoDB;')
         # db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
+                '`selected_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_credit` INT NOT NULL , ' + 
-                'PRIMARY KEY (`std_id`, `scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+                'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
+                'FOREIGN KEY (`scr_selcode`,`cls_id`) REFERENCES ' + f'`{year}{sms}_course`(`scr_selcode`,`cls_id`) ,' +
+                'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
+                '`focused_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
                 '`std_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
                 '`scr_credit` INT NOT NULL , ' + 
-                'PRIMARY KEY (`std_id`, `scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+                'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
+                'FOREIGN KEY (`scr_selcode`,`cls_id`) REFERENCES ' + f'`{year}{sms}_course`(`scr_selcode`,`cls_id`) ,' +
+                'PRIMARY KEY (`focused_id`)) ENGINE = InnoDB;')
         db.exec(sql)
         db.insertCourseData(year, sms, file)
     
     db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
+            '`account_id` int(8) NOT NULL AUTO_INCREMENT, ' +
             '`std_id` VARCHAR(8) NOT NULL , ' +
             '`pwd` VARCHAR(32) NOT NULL , ' +
-            'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
+            'FOREIGN KEY (`std_id`) REFERENCES ' + f'`{year}{sms}_student`(`std_id`) ,' +
+            'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
     with open(dir + "\\degree_dept.json", 'r', encoding = 'utf-8') as f:
@@ -153,7 +162,7 @@ if __name__ == "__main__":
             '`degree` INT NOT NULL , ' +
             '`dept_id` VARCHAR(2) NOT NULL ,' +
             '`dept_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY ( `dept_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`degree`, `dept_id`)) ENGINE = InnoDB;')
     db.insertDegreeDeptData(file)
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
@@ -163,7 +172,7 @@ if __name__ == "__main__":
             '`dept_id` VARCHAR(2) NOT NULL , ' +
             '`unit_id` VARCHAR(4) NOT NULL ,' +
             '`unit_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY (`unit_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`dept_id`, `unit_id`)) ENGINE = InnoDB;')
     db.insertDeptUnitData(file)
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
@@ -173,7 +182,7 @@ if __name__ == "__main__":
             '`unit_id` VARCHAR(4) NOT NULL ,' +
             '`cls_id` VARCHAR(7) NOT NULL , ' +
             '`cls_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY ( `cls_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
     db.insertUnitClassData(file)
     
     db.closeDB()
