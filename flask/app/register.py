@@ -3,9 +3,10 @@ import requests
 import json
 import time
 from user import User
+from flask_cors import CORS
 
 register_blp = Blueprint('register_blp', __name__, template_folder= 'templates')
-
+CORS(register_blp)
 @register_blp.route('/')
 def register():
     return render_template('register.html')

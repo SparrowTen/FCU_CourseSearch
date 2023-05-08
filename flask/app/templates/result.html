@@ -27,7 +27,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Windows 95 UI Kit</title>
+    <title>Sparrow ten</title>
     <meta name="author" content="Themesberg" />
     <meta
       name="description"
@@ -346,11 +346,12 @@
                     <span class="btn-text ">關注</span><br>
                 </button>
                 <button class="btn btn-sm mr-3 btn-primary border-dark add" data-add_scr_selcode="{{d['scr_selcode']}}"
-                    data-add_cls_id="{{d['cls_id']}}">
+                    data-add_cls_id="{{d['cls_id']}}" onclick="add_course('{{d.scr_selcode}}','{{d.cls_id}}')">
                     <span class="btn-text ">加選</span>
                 </button>
             </td>
               </tr>
+              <script></script>
               {% endfor %}
             </table>
           </div>
@@ -358,18 +359,54 @@
       </div>
     </div>
 
+    
+
     {%if login%}
     {% include 'footerlogin.html' %}
     {%else%}
     {% include 'footernologin.html' %}
     {%endif%}
 
+
+    <script>
+      function add_course(scr_selcode,cls_id) {
+        
+        alert(getCookie("fcu_std_id") + scr_selcode + cls_id);
+        $.post("http://127.0.0.1:5000/API/Course/add",
+        {
+          scr_selcode:scr_selcode,
+          cls_id:cls_id,
+          std_id:getCookie("fcu_std_id")
+        },
+        function(data,status){
+            console.log(data);
+        });
+    }
+      
+      function focus_course(scr_selcode,cls_id) {
+        alert(getCookie("fcu_std_id") + scr_selcode + cls_id);
+        $.post("http://127.0.0.1:5000/API/Course/focus",
+        {
+          scr_selcode:scr_selcode,
+          cls_id:cls_id,
+          std_id:getCookie("fcu_std_id")
+        },
+        function(data,status){
+            console.log(data);
+        });
+    }
+
+    function getCookie(name) {
+      const value = `; ${document.cookie}`;
+      const parts = value.split(`; ${name}=`);
+      if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+  </script>
     <!-- Core -->
     <!-- <script src="node_modules/popper.js/dist/umd/popper.min.js"></script> -->
     <script src="{{ url_for('static', filename='node_modules/popper.js/dist/umd/popper.min.js') }}"></script>
     <script src="{{ url_for('static', filename='node_modules/jquery/dist/jquery.min.js') }}"></script>
     <script src="{{ url_for('static', filename='node_modules/bootstrap/dist/js/bootstrap.min.js') }}"></script>
-
     <!-- pixel JS -->
     <script src="{{ url_for('static', filename='js/w95.js') }}"></script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>

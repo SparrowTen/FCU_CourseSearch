@@ -123,9 +123,12 @@ $(document).ready(function () {
       "http://127.0.0.1:5000/API/Course/getCurriculum?std_id=" +
         $.cookie("fcu_std_id"),
       function (data, status) {
+        console.log(data);
+        var std_id = $.cookie("fcu_std_id");
         for (var [day, daysection] of Object.entries(data)) {
           for (var [section, value] of Object.entries(daysection)) {
             var id_day = "";
+
             if (value["add"]["0"]) {
               switch (day) {
                 case "一":
@@ -147,8 +150,7 @@ $(document).ready(function () {
                   break;
               }
               var id = "#" + id_day + "-" + section;
-              console.log(day, section, value["add"], id);
-              var data = `<a  class="btn-primary Scheduleinbtn" data-toggle="modal" data-target="#${value["add"]["0"]["sub_id3"]}">
+              var data_html = `<a  class="btn-primary Scheduleinbtn" data-toggle="modal" data-target="#${value["add"]["0"]["sub_id3"]}">
                 ${value["add"]["0"]["sub_name"]}
               </a>
 
@@ -166,17 +168,29 @@ $(document).ready(function () {
                     ${value["add"]["0"]["sub_name"]}${value["add"]["0"]["scr_period"]}
                     </div>
                     <div class="modal-footer">
-                      <button type="button" class="btn btn-secondary" data-dismiss="modal">退選</button>
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal"  onclick="del${value["add"]["0"]["sub_id3"]}(${std_id},${value["add"]["0"]["scr_selcode"]},${value["add"]["0"]["cls_id"]})">退選</button>
                       <button type="button" class="btn btn-primary">保留</button>
                     </div>
                   </div>
                 </div>
-              </div>`;
+              </div>
+              <script>
+                  function del${value["add"]["0"]["sub_id3"]}(sub_id3,scr_selcode,cls_id) {
+                    $.post("http://127.0.0.1:5000/API/Course/delete",
+                          {
+                            sub_id3:sub_id3,
+                            scr_selcode:scr_selcode,
+                            cls_id:cls_id
+                          },
+                          function(data,status){
+                              alert("数据: \n" + data + "\n状态: " + status);
+                        });
+                  }
+              </script>
+              `;
 
-              $(id).html(data);
+              $(id).html(data_html);
             }
-
-            console.log(section, value["add"]);
           }
         }
         console.log(data);

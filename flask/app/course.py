@@ -1,8 +1,9 @@
 from flask import Blueprint, request, render_template, url_for, redirect
 from user import User
 import requests
-
+from flask_cors import CORS
 course_blp = Blueprint('course_blp', __name__, template_folder= 'templates')
+CORS(course_blp)
 
 @course_blp.route('/focus',methods=['POST'])
 def focus():

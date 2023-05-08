@@ -3,9 +3,10 @@ import requests
 import json
 import time
 from user import User
+from flask_cors import CORS
 
 login_blp = Blueprint('login_blp', __name__, template_folder= 'templates')
-
+CORS(login_blp)
 # 登入視窗
 @login_blp.route('/')
 def login():

@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify
 from APIDataBase import APIDataBase
+from flask_cors import CORS
 
 getCourse_blp = Blueprint('getCourse', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
+CORS(getCourse_blp)
 
 @getCourse_blp.route('/getCourse', methods=['GET'])
 def getCourse():
