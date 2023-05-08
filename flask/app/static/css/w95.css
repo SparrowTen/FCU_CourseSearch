@@ -16,11 +16,21 @@
   unicode-range: U+00-024F;
 }
 
-th:hover,
+.modal-backdrop {
+  z-index: 0;
+  opacity: 0;
+}
+
+a.Scheduleinbtn:hover {
+  /* background-color: #0004bd; */
+  /* color: #0004bd; */
+}
+
+/* th:hover,
 td:hover {
   background-color: #0004bd;
   color: white;
-}
+} */
 
 body section.animation-wrapper {
   position: fixed;
