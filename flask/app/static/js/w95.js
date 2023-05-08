@@ -123,6 +123,7 @@ $(document).ready(function () {
       "http://127.0.0.1:5000/API/Course/getCurriculum?std_id=" +
         $.cookie("fcu_std_id"),
       function (data, status) {
+        console.log(data);
         var std_id = $.cookie("fcu_std_id");
         for (var [day, daysection] of Object.entries(data)) {
           for (var [section, value] of Object.entries(daysection)) {
@@ -149,8 +150,7 @@ $(document).ready(function () {
                   break;
               }
               var id = "#" + id_day + "-" + section;
-              console.log(day, section, value["add"], id);
-              var data = `<a  class="btn-primary Scheduleinbtn" data-toggle="modal" data-target="#${value["add"]["0"]["sub_id3"]}">
+              var data_html = `<a  class="btn-primary Scheduleinbtn" data-toggle="modal" data-target="#${value["add"]["0"]["sub_id3"]}">
                 ${value["add"]["0"]["sub_name"]}
               </a>
 
@@ -189,10 +189,8 @@ $(document).ready(function () {
               </script>
               `;
 
-              $(id).html(data);
+              $(id).html(data_html);
             }
-
-            console.log(section, value["add"]);
           }
         }
         console.log(data);

@@ -6,7 +6,11 @@ course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 CORS(course_blp)
 
-@course_blp.route('/add', methods=['GET', 'POST'])
+
+
+
+
+@course_blp.route('/add', methods=['POST'])
 def add():
     year = "111"
     sms = "2"

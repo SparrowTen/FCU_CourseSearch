@@ -346,7 +346,7 @@
                     <span class="btn-text ">關注</span><br>
                 </button>
                 <button class="btn btn-sm mr-3 btn-primary border-dark add" data-add_scr_selcode="{{d['scr_selcode']}}"
-                    data-add_cls_id="{{d['cls_id']}}">
+                    data-add_cls_id="{{d['cls_id']}}" onclick="add_course('{{d.scr_selcode}}','{{d.cls_id}}')">
                     <span class="btn-text ">加選</span>
                 </button>
             </td>
@@ -369,17 +369,30 @@
 
 
     <script>
-      
-      function focus_course(scr_selcode,cls_id) {
+      function add_course(scr_selcode,cls_id) {
+        
         alert(getCookie("fcu_std_id") + scr_selcode + cls_id);
-        $.post("http://127.0.0.1:8000/API/Course/focus",
+        $.post("http://127.0.0.1:5000/API/Course/add",
         {
           scr_selcode:scr_selcode,
           cls_id:cls_id,
           std_id:getCookie("fcu_std_id")
         },
         function(data,status){
-            alert("数据: \n" + data + "\n状态: " + status);
+            console.log(data);
+        });
+    }
+      
+      function focus_course(scr_selcode,cls_id) {
+        alert(getCookie("fcu_std_id") + scr_selcode + cls_id);
+        $.post("http://127.0.0.1:5000/API/Course/focus",
+        {
+          scr_selcode:scr_selcode,
+          cls_id:cls_id,
+          std_id:getCookie("fcu_std_id")
+        },
+        function(data,status){
+            console.log(data);
         });
     }
 
