@@ -19,4 +19,9 @@ time_line
     { x: "0%", ease: Power2.easeInOut },
     "-=1.2"
   )
-  .fromTo(animation, 0.3, { opacity: 1 }, { opacity: 0 });
+  .fromTo(
+    animation,
+    0.3,
+    { opacity: 1, zIndex: 500 },
+    { opacity: 0, zIndex: -500 }
+  );
