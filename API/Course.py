@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify, redirect, url_for
 from APIDataBase import APIDataBase
+from flask_cors import CORS
 
 course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
+CORS(course_blp)
 
 @course_blp.route('/add', methods=['GET', 'POST'])
 def add():
@@ -1460,4 +1462,5 @@ def getCurriculum():
                 time = int(timeStr.split(')')[1][0:2])
                 currDict[day][time]['focus'].append(classData)
     
+    print(currDict)
     return currDict

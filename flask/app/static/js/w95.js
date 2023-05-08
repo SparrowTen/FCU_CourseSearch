@@ -119,13 +119,19 @@ $(document).ready(function () {
   $(".buttonschedule").click(function () {
     // $(".Schedule").show();
     $(".Schedule").fadeToggle();
-    console.log("show");
-  });
-
-  $(".closeschedule").click(function () {
-    $(".Schedule").fadeOut();
-    // $(".Schedule").hide();
-    console.log("hide");
+    $.get(
+      "http://127.0.0.1:5000/API/Course/getCurriculum?std_id=" +
+        $.cookie("fcu_std_id"),
+      function (data, status) {
+        for (var [day, daysection] of Object.entries(data)) {
+          for (var [section, value] of Object.entries(daysection)) {
+            console.log(section, value["add"]);
+          }
+        }
+        console.log(data);
+      }
+    );
+    console.log("1");
   });
 
   $(".closeschedule").click(function () {
