@@ -156,7 +156,7 @@ if __name__ == "__main__":
             '`degree` INT NOT NULL , ' +
             '`dept_id` VARCHAR(2) NOT NULL ,' +
             '`dept_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY ( `dept_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`degree`, `dept_id`)) ENGINE = InnoDB;')
     db.insertDegreeDeptData(file)
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
@@ -166,7 +166,7 @@ if __name__ == "__main__":
             '`dept_id` VARCHAR(2) NOT NULL , ' +
             '`unit_id` VARCHAR(4) NOT NULL ,' +
             '`unit_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY (`unit_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`dept_id`, `unit_id`)) ENGINE = InnoDB;')
     db.insertDeptUnitData(file)
     
     dir = os.path.dirname(__file__) + "\\data\\id\\json"
@@ -176,7 +176,7 @@ if __name__ == "__main__":
             '`unit_id` VARCHAR(4) NOT NULL ,' +
             '`cls_id` VARCHAR(7) NOT NULL , ' +
             '`cls_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY ( `cls_id`)) ENGINE = InnoDB;')
+            'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
     db.insertUnitClassData(file)
     
     db.closeDB()
