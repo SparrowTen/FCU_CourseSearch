@@ -10,8 +10,12 @@ const time_line = new TimelineMax();
 // parameter4 是控制對象的動畫結束後的狀態
 // parameter5
 time_line
-  .fromTo(hero, 1, { height: "0%" }, { height: "50%", ease: Power2.easeInOut })
-  .fromTo(hero, 1.2, { width: "30%" }, { width: "50%", ease: Power2.easeInOut })
+  .fromTo(
+    hero,
+    1.5,
+    { height: "0vh", width: "0vw" },
+    { height: "40vh", width: "26vw", ease: Power2.easeInOut }
+  )
   .fromTo(
     slider,
     1,

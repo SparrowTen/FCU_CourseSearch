@@ -132,7 +132,7 @@
     </script>
   </head>
 
-  <body class="d-flex flex-column min-vh-100">
+  <body class="d-flex flex-column min-vh-100 ">
     {% with messages = get_flashed_messages(with_categories=true) %} {% if
       messages %} {% for message in messages %}
       <script>
@@ -143,11 +143,11 @@
       {% endfor %} {% endif %} {% endwith %}
 
 
-      <section class="animation-wrapper" style="z-index: 500;">
+      <section class="animation-wrapper bg-secondarya" style="z-index: 500;">
         <section class="animation">
           <div class="hero">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Logo_%281992-2001%29.svg/640px-Windows_Logo_%281992-2001%29.svg.png" alt="math image" 
-            width="200" height="200"/>
+            width="800" height="400" viewBox="0 0 400 200"/>
           </div>
         </section>
         <div class="slider"></div>

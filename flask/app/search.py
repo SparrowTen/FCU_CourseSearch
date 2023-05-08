@@ -17,7 +17,8 @@ def submit():
 # 搜尋結果
 @search_blp.route('/<Classid>')
 def result(Classid):
-    r = requests.get(f"http://localhost:5000/API/getCourse?year=111&sms=2&cls_id={Classid}")
+    r = requests.get(f"http://127.0.0.1:5000/API/getCourse?year=111&sms=2&cls_id={Classid}")
+    print(r.text)
     r = json.loads(r.text)
     return render_template('result.html',data = r)
 
