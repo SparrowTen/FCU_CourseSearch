@@ -90,7 +90,9 @@ def getCurriculum():
     sms = "2"
     std_id = request.values['std_id']
     
-    currDict = {}
+    currDict = {
+        "學號": std_id
+    }
     for i in range(1, 8):
         r = db.execSelect(f"SELECT `curr_id` FROM {year}{sms}_student WHERE `std_id` = \'{std_id}\'")
         curr_id = r[0]['curr_id']
