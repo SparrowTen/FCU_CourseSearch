@@ -134,29 +134,44 @@ $(document).ready(function () {
     console.log("hide");
   });
 
-  // $(".focus").click(function () {
-  //   $.post(
-  //     "http://127.0.0.1:8000/focus",
-  //     {
-  //       select_id: $(".focus").data("focus_select_id"),
-  //       cls_id: $(".focus").data("focus_cls_id"),
-  //     },
-  //     function (data, status) {
-  //       alert(data + status);
-  //     }
-  //   );
-  // });
+  $("div.tg").hide();
+  $("div.result").hide();
 
-  // $(".add").click(function () {
-  //   $.post(
-  //     "http://127.0.0.1:8000/add",
-  //     {
-  //       select_id: $(".add").data("add_select_id"),
-  //       cls_id: $(".add").data("add_cls_id"),
-  //     },
-  //     function (data, status) {
-  //       alert(data + status);
-  //     }
-  //   );
-  // });
+  //remove the "Copying Files ..." window after the user clicks on the "Cancel" button and stop the alert pop up function
+  var i = 0;
+  $("button").on("click", function () {
+    $(".window").fadeOut();
+    an.stop();
+    $("div.result").fadeIn();
+  });
+
+  //automaticaly remove the "Copying Files ..." window after the alert pop up
+  var an = $("div.rect .a").animate({ width: "100%" }, 1000, function () {
+    $(".window").fadeOut();
+    $("div.result").fadeIn();
+  });
+
+  /*change the the pourcentage color from black to white at 50%
+    stop the incrementation when the pourcentage reach 100%
+    */
+  var clr = setInterval(function () {
+    $(".prct").text(i++ + "%");
+    if (i == 50) {
+      $(".prct").css({ color: "white" });
+    }
+
+    if (i == 101) {
+      clearInterval(clr);
+    }
+  }, 10);
+
+  //generates the current time
+  var d = new Date();
+  var mins = ("0" + d.getMinutes()).slice(-2);
+  $("div.time").text(d.getHours() + ":" + mins);
+
+  //show and hide the start menu
+  $("div.wnds").on("click", function () {
+    $("div.tg").fadeToggle(50);
+  });
 });
