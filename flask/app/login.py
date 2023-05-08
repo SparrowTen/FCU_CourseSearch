@@ -34,8 +34,3 @@ def submit():
             res.set_cookie(key = 'fcu_std_id', value = std_id)
             # print('登入成功')
             return res
-
-# 註冊視窗
-@login_blp.route('/register')
-def register():
-    return render_template('register.html')

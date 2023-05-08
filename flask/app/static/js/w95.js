@@ -176,8 +176,9 @@ $(document).ready(function () {
   });
 
   var count = 1;
-  $("#degree-list").on("change", function () {
-    $("#degree-list option:selected").each(function () {
+  $("#std_degree").on("change", function () {
+    count = 1;
+    $("#std_degree option:selected").each(function () {
       // console.log($(this).val());
       $.get(
         "http://127.0.0.1:5000/API/Id/getDept?degree=" + $(this).val(),
@@ -193,20 +194,20 @@ $(document).ready(function () {
               data[d].dept_name +
               "</option>";
           }
-          $("#college-list").html(list);
+          $("#std_dept").html(list);
           count++;
         }
       );
     });
   });
 
-  $("#college-list").on("change", function () {
+  $("#std_dept").on("change", function () {
     if (count != 2) {
       window.location.reload();
       count = 1;
     }
-    $("#college-list option:selected").each(function () {
-      console.log($(this).val());
+    $("#std_dept option:selected").each(function () {
+      // console.log($(this).val());
       $.get(
         "http://127.0.0.1:5000/API/Id/getUnit?dept_id=" + $(this).val(),
         function (data, status) {
@@ -221,20 +222,20 @@ $(document).ready(function () {
               data[d].unit_name +
               "</option>";
           }
-          $("#dept-list").html(list);
+          $("#std_unit").html(list);
           count++;
         }
       );
     });
   });
 
-  $("#dept-list").on("change", function () {
+  $("#std_unit").on("change", function () {
     if (count != 3) {
       window.location.reload();
       count = 1;
     }
-    $("#dept-list option:selected").each(function () {
-      console.log($(this).val());
+    $("#std_unit option:selected").each(function () {
+      // console.log($(this).val());
       $.get(
         "http://127.0.0.1:5000/API/Id/getClass?unit_id=" + $(this).val(),
         function (data, status) {
@@ -249,7 +250,7 @@ $(document).ready(function () {
               data[d].cls_name +
               "</option>";
           }
-          $("#cls-list").html(list);
+          $("#std_cls").html(list);
         }
       );
     });

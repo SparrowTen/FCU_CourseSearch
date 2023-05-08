@@ -3,6 +3,7 @@ from flask_cors import CORS,cross_origin
 from search import search_blp
 from login import login_blp
 from course import course_blp
+from register import register_blp
 
 app = Flask(__name__)
 CORS(app)
@@ -11,6 +12,7 @@ app.config['SECRET_KEY'] = 'sparrow10testkey'
 app.register_blueprint(search_blp, url_prefix = '/search')
 app.register_blueprint(login_blp, url_prefix = '/login')
 app.register_blueprint(course_blp, url_prefix = '/course')
+app.register_blueprint(register_blp, url_prefix = '/register')
 
 @app.route('/')
 def index():
