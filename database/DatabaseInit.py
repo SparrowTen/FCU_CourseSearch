@@ -101,7 +101,7 @@ if __name__ == "__main__":
                     '`std_degree` INT NOT NULL , ' +
                     '`std_dept` VARCHAR(2) NOT NULL , ' +
                     '`std_unit` VARCHAR(4) NOT NULL , ' +
-                    '`std_class` VARCHAR(7) NOT NULL , ' +
+                    '`std_cls` VARCHAR(7) NOT NULL , ' +
                     '`curr_id` INT NOT NULL , ' +
                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
         db.exec(sql)
