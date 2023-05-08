@@ -38,34 +38,41 @@ class DatabaseInit:
                                 'VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s);'
                                 , (scr_selcode, sub_id3, sub_name, scr_credit, scj_scr_mso, scr_period, scr_precnt, scr_acptcnt, cls_id))
         self.conn.commit()
-    
-    def insertClsData(self, json_file):
-        clsList = json_file
-        for cls in clsList.keys():
-            # print(clsList[cls], cls)
-            self.cursor.execute('REPLACE INTO `fcu`.`class_id` ('+
-                                '`cls_id`, `cls_name`) ' +
-                                'VALUES (%s, %s);'
-                                , (clsList[cls], cls))
+        
+    def insertDegreeDeptData(self, json_file):
+        degreeDeptList = json_file
+        for degree in degreeDeptList.keys():
+            for dept_name in degreeDeptList[degree].keys():
+                self.cursor.execute('REPLACE INTO `fcu`.`degree_dept` ('+
+                                    '`degree` , ' +
+                                    '`dept_name` , ' +
+                                    '`dept_id`) ' +
+                                    'VALUES (%s, %s, %s);'
+                                    , (degree, dept_name, degreeDeptList[degree][dept_name]))
         self.conn.commit()
     
-    def insertDeptData(self, json_file):
-        deptList = json_file
-        for dept in deptList.keys():
-            self.cursor.execute('REPLACE INTO `fcu`.`dept_id` ('+
-                                '`dept_id`, `dept_name`) ' +
-                                'VALUES (%s, %s);'
-                                , (deptList[dept], dept))
+    def insertDeptUnitData(self, json_file):
+        deptUnitList = json_file
+        for dept_id in deptUnitList.keys():
+            for unit_name in deptUnitList[dept_id].keys():
+                self.cursor.execute('REPLACE INTO `fcu`.`dept_unit` ('+
+                                    '`dept_id` , ' +
+                                    '`unit_name` , ' +
+                                    '`unit_id`) ' +
+                                    'VALUES (%s, %s, %s);'
+                                    , (dept_id, unit_name, deptUnitList[dept_id][unit_name]))
         self.conn.commit()
     
-    def insertUnitData(self, json_file):
-        unitList = json_file
-        for unit in unitList.keys():
-            # print(unit, unitList[unit])
-            self.cursor.execute('REPLACE INTO `fcu`.`unit_id` ('+
-                                '`unit_id`, `unit_name`) ' +
-                                'VALUES (%s, %s);'
-                                , (unitList[unit], unit))
+    def insertUnitClassData(self, json_file):
+        unitClassList = json_file
+        for unit_id in unitClassList.keys():
+            for class_name in unitClassList[unit_id].keys():
+                self.cursor.execute('REPLACE INTO `fcu`.`unit_class` ('+
+                                    '`unit_id` , ' +
+                                    '`cls_name` , ' +
+                                    '`cls_id`) ' +
+                                    'VALUES (%s, %s, %s);'
+                                    , (unit_id, class_name, unitClassList[unit_id][class_name]))
         self.conn.commit()
     
     def closeDB(self):
@@ -134,41 +141,39 @@ if __name__ == "__main__":
         db.exec(sql)
         db.insertCourseData(year, sms, file)
     
-    
-    # dir = os.path.dirname(__file__) + "\\data\\id\\json\\"
-    # fileList = os.listdir(dir)
-
-    # for file in fileList:
-    #     file_name = file.split('.')[0]
-    #     # print(file_name)
-    #     with open(dir + file, 'r', encoding = 'utf-8') as f:
-    #         file = json.loads(f.read())
-    #     if (file_name == 'class_id'):
-    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-    #                     '`cls_id` VARCHAR(7) NOT NULL , ' +
-    #                     '`cls_name` TEXT NOT NULL , ' +
-    #                     'PRIMARY KEY (`cls_id`)) ENGINE = InnoDB;')
-    #     if (file_name == 'dept_id'):
-    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-    #                     '`dept_id` VARCHAR(2) NOT NULL , ' +
-    #                     '`dept_name` TEXT NOT NULL , ' +
-    #                     'PRIMARY KEY (`dept_id`)) ENGINE = InnoDB;')
-    #     if (file_name == 'unit_id'):
-    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{file_name}` (' +
-    #                     '`unit_id` VARCHAR(2) NOT NULL , ' +
-    #                     '`unit_name` TEXT NOT NULL , ' +
-    #                     'PRIMARY KEY (`unit_id`)) ENGINE = InnoDB;')
-    #     db.exec(sql)
-    #     if (file_name == 'class_id'):
-    #         db.insertClsData(file)
-    #     if (file_name == 'dept_id'):
-    #         db.insertDeptData(file)
-    #     if (file_name == 'unit_id'):
-    #         db.insertUnitData(file)
-    
     db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
             '`std_id` VARCHAR(8) NOT NULL , ' +
             '`pwd` VARCHAR(32) NOT NULL , ' +
             'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
+    
+    dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    with open(dir + "\\degree_dept.json", 'r', encoding = 'utf-8') as f:
+        file = json.loads(f.read())
+    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`degree_dept` (' +
+            '`degree` INT NOT NULL , ' +
+            '`dept_id` VARCHAR(2) NOT NULL ,' +
+            '`dept_name` TEXT NOT NULL , ' +
+            'PRIMARY KEY (`degree`, `dept_id`)) ENGINE = InnoDB;')
+    db.insertDegreeDeptData(file)
+    
+    dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    with open(dir + "\\dept_unit.json", 'r', encoding = 'utf-8') as f:
+        file = json.loads(f.read())
+    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`dept_unit` (' +
+            '`dept_id` VARCHAR(2) NOT NULL , ' +
+            '`unit_id` VARCHAR(4) NOT NULL ,' +
+            '`unit_name` TEXT NOT NULL , ' +
+            'PRIMARY KEY (`dept_id`, `unit_id`)) ENGINE = InnoDB;')
+    db.insertDeptUnitData(file)
+    
+    dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    with open(dir + "\\unit_class.json", 'r', encoding = 'utf-8') as f:
+        file = json.loads(f.read())
+    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`unit_class` (' +
+            '`unit_id` VARCHAR(4) NOT NULL ,' +
+            '`cls_id` VARCHAR(7) NOT NULL , ' +
+            '`cls_name` TEXT NOT NULL , ' +
+            'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
+    db.insertUnitClassData(file)
     
     db.closeDB()
