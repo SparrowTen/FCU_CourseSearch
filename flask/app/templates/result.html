@@ -159,7 +159,7 @@
           <button
             class="btn mr-2 mb-2 btn-danger pt-0 pb-0 pr-1 pl-1 closeschedule"
             type="button"
-            style="position: absolute; right: 0"
+            style="position: absolute; right: 0; margin: 0;"
           >
             <span class="btn-text">X</span>
           </button>
@@ -358,78 +358,11 @@
       </div>
     </div>
 
-    <footer class="bg-info text-center text-lg-start fixed-bottom">
-      <!-- Grid container -->
-      <!-- Grid container -->
-
-      <!-- Copyright -->
-      <footer>
-        <nav
-          id="navbar-footer"
-          class="navbar navbar-main navbar-expand-lg navbar-dark justify-content-between navbar-footer mt-auto"
-          style="margin-top: auto"
-        >
-          <ul class="navbar-nav navbar-nav-hover flex-row align-items-center">
-            <li class="nav-item">
-              <a href="login.html" class="nav-link" role="button">
-                <span class="nav-link-inner-text">Login</span>
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a href="register.html" class="nav-link" role="button">
-                <span class="nav-link-inner-text">Register</span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link buttonschedule"
-                role="button"
-                data-bs-toggle="offcanvas"
-                data-bs-target="#offcanvasBottom"
-                aria-controls="offcanvasBottom"
-              >
-                <span class="nav-link-inner-text buttonschedule">Schedule</span>
-              </a>
-            </li>
-          </ul>
-          <div class="time text-center">
-            <span class="time text-uppercase">1:47 PM</span>
-          </div>
-        </nav>
-      </footer>
-      <!-- Copyright -->
-    </footer>
-    <script>
-        function focus_course(selcode,cid){
-            console.log(selcode,cid);
-            $.post(
-                "http://127.0.0.1:8000/course/focus",
-            {
-                select_id: selcode,
-                cls_id: cid,
-            },
-            function (data, status) {
-                alert(data + status);
-            }
-        );
-        }
-
-        function add_course(selcode,cid) {
-            console.log(selcode,cid);
-            $.post(
-                "http://127.0.0.1:8000/course/add",
-            {
-                select_id: selcode,
-                cls_id: cid,
-            },
-            function (data, status) {
-                alert(data + status);
-            }
-        );
-    }
-
-    </script>
+    {%if login%}
+    {% include 'footerlogin.html' %}
+    {%else%}
+    {% include 'footernologin.html' %}
+    {%endif%}
 
     <!-- Core -->
     <!-- <script src="node_modules/popper.js/dist/umd/popper.min.js"></script> -->

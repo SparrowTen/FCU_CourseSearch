@@ -3,7 +3,7 @@ from flask import Flask
 from getCourse import getCourse_blp
 from Id import id_blp
 from Course import course_blp
-from Login import login_blp
+from login import login_blp
 
 app = Flask(__name__)
 

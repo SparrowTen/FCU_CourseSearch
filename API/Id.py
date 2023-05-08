@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify
 from APIDataBase import APIDataBase
+from flask_cors import CORS
 
 id_blp = Blueprint('getIdList', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
+CORS(id_blp)
 
 @id_blp.route('/getDept', methods=['GET'])
 def getDept():
