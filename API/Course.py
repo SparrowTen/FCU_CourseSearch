@@ -1530,5 +1530,4 @@ def getCurriculum():
                 time = int(timeStr.split(')')[1][0:2])
                 currDict[day][time]['focus'].append(classData)
     
-    print(currDict)
     return currDict
