@@ -6,10 +6,6 @@ course_blp = Blueprint('Course', __name__)
 db = APIDataBase('localhost', 3306, 'root', 'fcu')
 CORS(course_blp)
 
-
-
-
-
 @course_blp.route('/add', methods=['POST'])
 def add():
     year = "111"
@@ -41,10 +37,12 @@ def add():
     # 判斷是否學制是否符合
     r = db.execSelect(f"SELECT `unit_id` FROM `unit_class` WHERE `cls_id` = \'{cls_id}\'")
     unit_id = r[0]['unit_id']
-    r = db.execSelect(f"SELECT `degree` FROM `dept_unit` WHERE `unit_id` = \'{unit_id}\'")
+    r = db.execSelect(f"SELECT `dept_id` FROM `dept_unit` WHERE `unit_id` = \'{unit_id}\'")
+    dept_id = r[0]['dept_id']
+    r = db.execSelect(f"SELECT `degree` FROM `degree_dept` WHERE `dept_id` = \'{dept_id}\'")
     degree = r[0]['degree']
-    r = db.execSelect(f"SELECT `degree` FROM `student` WHERE `std_id` = \'{std_id}\'")
-    if degree != r[0]['degree']:
+    r = db.execSelect(f"SELECT `std_degree` FROM `{year}{sms}_student` WHERE `std_id` = \'{std_id}\'")
+    if degree != r[0]['std_degree']:
         return jsonify({'error': '學制不符'})
     
     # 判斷學分數是否超過上限
@@ -476,9 +474,9 @@ def add():
     }
     
     for cls in r:
-        scr_selcode = cls['scr_selcode']
-        cls_id = cls['cls_id']
-        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        t_scr_selcode = cls['scr_selcode']
+        t_cls_id = cls['cls_id']
+        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{t_scr_selcode}\' AND `cls_id` = \'{t_cls_id}\'")
         scr_period = r[0]['scr_period']
         
         # 取得星期幾
@@ -920,9 +918,9 @@ def add():
     }
     
     for cls in r:
-        scr_selcode = cls['scr_selcode']
-        cls_id = cls['cls_id']
-        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        t_scr_selcode = cls['scr_selcode']
+        t_cls_id = cls['cls_id']
+        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{t_scr_selcode}\' AND `cls_id` = \'{t_cls_id}\'")
         scr_period = r[0]['scr_period']
         
         # 取得星期幾
@@ -949,9 +947,14 @@ def add():
                 time = int(timeStr.split(')')[1][0:2])
                 add_currDict[day][time]['add'].append("t")
     
+    # print(selected_currDict)
+    # print(add_currDict)
+    
+    
     # 判斷是否有課程衝堂
     for day in add_currDict:
         for time in range(1, 15):
+            # print(len(add_currDict[day][time]['add']), len(selected_currDict[day][time]['add']))
             if len(add_currDict[day][time]['add']) != 0:
                 if len(selected_currDict[day][time]['add']) != 0:
                     return jsonify({'error': '課程衝堂'})
