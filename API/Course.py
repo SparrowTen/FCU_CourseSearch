@@ -1507,7 +1507,8 @@ def getCurriculum():
     for cls in r:
         scr_selcode = cls['scr_selcode']
         cls_id = cls['cls_id']
-        r = db.execSelect(f"SELECT `scr_period` FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        r = db.execSelect(f"SELECT * FROM `{year}{sms}_course` WHERE `scr_selcode` = \'{scr_selcode}\' AND `cls_id` = \'{cls_id}\'")
+        classData = r[0]
         scr_period = r[0]['scr_period']
         
         # 取得星期幾

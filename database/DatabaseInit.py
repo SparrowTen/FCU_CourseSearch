@@ -76,8 +76,6 @@ class DatabaseInit:
         self.conn.commit()
     
     def insertPreCourseData(self, year, sms, json_file):
-        year = "111"
-        sms = "2"
         preCourseList = json_file
         for course in preCourseList:
             scr_selcode = course['scr_selcode']
@@ -100,113 +98,115 @@ class DatabaseInit:
         self.conn.close()
         
 if __name__ == "__main__":
-    year = "111"
-    dir = os.path.dirname(__file__) + "\\data\\course\\" + year + "\\"
-    fileList = os.listdir(dir)
-    
+    # years = ["111", "110", "109", "108", "107", "106", "105", "104", "103", "102", "101", "100"]
+    years = ["111", "110", "109", "108"]
     db = DatabaseInit()
     db.connDB()
+    # for year in years:
+    #     dir = os.path.dirname(__file__) + "\\data\\course\\" + year + "\\"
+    #     fileList = os.listdir(dir)
+        
+        
+    #     for file in fileList:
+    #         sms = file[3]
+    #         if sms == '1':
+    #             continue
+    #         with open(dir + file, 'r', encoding = 'utf-8') as f:
+    #             file = json.loads(f.read())
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_course` (' +
+    #                     '`scr_selcode` VARCHAR(8) NOT NULL , ' +
+    #                     '`sub_id3` VARCHAR(10) NOT NULL , ' +
+    #                     '`sub_name` TEXT NOT NULL , ' +
+    #                     '`scr_credit` INT NOT NULL , ' +
+    #                     '`scj_scr_mso` VARCHAR(2) NOT NULL , ' +
+    #                     '`scr_period` TEXT NOT NULL , ' +
+    #                     '`scr_precnt` INT NOT NULL , ' +
+    #                     '`scr_acptcnt` INT NOT NULL , ' +
+    #                     '`cls_id` VARCHAR(8) NOT NULL , ' +
+    #                     'PRIMARY KEY (`scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
+    #         db.exec(sql)
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_student` (' +
+    #                     '`std_id` VARCHAR(8) NOT NULL , ' +
+    #                     '`std_name` TEXT NOT NULL , ' +
+    #                     '`std_degree` INT NOT NULL , ' +
+    #                     '`std_dept` VARCHAR(2) NOT NULL , ' +
+    #                     '`std_unit` VARCHAR(4) NOT NULL , ' +
+    #                     '`std_cls` VARCHAR(7) NOT NULL , ' +
+    #                     # '`std_credit` INT NOT NULL , ' +
+    #                     # '`curr_id` INT NOT NULL , ' +
+    #                     'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
+    #         db.exec(sql)
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
+    #                 '`selected_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
+    #                 '`std_id` VARCHAR(8) NOT NULL , ' + 
+    #                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
+    #                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
+    #                 '`scr_credit` INT NOT NULL , ' + 
+    #                 'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
+    #         db.exec(sql)
+    #         sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
+    #                 '`focused_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
+    #                 '`std_id` VARCHAR(8) NOT NULL , ' + 
+    #                 '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
+    #                 '`cls_id` VARCHAR(8) NOT NULL , ' + 
+    #                 '`scr_credit` INT NOT NULL , ' + 
+    #                 'PRIMARY KEY (`focused_id`)) ENGINE = InnoDB;')
+    #         db.exec(sql)
+    #         db.insertCourseData(year, sms, file)
+        
+    #     db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
+    #             '`account_id` INT(8) NOT NULL AUTO_INCREMENT, ' +
+    #             '`std_id` VARCHAR(8) NOT NULL , ' +
+    #             '`pwd` VARCHAR(32) NOT NULL , ' +
+    #             'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
     
-    for file in fileList:
-        sms = file[3]
-        if sms == '1':
-            continue
-        with open(dir + file, 'r', encoding = 'utf-8') as f:
-            file = json.loads(f.read())
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_course` (' +
-                    '`scr_selcode` VARCHAR(8) NOT NULL , ' +
-                    '`sub_id3` VARCHAR(10) NOT NULL , ' +
-                    '`sub_name` TEXT NOT NULL , ' +
-                    '`scr_credit` INT NOT NULL , ' +
-                    '`scj_scr_mso` VARCHAR(2) NOT NULL , ' +
-                    '`scr_period` TEXT NOT NULL , ' +
-                    '`scr_precnt` INT NOT NULL , ' +
-                    '`scr_acptcnt` INT NOT NULL , ' +
-                    '`cls_id` VARCHAR(8) NOT NULL , ' +
-                    'PRIMARY KEY (`scr_selcode`, `cls_id`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_student` (' +
-                    '`std_id` VARCHAR(8) NOT NULL , ' +
-                    '`std_name` TEXT NOT NULL , ' +
-                    '`std_degree` INT NOT NULL , ' +
-                    '`std_dept` VARCHAR(2) NOT NULL , ' +
-                    '`std_unit` VARCHAR(4) NOT NULL , ' +
-                    '`std_cls` VARCHAR(7) NOT NULL , ' +
-                    # '`std_credit` INT NOT NULL , ' +
-                    # '`curr_id` INT NOT NULL , ' +
-                    'PRIMARY KEY (`std_id`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_selected` (' +
-                '`selected_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
-                '`std_id` VARCHAR(8) NOT NULL , ' + 
-                '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
-                '`cls_id` VARCHAR(8) NOT NULL , ' + 
-                '`scr_credit` INT NOT NULL , ' + 
-                'PRIMARY KEY (`selected_id`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_focused` (' +
-                '`focused_id` INT(8) NOT NULL AUTO_INCREMENT, ' + 
-                '`std_id` VARCHAR(8) NOT NULL , ' + 
-                '`scr_selcode` VARCHAR(8) NOT NULL , ' + 
-                '`cls_id` VARCHAR(8) NOT NULL , ' + 
-                '`scr_credit` INT NOT NULL , ' + 
-                'PRIMARY KEY (`focused_id`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        db.insertCourseData(year, sms, file)
+    # dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    # with open(dir + "\\degree_dept.json", 'r', encoding = 'utf-8') as f:
+    #     file = json.loads(f.read())
+    # db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`degree_dept` (' +
+    #         '`degree` INT NOT NULL , ' +
+    #         '`dept_id` VARCHAR(2) NOT NULL ,' +
+    #         '`dept_name` TEXT NOT NULL , ' +
+    #         'PRIMARY KEY (`degree`, `dept_id`)) ENGINE = InnoDB;')
+    # db.insertDegreeDeptData(file)
     
-    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`Account` (' +
-            '`account_id` INT(8) NOT NULL AUTO_INCREMENT, ' +
-            '`std_id` VARCHAR(8) NOT NULL , ' +
-            '`pwd` VARCHAR(32) NOT NULL , ' +
-            'PRIMARY KEY (`account_id`)) ENGINE = InnoDB;')
+    # dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    # with open(dir + "\\dept_unit.json", 'r', encoding = 'utf-8') as f:
+    #     file = json.loads(f.read())
+    # db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`dept_unit` (' +
+    #         '`dept_id` VARCHAR(2) NOT NULL , ' +
+    #         '`unit_id` VARCHAR(4) NOT NULL ,' +
+    #         '`unit_name` TEXT NOT NULL , ' +
+    #         'PRIMARY KEY (`dept_id`, `unit_id`)) ENGINE = InnoDB;')
+    # db.insertDeptUnitData(file)
     
-    dir = os.path.dirname(__file__) + "\\data\\id\\json"
-    with open(dir + "\\degree_dept.json", 'r', encoding = 'utf-8') as f:
-        file = json.loads(f.read())
-    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`degree_dept` (' +
-            '`degree` INT NOT NULL , ' +
-            '`dept_id` VARCHAR(2) NOT NULL ,' +
-            '`dept_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY (`degree`, `dept_id`)) ENGINE = InnoDB;')
-    db.insertDegreeDeptData(file)
+    # dir = os.path.dirname(__file__) + "\\data\\id\\json"
+    # with open(dir + "\\unit_class.json", 'r', encoding = 'utf-8') as f:
+    #     file = json.loads(f.read())
+    # db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`unit_class` (' +
+    #         '`unit_id` VARCHAR(4) NOT NULL ,' +
+    #         '`cls_id` VARCHAR(7) NOT NULL , ' +
+    #         '`cls_name` TEXT NOT NULL , ' +
+    #         'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
+    # db.insertUnitClassData(file)
     
-    dir = os.path.dirname(__file__) + "\\data\\id\\json"
-    with open(dir + "\\dept_unit.json", 'r', encoding = 'utf-8') as f:
-        file = json.loads(f.read())
-    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`dept_unit` (' +
-            '`dept_id` VARCHAR(2) NOT NULL , ' +
-            '`unit_id` VARCHAR(4) NOT NULL ,' +
-            '`unit_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY (`dept_id`, `unit_id`)) ENGINE = InnoDB;')
-    db.insertDeptUnitData(file)
-    
-    dir = os.path.dirname(__file__) + "\\data\\id\\json"
-    with open(dir + "\\unit_class.json", 'r', encoding = 'utf-8') as f:
-        file = json.loads(f.read())
-    db.exec('CREATE TABLE IF NOT EXISTS `fcu`.`unit_class` (' +
-            '`unit_id` VARCHAR(4) NOT NULL ,' +
-            '`cls_id` VARCHAR(7) NOT NULL , ' +
-            '`cls_name` TEXT NOT NULL , ' +
-            'PRIMARY KEY (`unit_id`, `cls_id`)) ENGINE = InnoDB;')
-    db.insertUnitClassData(file)
-    
-    
-    dir = os.path.dirname(__file__) + "\\data\\courseInfo\\111\\"
-    fileList = os.listdir(dir)
-    for file in fileList:
-        sms = file[3]
-        if sms == '1':
-            continue
-        with open(dir + file, 'r', encoding = 'utf-8') as f:
-            file = json.loads(f.read())
-        sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_precourse` (' +
-                    '`scr_selcode` VARCHAR(8) NOT NULL , ' +
-                    '`cls_id` VARCHAR(8) NOT NULL , ' +
-                    '`pre_subid3` VARCHAR(10) NOT NULL , ' +
-                    '`pre_sub_name` TEXT NOT NULL , ' +
-                    '`pre_describe` TEXT , ' +
-                    'PRIMARY KEY (`scr_selcode`, `cls_id`, `pre_subid3`)) ENGINE = InnoDB;')
-        db.exec(sql)
-        db.insertPreCourseData(year, sms, file)
-    
+    for year in years:
+        dir = os.path.dirname(__file__) + "\\data\\courseInfo\\111\\"
+        fileList = os.listdir(dir)
+        for file in fileList:
+            sms = file[3]
+            # if sms == '1':
+            #     continue
+            with open(dir + file, 'r', encoding = 'utf-8') as f:
+                file = json.loads(f.read())
+            sql = (f'CREATE TABLE IF NOT EXISTS `fcu`.`{year}{sms}_precourse` (' +
+                        '`scr_selcode` VARCHAR(8) NOT NULL , ' +
+                        '`cls_id` VARCHAR(8) NOT NULL , ' +
+                        '`pre_subid3` VARCHAR(10) NOT NULL , ' +
+                        '`pre_sub_name` TEXT NOT NULL , ' +
+                        '`pre_describe` TEXT , ' +
+                        'PRIMARY KEY (`scr_selcode`, `cls_id`, `pre_subid3`)) ENGINE = InnoDB;')
+            db.exec(sql)
+            db.insertPreCourseData(year, sms, file)
+        
     db.closeDB()
